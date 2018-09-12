@@ -32,26 +32,20 @@ def calculateBMI (unit,height,weight):
 
     if bmiValue < 16:
         bmiCategory = 'Severe Thinness'
-    elif 16 <= bmiValue < 17:
+    elif bmiValue < 17:
         bmiCategory = 'Moderate Thinness'
-    elif 17 <= bmiValue < 18.5:
+    elif bmiValue < 18.5:
         bmiCategory = 'Mild Thinness'
-    elif 18.5 <= bmiValue < 25:
+    elif bmiValue < 25:
         bmiCategory = 'Normal'
-    elif 25 <= bmiValue < 30:
+    elif bmiValue < 30:
         bmiCategory = 'Overweight'
-    elif 30 <= bmiValue < 35:
+    elif bmiValue < 35:
         bmiCategory = 'Obese Class I'
-    elif 35 <= bmiValue < 40:
+    elif bmiValue < 40:
         bmiCategory = 'Obese Class II'
     elif bmiValue >= 40:
         bmiCategory = 'Obese Class III'
     return('%0.2f\t%s' % (bmiValue, bmiCategory))
 
 print calculateBMI(unitType,userHeight,userWeight)
-
-#userFinalBMI = calculateBMI(unitType,userHeight,userWeight)
-#if unitType == 'metric':
- #   print "BMI Calculator", "Do you wish to enter metric units or imperial units:", unitType, "Please enter your height input meters (decimals)",userHeight,"Please enter your weight input kg:",userWeight,userFinalBMI
-#elif unitType == "imperial":
-#    print "BMI Calculator", "Do you wish to enter metric units or imperial units:", unitType, "Please enter your height input inputches (whole number)", userHeight, "Please enter your weight input pounds (whole number):", userWeight, userFinalBMI
