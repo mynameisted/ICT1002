@@ -29,20 +29,19 @@ def calculateBMI (unit,height,weight):
         bmiValue = weight / height / height
     elif unit == "imperial":
         bmiValue = (weight / height / height) * 703
-
     if bmiValue < 16:
         bmiCategory = 'Severe Thinness'
-    elif bmiValue < 17:
+    elif 16 <= bmiValue < 17:
         bmiCategory = 'Moderate Thinness'
-    elif bmiValue < 18.5:
+    elif 17 <= bmiValue < 18.5:
         bmiCategory = 'Mild Thinness'
-    elif bmiValue < 25:
+    elif 18.5 <= bmiValue < 25:
         bmiCategory = 'Normal'
-    elif bmiValue < 30:
+    elif 25 <= bmiValue < 30:
         bmiCategory = 'Overweight'
-    elif bmiValue < 35:
+    elif 30 <= bmiValue < 35:
         bmiCategory = 'Obese Class I'
-    elif bmiValue < 40:
+    elif 35 <= bmiValue < 40:
         bmiCategory = 'Obese Class II'
     elif bmiValue >= 40:
         bmiCategory = 'Obese Class III'
