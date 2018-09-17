@@ -2,7 +2,7 @@ import sys
 
 try:
     if len(sys.argv) != 4:
-        print("Invalid number of arguments.\nUsage: calculator.py [value1] [value2] [value3]")
+        print("Invalid number of arguments.\nUsage: averagecalculator.py [value1] [value2] [value3]")
         sys.exit()
     a = float(sys.argv[1])
     b = float(sys.argv[2])
