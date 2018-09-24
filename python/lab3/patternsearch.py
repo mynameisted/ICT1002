@@ -8,7 +8,6 @@ def countPattern(candidate, pattern):
 			matchCount +=1
 	return(matchCount)
 
-
 try:
     #Check valid number of arguments
     if len(sys.argv) != 3:
