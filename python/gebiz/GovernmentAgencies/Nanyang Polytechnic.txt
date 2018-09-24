@@ -1,0 +1,351 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+NYP000ETT14000046,2015-02-11,"Supply, Delivery, Installation and Commissioning of New Modular Automation System Training Workstations and Accessories",Nanyang Polytechnic,249790,Awarded to Suppliers,FESTO PRIVATE LIMITED
+NYP000ETT14000053,2015-02-26,"Supply, Delivery, Installation and Commissioning of Info.Port System",Nanyang Polytechnic,330147,Awarded to Suppliers,SPECTRUM AUDIO VISUAL PTE. LTD.
+NYP000ETT14000054,2015-03-10,Refurbishment of Nanyang Polytechnic Apartment Units at Block 170,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,FISHER SCIENTIFIC PTE LTD
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,LIFE TECHNOLOGIES HOLDINGS PTE. LTD.
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,MERCK PTE. LTD.
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,MP BIOMEDICALS ASIA PACIFIC PTE. LTD.
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,PRACTICAL MEDISCIENCE PTE LTD
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,SPD SCIENTIFIC PTE LTD
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,THERMO SCIENTIFIC MICROBIOLOGY PTE. LTD.
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,Tritech Scientific Pte Ltd
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,United Scientific Equipment Pte Ltd
+NYP000ETT14000055,2015-03-02,Term Contract for the Supply and Delivery of Laboratory Chemicals & Supplies,Nanyang Polytechnic,60000,Awarded to Suppliers,VWR SINGAPORE PTE. LTD.
+NYP000ETT14000057,2015-01-29,Delivery of Character Development Module: Pillars of Life,Nanyang Polytechnic,142800,Awarded to Suppliers,OIA PTE LTD
+NYP000ETT14000058,2015-04-02,"Leasing and Supply, Delivery, Installation and Commissioning of Fitness Equipment at New Student Gym",Nanyang Polytechnic,260000,Awarded to Suppliers,F1 RECREATION PTE. LTD.
+NYP000ETT14000059,2015-02-02,Delivery of Academic Modules (Achieving Success in work & Life and Effective Communications for Better Relationship),Nanyang Polytechnic,118400,Awarded to Suppliers,LIFEMAGIC WORKS LLP
+NYP000ETT14000059,2015-02-02,Delivery of Academic Modules (Achieving Success in work & Life and Effective Communications for Better Relationship),Nanyang Polytechnic,49600,Awarded to Suppliers,Trust Management Centre
+NYP000ETT14000060,2015-02-25,"Supply, Delivery, Installation and Commissioning of 5 units of 3-Axis CNC Lathes and 1 unit of 4-Axis CNC Lathe and Peripherals",Nanyang Polytechnic,908100,Awarded to Suppliers,DMG MORI SINGAPORE PTE. LTD.
+NYP000ETT14000061,2015-04-09,"Supply, Delivery, Installation and Commissioning of 1 Unit CNC Coordinate Measuring Machine and Peripherals",Nanyang Polytechnic,430000,Awarded to Suppliers,CARL ZEISS PTE. LTD.
+NYP000ETT14000062,2015-04-21,"Supply, Delivery, Installation, Testing and Commissioning of High Definition Multi-Cam Production Training Studio Facilities",Nanyang Polytechnic,1004520,Awarded to Suppliers,AVLITE PTE. LTD.
+NYP000ETT14000062,2015-04-21,"Supply, Delivery, Installation, Testing and Commissioning of High Definition Multi-Cam Production Training Studio Facilities",Nanyang Polytechnic,938230,Awarded to Suppliers,ECAST TECHNOLOGIES PTE LTD
+NYP000ETT14000063,2015-04-02,Design and Build of A Lifestyle Retail Concept Store and Furnishing of Telco & Gadget Store Storage Room,Nanyang Polytechnic,334173,Awarded to Suppliers,Image Creative Design Pte Ltd
+NYP000ETT14000064,2015-03-09,"Supply, Delivery, Installation and Commissioning of Permanent Measurement and Verification (M&V) Instrumentation for Central Chiller Plant",Nanyang Polytechnic,410000,Awarded to Suppliers,CNA GROUP LTD.
+NYP000ETT14000066,2015-07-01,"SUPPLY, DELIVERY, INSTALLATION AND COMMISSIONING OF AN INTEGRATED CUSTOMER EXPERIENCE MANAGEMENT SYSTEM FOR ONE-STOP SERVICE CENTRE",Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT15000001,2015-05-08,"Design, Supply, Installation and Maintenance of QR Code Readers",Nanyang Polytechnic,66673.5,Awarded to Suppliers,APHESYS NETWORKS PTE. LTD.
+NYP000ETT15000004,2015-06-29,"Supply, Delivery, Installation and Commissioning of Dual Source X-Ray 3D Computed Tomography Scanning System",Nanyang Polytechnic,1805626.5,Awarded to Suppliers,Intec Precision Equipment Pte Ltd
+NYP000ETT15000005,2015-07-03,Renovation Works to Meeting Room S120M,Nanyang Polytechnic,52970,Awarded to Suppliers,Binjai Interior Design Pte Ltd
+NYP000ETT15000006,2015-05-18,Term Contract for Fabrication Works for a Period of One Year,Nanyang Polytechnic,100000,Awarded to Suppliers,BUILD-UP MOULDING & MACHINING
+NYP000ETT15000006,2015-05-18,Term Contract for Fabrication Works for a Period of One Year,Nanyang Polytechnic,100000,Awarded to Suppliers,CNT TECHNOLOGY
+NYP000ETT15000006,2015-05-18,Term Contract for Fabrication Works for a Period of One Year,Nanyang Polytechnic,100000,Awarded to Suppliers,Effective Engineering Pte Ltd
+NYP000ETT15000006,2015-05-18,Term Contract for Fabrication Works for a Period of One Year,Nanyang Polytechnic,100000,Awarded to Suppliers,STARLIGHT TOOL PRECISION ENGINEERING
+NYP000ETT15000007,2015-03-30,Group Hospitalisation and Surgical Insurance For Students,Nanyang Polytechnic,72200,Awarded to Suppliers,AXA INSURANCE SINGAPORE PTE LTD
+NYP000ETT15000009,2015-06-11,Replacement of Air Handling Units Air Conditioning System Equipment,Nanyang Polytechnic,1327700,Awarded to Suppliers,SUPERSONIC AIR CONDITIONING & ELECTRICAL ENGINEERING PTE LTD
+NYP000ETT15000010,2015-04-30,"Supply, Delivery, Installation and Commissioning of Lectern Tables and Audio Visual (AV) System at 14 Lecture Rooms",Nanyang Polytechnic,178892,Awarded to Suppliers,MEDIATECHNIC SOLUTIONS PTE. LTD.
+NYP000ETT15000011,2015-05-12,Provision of Network Operations Support Services,Nanyang Polytechnic,608400,Awarded to Suppliers,3D NETWORKS SINGAPORE PTE. LTD.
+NYP000ETT15000012,2015-08-26,Setting Up of Pharmaceutical Sciences Teaching Laboratory and Upgrading of Pharmacy Training Centre,Nanyang Polytechnic,360000,Awarded to Suppliers,AZIL ENGINEERS PTE. LTD.
+NYP000ETT15000012,2015-08-26,Setting Up of Pharmaceutical Sciences Teaching Laboratory and Upgrading of Pharmacy Training Centre,Nanyang Polytechnic,119357,Awarded to Suppliers,Agilent Technologies Singapore (Sales) Pte Ltd
+NYP000ETT15000013,2015-06-04,"Design and Build of Media Hub, Reception Room and Green Room at Block D1, Nanyang Polytechnic",Nanyang Polytechnic,35500,Awarded to Suppliers,Binjai Interior Design Pte Ltd
+NYP000ETT15000013,2015-06-04,"Design and Build of Media Hub, Reception Room and Green Room at Block D1, Nanyang Polytechnic",Nanyang Polytechnic,136220,Awarded to Suppliers,INFINITY DESIGN AND ENGINEERING PTE. LTD.
+NYP000ETT15000014,2015-07-13,"Supply, Delivery, Installation and Commissioning of 1 unit of Multi-Colour Multi-Material Additive Manufacturing System and 1 unit of Metal Laser Sintering Additive Manufacturing System and their Accessories",Nanyang Polytechnic,702382,Awarded to Suppliers,CREATZ3D PTE. LTD.
+NYP000ETT15000014,2015-07-13,"Supply, Delivery, Installation and Commissioning of 1 unit of Multi-Colour Multi-Material Additive Manufacturing System and 1 unit of Metal Laser Sintering Additive Manufacturing System and their Accessories",Nanyang Polytechnic,1024981.81,Awarded to Suppliers,EOS GMBH ELECTRO OPTICAL SYSTEMS
+NYP000ETT15000015,2015-05-13,Integrated Publicity Campaign to Promote Engineering at the Polytechnics,Nanyang Polytechnic,153805.7,Awarded to Suppliers,MAXIMUM EMPLOYMENT MARKETING GROUP SINGAPORE PTE. LTD.
+NYP000ETT15000016,2015-04-29,Production of NYP Publications,Nanyang Polytechnic,184792,Awarded to Suppliers,NEWBASE CONTENT PTE. LTD.
+NYP000ETT15000017,2015-06-17,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,240000,Awarded to Suppliers,AMICUS ENGINEERING PTE LTD
+NYP000ETT15000017,2015-06-17,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,240000,Awarded to Suppliers,ELEMENT14 PTE. LTD.
+NYP000ETT15000017,2015-06-17,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,240000,Awarded to Suppliers,RS Components Pte Ltd
+NYP000ETT15000017,2015-06-17,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,240000,Awarded to Suppliers,SUN LIGHT ELECTRONICS PTE LTD
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,7549.5,Awarded to Suppliers,C J MED INTERNATIONAL
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,5832,Awarded to Suppliers,DKSH SINGAPORE PTE. LTD.
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,10183.95,Awarded to Suppliers,GL INTER-AGO PTE. LTD.
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,5820.2,Awarded to Suppliers,IDS MEDICAL SYSTEMS (SINGAPORE) PTE. LTD.
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,85343.5,Awarded to Suppliers,LOZON (S) PTE. LTD.
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,5818.3,Awarded to Suppliers,STERIL MEDICAL PTE LTD
+NYP000ETT15000018,2015-06-24,Term Contract for the Supply and Delivery of Health Sciences Laboratory Consumables,Nanyang Polytechnic,33758,Awarded to Suppliers,YEAP MEDICAL SUPPLIES PTE. LTD.
+NYP000ETT15000019,2015-06-24,"Supply, Delivery, Installation And Commissioning Of One Unit Of Impact Tester For Plastics Materials With Accessories And Peripherals",Nanyang Polytechnic,91494,Awarded to Suppliers,QUANTUM TECHNOLOGIES GLOBAL PTE. LTD.
+NYP000ETT15000020,2015-06-25,Renovation Works and Supply of Furniture to Library Reading Lounge,Nanyang Polytechnic,273846,Awarded to Suppliers,ID.INC INTERIORS PTE LTD
+NYP000ETT15000021,2015-06-04,Review of Polytechnics and ITE Schemes of Service,Nanyang Polytechnic,247800,Awarded to Suppliers,WILLIS TOWERS WATSON CONSULTING (SINGAPORE) PTE. LTD.
+NYP000ETT15000023,2015-07-16,"Supply, Delivery, Installation, Testing and Commissioning of Audio Video Production Equipment for Media Hub",Nanyang Polytechnic,4322,Awarded to Suppliers,BROADCAST ENGINEERING SERVICES PTE LTD
+NYP000ETT15000023,2015-07-16,"Supply, Delivery, Installation, Testing and Commissioning of Audio Video Production Equipment for Media Hub",Nanyang Polytechnic,26696,Awarded to Suppliers,CATHAY PHOTO STORE (PRIVATE) LIMITED
+NYP000ETT15000023,2015-07-16,"Supply, Delivery, Installation, Testing and Commissioning of Audio Video Production Equipment for Media Hub",Nanyang Polytechnic,106488.5,Awarded to Suppliers,MEDIA ARCHITECTS PTE. LTD.
+NYP000ETT15000023,2015-07-16,"Supply, Delivery, Installation, Testing and Commissioning of Audio Video Production Equipment for Media Hub",Nanyang Polytechnic,24000,Awarded to Suppliers,SENSYS SINGAPORE PTE LTD
+NYP000ETT15000023,2015-07-16,"Supply, Delivery, Installation, Testing and Commissioning of Audio Video Production Equipment for Media Hub",Nanyang Polytechnic,59825,Awarded to Suppliers,VSolutions Pte Ltd
+NYP000ETT15000024,2015-08-27,A&A and Supply of Furniture & Fittings for Student Gym,Nanyang Polytechnic,68480,Awarded to Suppliers,Image Creative Design Pte Ltd
+NYP000ETT15000026,2015-07-23,Design and Build of Career Centre,Nanyang Polytechnic,254396,Awarded to Suppliers,Kingsmen Exhibits Pte Ltd
+NYP000ETT15000027,2015-08-17,"Provision of Artistic Direction, Choreography, Stage Support and Instructorship for Dance Musical",Nanyang Polytechnic,150000,Awarded to Suppliers,BLACK CANVAS LLP
+NYP000ETT15000028,2015-09-15,Supply and Delivery of T-Shirts,Nanyang Polytechnic,50100,Awarded to Suppliers,ANCELL ENTERPRISE PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,ANG SENG EGGS SUPPLIER
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,ARYZTA FOOD SOLUTIONS SINGAPORE PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,AW GUAN HONG VEGETABLE WHOLESALER
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,BEN FOODS (S) PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,BONCAFE INTERNATIONAL PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,Ban Choon Marketing Pte Ltd
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,DCH FOODS (SINGAPORE) PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,EURACO FINEFOOD PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,FASSLER GOURMET PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,FOODEDGE GOURMET PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,FOODXERVICES INC. PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,GEOK SHI FOOD SUPPLIES PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,GLOBAL OCEANLINK PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,HELA SPICE SINGAPORE PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,HUP HENG POULTRY INDUSTRIES PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,INDOGUNA (SINGAPORE) PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,KSB DISTRIBUTION PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,LAM SOON SINGAPORE PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,N&N AGRICULTURE PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,Ng Nam Bee Marketing Pte Ltd
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,PHOON HUAT AND COMPANY (PRIVATE) LIMITED
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,PURO COFFEE SINGAPORE PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,QUAYSIDE QUALITY FOOD PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,ROSEN INTERNATIONAL (S) PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,SIN LIAN XING MINI MART
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,SINMAH POULTRY PROCESSING (S) PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,SUNFRESH SINGAPORE PRIVATE LIMITED
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,THE CELLAR DOOR PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,THYGRACE MARKETING
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,TOH THYE SAN FARM
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,UNIPOOL TRADING PTE LTD
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,VISMARK FOOD INDUSTRIES PTE. LTD.
+NYP000ETT15000029,2015-07-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,15150,Awarded to Suppliers,YONG WEN FOOD (S) PTE. LTD.
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,BIG PACK PTE. LTD.
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,DUNI SONG SENG PTE. LTD.
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,EURACO FINEFOOD PTE LTD
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,FOODXERVICES INC. PTE. LTD.
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,NORSKER TRADING HOUSE PTE LTD
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,PHOON HUAT AND COMPANY (PRIVATE) LIMITED
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,PREMIER ENGINEERING & TRADING PTE. LTD.
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,SEOW KHIM POLYTHELENE CO PTE LTD
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,SIA HUAT PRIVATE LIMITED
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,SUN LIK TRADING PTE LTD
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,Syntech Chemicals Pte Ltd
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,Waygood Industries Pte Ltd
+NYP000ETT15000030,2015-08-06,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,38460,Awarded to Suppliers,YONG WEN FOOD (S) PTE. LTD.
+NYP000ETT15000031,2015-09-17,Refurbishment Works to the Tutorial Rooms & Lecture Rooms,Nanyang Polytechnic,456800,Awarded to Suppliers,YUAN MEI CHEN (S) PTE. LTD.
+NYP000ETT15000032,2015-07-10,"Design And Build Of Pavilion Booth And Provision Of Other Services For Chinajoy Exhibition In Shanghai, China From 29 July To 2 August 2015",Nanyang Polytechnic,170000,Awarded to Suppliers,AGOG EXPO PTE. LTD.
+NYP000ETT15000033,2015-08-26,Term Contract for Structured Cabling Works,Nanyang Polytechnic,150000,Awarded to Suppliers,APHESYS NETWORKS PTE. LTD.
+NYP000ETT15000034,2015-09-17,"A&A Works at Block B, Levels 1 and 2",Nanyang Polytechnic,72160,Awarded to Suppliers,DAVOE CREATIVE PTE. LTD.
+NYP000ETT15000035,2015-09-21,Design and Build of FoodCentral,Nanyang Polytechnic,268740,Awarded to Suppliers,Image Creative Design Pte Ltd
+NYP000ETT15000037,2015-09-22,"Supply, Delivery, Installation And Commissioning Of Dental X-Ray Equipment",Nanyang Polytechnic,79680,Awarded to Suppliers,SMITECH (ASIA) PTE LTD
+NYP000ETT15000038,2015-09-17,"Delivery Of Life-Skills Modules (Financial Literacy, Personal Development And Leadership/Teambuilding)",Nanyang Polytechnic,110640,Awarded to Suppliers,LIFESKILLS ENRICHMENT PTE LTD
+NYP000ETT15000039,2015-10-02,Planning And Implementation Of Social Media Project,Nanyang Polytechnic,98595,Awarded to Suppliers,IH SINGAPORE PTE. LTD.
+NYP000ETT15000040,2015-09-17,Provision of Circulation and Collection Management Services to Nanyang Polytechnic Library,Nanyang Polytechnic,144948,Awarded to Suppliers,Expertise Technologies Pte Ltd
+NYP000ETT15000041,2015-11-12,Revamp of Corporate Website,Nanyang Polytechnic,654085.04,Awarded to Suppliers,DECISION SCIENCE AGENCY PTE. LTD.
+NYP000ETT15000042,2015-11-09,"Supply, Delivery, Installation And Commissioning Of Physical Vapor Deposition System",Nanyang Polytechnic,469000,Awarded to Suppliers,LEYBOLD SINGAPORE PTE. LTD.
+NYP000ETT15000043,2015-12-01,"Supply, Delivery, Installation and Commissioning of Smart Grid Training System",Nanyang Polytechnic,155201,Awarded to Suppliers,Measurement & Metrology (S) Pte Ltd
+NYP000ETT15000044,2015-11-02,"Design and Build of Admin Office, Meeting Room and Corridor Area at School of Information Technology",Nanyang Polytechnic,248730,Awarded to Suppliers,ATELIER TANG (PTE.) LTD.
+NYP000ETT15000045,2016-05-10,"Supply, Delivery and Installation of Furniture for Learning Space at Blk D1 and N1",Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT15000046,2015-12-24,Renovation Of Seminar Room Foyer At Block B Level,Nanyang Polytechnic,119698,Awarded to Suppliers,YM PROJECTS PTE. LTD.
+NYP000ETT15000047,2015-11-26,Provision of Nurturing Educator Programme,Nanyang Polytechnic,237900,Awarded to Suppliers,ROHEI CORPORATION PTE. LTD.
+NYP000ETT15000048,2016-02-18,"Supply, Delivery, Installation And Commissioning Of Integrated Customer Experience Management System",Nanyang Polytechnic,1629014,Awarded to Suppliers,IZENO PRIVATE LIMITED
+NYP000ETT15000049,2015-11-25,Two Year Term Contract for The Fabrication and Delivery of Printed Circuit Boards (PCBs) to School of Engineering (SEG),Nanyang Polytechnic,116666,Awarded to Suppliers,AMICUS ENGINEERING PTE LTD
+NYP000ETT15000049,2015-11-25,Two Year Term Contract for The Fabrication and Delivery of Printed Circuit Boards (PCBs) to School of Engineering (SEG),Nanyang Polytechnic,116666,Awarded to Suppliers,Interhorizon Corporation Pte Ltd
+NYP000ETT15000049,2015-11-25,Two Year Term Contract for The Fabrication and Delivery of Printed Circuit Boards (PCBs) to School of Engineering (SEG),Nanyang Polytechnic,116666,Awarded to Suppliers,TRILOGY TECHNOLOGIES PTE. LTD.
+NYP000ETT15000050,2015-11-17,Upgrade Of Appliance-Based Domain Name Service (DNS) Servers,Nanyang Polytechnic,588422,Awarded to Suppliers,Nera Telecommunications Ltd
+NYP000ETT15000051,2015-12-11,Provision Of Manpower For Outsourced Support Services,Nanyang Polytechnic,163998,Awarded to Suppliers,APBA PTE. LTD.
+NYP000ETT15000052,2016-01-22,Interior Design cum Renovation Works And Supply Of Furniture For Game Resources & Active Learning Space In NYP Library,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT15000053,2015-12-07,Appointment Of Travel Agencies For The Provision Of Travel Services,Nanyang Polytechnic,250000,Awarded to Suppliers,CITYSTATE ARDENT TRAVEL PTE LTD
+NYP000ETT15000053,2015-12-07,Appointment Of Travel Agencies For The Provision Of Travel Services,Nanyang Polytechnic,250000,Awarded to Suppliers,FORTUNE TRAVEL PTE LTD
+NYP000ETT15000053,2015-12-07,Appointment Of Travel Agencies For The Provision Of Travel Services,Nanyang Polytechnic,250000,Awarded to Suppliers,GOLDEN TRAVEL SERVICES PTE LTD
+NYP000ETT15000053,2015-12-07,Appointment Of Travel Agencies For The Provision Of Travel Services,Nanyang Polytechnic,250000,Awarded to Suppliers,STA TRAVEL (PTE) LTD
+NYP000ETT15000054,2015-12-24,"Supply, Delivery, Installation And Commissioning Of Internet Proxy Appliances At Disaster Recovery Centre (DRC) in Nanyang Polytechnic",Nanyang Polytechnic,418516,Awarded to Suppliers,NCS PTE. LTD.
+NYP000ETT15000055,2016-01-25,Supply of Internet Bandwidth and Services to Institutes Of Higher Learning,Nanyang Polytechnic,5225000,Awarded to Suppliers,LGA TELECOM PTE LTD
+NYP000ETT15000055,2016-01-25,Supply of Internet Bandwidth and Services to Institutes Of Higher Learning,Nanyang Polytechnic,5225000,Awarded to Suppliers,M1 LIMITED
+NYP000ETT15000055,2016-01-25,Supply of Internet Bandwidth and Services to Institutes Of Higher Learning,Nanyang Polytechnic,5225000,Awarded to Suppliers,SINGAPORE TELECOMMUNICATIONS LIMITED
+NYP000ETT15000055,2016-01-25,Supply of Internet Bandwidth and Services to Institutes Of Higher Learning,Nanyang Polytechnic,5225000,Awarded to Suppliers,STARHUB LTD.
+NYP000ETT15000056,2016-01-20,Design And A&A Works At B.109 And B.411,Nanyang Polytechnic,82246,Awarded to Suppliers,IM SPACE PTE. LTD.
+NYP000ETT15000058,2015-11-23,Supply And Management Of Print And Electronic Journals For Nanyang Polytechnic Library,Nanyang Polytechnic,1.46,Awarded to Suppliers,"EBSCO INTERNATIONAL, INC."
+NYP000ETT15000059,2015-12-14,A&A Works To Laboratories And Office At Block N1 Level 8,Nanyang Polytechnic,123800,Awarded to Suppliers,YUAN MEI CHEN (S) PTE. LTD.
+NYP000ETT15000060,2016-01-26,"Term Contract For Design, Supply And Delivery Of Sports Apparels",Nanyang Polytechnic,52392,Awarded to Suppliers,AVEMORE PTE LTD
+NYP000ETT15000061,2015-12-11,Renovation Works At Blk N1 Level 2 And 3 Aerospace Hub,Nanyang Polytechnic,193600,Awarded to Suppliers,ATELIER TANG (PTE.) LTD.
+NYP000ETT15000062,2016-02-12,Term Contract for the Supply and Delivery of Uniforms to Nursing Students of the School of Health Sciences for a Period of Three Years,Nanyang Polytechnic,447000,Awarded to Suppliers,SIN YUE TEXTILE TAILOR CO
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,C. S. BUILDERS PTE LTD
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,CHL CONSTRUCTION PTE LTD
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,FIRST PARAGON ENTERPRISE PTE LTD
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,FULL HOUSE BUILDING CONSTRUCTION PTE. LTD.
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,INVOGUE BIZ PTE. LTD.
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,LOGISTICS CONSTRUCTION PTE LTD
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,MS11 PTE. LTD.
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,P & A LINK PTE LTD
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,SH INTEGRATED SERVICES PTE. LTD.
+NYP000ETT15000063,2016-02-25,Appointment of Term Contractors For Addition And Alteration Works For A Period Of Five Years,Nanyang Polytechnic,1000000,Awarded to Suppliers,YUAN MEI CHEN (S) PTE. LTD.
+NYP000ETT15000064,2016-02-16,"Supply & Installation of VRV Aircon Works at Block S Level 1 S109A, B& C",Nanyang Polytechnic,61650,Awarded to Suppliers,G-CUBE ENGINEERING PTE. LTD.
+NYP000ETT15000066,2016-03-11,"Design, Development, Delivery, Installation, Testing and Support of E-Clinical Solution/Automated Resource Planning and Management System",Nanyang Polytechnic,150000,Awarded to Suppliers,OPENFEEL PTE. LTD.
+NYP000ETT15000067,2016-03-11,Term Contract for Replacement of Pantry Cabinets,Nanyang Polytechnic,73000,Awarded to Suppliers,DAVOE CREATIVE PTE. LTD.
+NYP000ETT15000068,2016-01-04,"Design, Supply and Set-up of Exhibition Areas and Related Services for NYP's Open House and Joint Admissions Exercise 2016",Nanyang Polytechnic,148375,Awarded to Suppliers,MACRO EVENTS PTE LTD
+NYP000ETT15000069,2016-05-13,"Supply, Delivery, Installation and Commissioning Of 1 Unit Of Stereolithography Apparatus System (SlA) And Accessories",Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT15000070,2016-02-24,Term Contract for the Supply and Delivery of T-Shirts for a Period Of 1 Year,Nanyang Polytechnic,163050,Awarded to Suppliers,APPAREL EMPIRE
+NYP000ETT15000071,2016-02-23,Design and Build of Fast Food Canteen,Nanyang Polytechnic,799050,Awarded to Suppliers,Image Creative Design Pte Ltd
+NYP000ETT15000072,2016-03-29,Design and Build of Business Research Centre,Nanyang Polytechnic,100580,Awarded to Suppliers,Dan Impact Pte Ltd
+NYP000ETT15000073,2016-02-22,Provision of Pre-Enrolment Medical Screening and Vaccination Service and Development and Maintenance of an Electronic Database of Screening and Vaccination Records for Students and Academic Staff of the School Of Health Sciences,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT15000074,2016-04-06,"Provision of Sound Isolation and Acoustic Treatment Works for Music Practice Areas at Level 3, Block P1 Convention Centre",Nanyang Polytechnic,180000,Awarded to Suppliers,DB ACOUSTICS PTE LTD
+NYP000ETT15000075,2016-04-06,"Supply, Delivery, Installation and Commissioning of Air-Compressor System and Peripherals with Removal & Trade-In of Old Air-Compressor System",Nanyang Polytechnic,153950,Awarded to Suppliers,HAK LONG ENGINEERING PTE LTD
+NYP000ETT15000077,2016-04-05,TENDER FOR GREEN MARK CONSULTANCY SERVICES FOR EXISTING BUILDINGS AT NANYANG POLYTECHNIC,Nanyang Polytechnic,238000,Awarded to Suppliers,G - ENERGY GLOBAL PTE. LTD.
+NYP000ETT15000078,2016-04-29,TENDER FOR IMPROVEMENT WORKS TO STUDENT DEVELOPMENT CENTRE,Nanyang Polytechnic,202350,Awarded to Suppliers,DAVOE CREATIVE PTE. LTD.
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,BEPA CONSULTANT INTERNATIONAL
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,CITYSTATE ARDENT TRAVEL PTE LTD
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,GLT PTE. LTD.
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,HEE PENG LIANG
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,LEO ANN LOCK
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,YING & YOUNG LIAISON OFFICE
+NYP000ETT16000001,2016-03-01,Provision of Liaison Services to International Participants and Visitors,Nanyang Polytechnic,42857,Awarded to Suppliers,Youth Visions Pte Ltd
+NYP000ETT16000002,2016-04-11,67 units of High Performance Notebooks and 2 units of Touch PCs,Nanyang Polytechnic,196705,Awarded to Suppliers,AFTERSHOCK PC PTE. LTD.
+NYP000ETT16000002,2016-04-11,67 units of High Performance Notebooks and 2 units of Touch PCs,Nanyang Polytechnic,3914,Awarded to Suppliers,Innocom Technologies Pte Ltd
+NYP000ETT16000003,2016-03-24,Term Contract for Cleaning Services at Asian Culinary Institute (ACI),Nanyang Polytechnic,61200,Awarded to Suppliers,CLEANMAGE PTE. LTD.
+NYP000ETT16000004,2016-05-10,"Supply, Delivery, Installation, Testing and Commissioning of Laser Engraving/Cutting Machines",Nanyang Polytechnic,127000,Awarded to Suppliers,SIGNVEC TECHNOLOGY PTE LTD
+NYP000ETT16000005,2016-03-28,"Supply and Construction of Stage Backdrop and Photo-Sites, and Provision of Related Facilities and Services for NYP Graduation 2016",Nanyang Polytechnic,59600,Awarded to Suppliers,RADIUS DESIGN & CONSTRUCTION PTE LTD
+NYP000ETT16000006,2016-05-19,"Relocation of IT Equipment, Supply, Delivery, Installation and Commissioning of In-Row Cooling Systems, Racks and Network Switches",Nanyang Polytechnic,287745,Awarded to Suppliers,NCS PTE. LTD.
+NYP000ETT16000007,2016-05-19,Design and Build of Customer Relationship Management Contact Centre,Nanyang Polytechnic,165832,Awarded to Suppliers,D' PERCEPTION SINGAPORE PTE. LTD.
+NYP000ETT16000008,2016-07-07,"Supply, Delivery, Installation and Commissioning of an Internet Protocol Contact Centre (IPCC) System with Social Media and Customer Analytics Solutions",Nanyang Polytechnic,65050,Awarded to Suppliers,LANTONE SYSTEMS PTE. LTD.
+NYP000ETT16000008,2016-07-07,"Supply, Delivery, Installation and Commissioning of an Internet Protocol Contact Centre (IPCC) System with Social Media and Customer Analytics Solutions",Nanyang Polytechnic,483207.24,Awarded to Suppliers,SERVIONT GLOBAL SOLUTIONS PTE LTD
+NYP000ETT16000009,2016-04-28,"Provision of Pre-Enrolment Medical Screening and Vaccination Service, and Development and Maintenance of an Electronic Database of Screening and Vaccination Records for Students and Academic Staff of the School of Health Sciences",Nanyang Polytechnic,399691,Awarded to Suppliers,RAFFLES MEDICAL GROUP LTD
+NYP000ETT16000010,2016-05-09,"Supply, Delivery, Installation and Commissioning of Laser Cutters and CNC Router",Nanyang Polytechnic,107000,Awarded to Suppliers,RAYTEC MACHINERY PTE. LTD.
+NYP000ETT16000010,2016-05-09,"Supply, Delivery, Installation and Commissioning of Laser Cutters and CNC Router",Nanyang Polytechnic,14500,Awarded to Suppliers,SIGNVEC TECHNOLOGY PTE LTD
+NYP000ETT16000013,2016-06-13,"Planning, Strategising And Executing Media Relations Programme",Nanyang Polytechnic,386400,Awarded to Suppliers,ASIA PR WERKZ PTE. LTD.
+NYP000ETT16000014,2016-07-18,"Supply, Delivery, Installation and Commissioning of Library Management System",Nanyang Polytechnic,379991,Awarded to Suppliers,SIRSIDYNIX PTY LTD SINGAPORE BRANCH
+NYP000ETT16000015,2016-05-31,Upgrade of AV facilities for School of Information Technology,Nanyang Polytechnic,276792,Awarded to Suppliers,MEDIATECHNIC SOLUTIONS PTE. LTD.
+NYP000ETT16000016,2016-08-16,Renovation Works to School of Engineering Meeting Room S103,Nanyang Polytechnic,49957,Awarded to Suppliers,P & A LINK PTE LTD
+NYP000ETT16000017,2016-06-27,Supply and Delivery of Refurbished High-End Projection System & Accessories,Nanyang Polytechnic,194580,Awarded to Suppliers,HEXOGON SOLUTION PTE. LTD.
+NYP000ETT16000019,2016-06-06,Comprehensive Maintenance Of Network Equipment,Nanyang Polytechnic,1740289,Awarded to Suppliers,FUJITSU ASIA PTE LTD
+NYP000ETT16000021,2016-09-08,Term Contract for Cleaning and Waste Disposal Services,Nanyang Polytechnic,5036400,Awarded to Suppliers,ISS FACILITY SERVICES PRIVATE LIMITED
+NYP000ETT16000021,2016-09-08,Term Contract for Cleaning and Waste Disposal Services,Nanyang Polytechnic,5204484,Awarded to Suppliers,PRIMECH SERVICES & ENGRG PTE LTD
+NYP000ETT16000022,2016-08-16,Setting up of Smart Learning Space at Nanyang Polytechnic Library,Nanyang Polytechnic,344700,Awarded to Suppliers,Communication One Trader
+NYP000ETT16000023,2016-08-16,Interior Design Cum Renovation Works and Supply of Furniture for Nanyang Polytechnic Library,Nanyang Polytechnic,427140,Awarded to Suppliers,OP3 INTERNATIONAL PTE. LTD.
+NYP000ETT16000024,2016-07-21,"Supply, Delivery, Installation, Calibration, Testing and Commissioning of Chemical Exhaust Ductwork and Scrubber System",Nanyang Polytechnic,107474,Awarded to Suppliers,MS11 ENGINEERING PTE. LTD.
+NYP000ETT16000025,2016-06-20,Creative Concept & Design of NYP Marketing Collateral (Print & Online) and Out-Of-Home Display,Nanyang Polytechnic,82380,Awarded to Suppliers,SPARKFURY CREATIVE CONSULTANTS PTE. LTD.
+NYP000ETT16000027,2016-07-28,"Supply, Delivery, Installation and Commissioning of a High Availability and High Performance Data Storage System",Nanyang Polytechnic,67620,Awarded to Suppliers,CXRUS SOLUTIONS PTE. LTD.
+NYP000ETT16000028,2016-06-20,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,320000,Awarded to Suppliers,AMICUS ENGINEERING PTE LTD
+NYP000ETT16000028,2016-06-20,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,320000,Awarded to Suppliers,RAINCUBE ELECTRONICS PTE. LTD.
+NYP000ETT16000028,2016-06-20,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,320000,Awarded to Suppliers,SUN LIGHT ELECTRONICS PTE LTD
+NYP000ETT16000029,2016-08-16,"Tender for 1 Unit of Plastic Material Extrusion Additive Manufacturing System, and 1 Unit of Metal Laser Melting Additive Manufacturing System And their Accessories",Nanyang Polytechnic,1777584,Awarded to Suppliers,ALPHA PRODUCTS AND SYSTEMS PTE LTD
+NYP000ETT16000029,2016-08-16,"Tender for 1 Unit of Plastic Material Extrusion Additive Manufacturing System, and 1 Unit of Metal Laser Melting Additive Manufacturing System And their Accessories",Nanyang Polytechnic,578800,Awarded to Suppliers,CREATZ3D PTE. LTD.
+NYP000ETT16000030,2016-07-14,Term Contract for Movers,Nanyang Polytechnic,408915,Awarded to Suppliers,MAC TRANSPORT SERVICE
+NYP000ETT16000031,2016-08-31,"Integrated Maintenance of Buildings, Mechanical and Electrical Facilities and Systems",Nanyang Polytechnic,14668639,Awarded to Suppliers,SMM PTE. LTD.
+NYP000ETT16000032,2016-07-21,"Design & Build Two Office Areas Located at Pixel Building, 10 Central Exchange Green Singapore 138649",Nanyang Polytechnic,3701650,Awarded to Suppliers,SCA DESIGN PTE. LTD.
+NYP000ETT16000033,2016-06-20,Design and Build of Admin Office at School of Health Sciences,Nanyang Polytechnic,105100,Awarded to Suppliers,YUAN MEI CHEN (S) PTE. LTD.
+NYP000ETT16000034,2016-08-30,"Supply, Delivery, Installation and Commissioning of One Unit of 3-Axis CNC Hard Turning Machine and Peripherals",Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT16000036,2016-08-31,"Supply, Delivery and Installation of Integrated Mobile Apps and Interactive Kiosk",Nanyang Polytechnic,995893,Awarded to Suppliers,NANO EQUIPMENT PTE. LTD.
+NYP000ETT16000037,2016-09-15,"Supply, Delivery, Installation and Commissioning of Digital Asset Management Solution",Nanyang Polytechnic,93460,Awarded to Suppliers,DIW PTE. LTD.
+NYP000ETT16000038,2016-09-15,"Supply, Delivery, Installation and Commissioning of Library User Authentication Proxy System",Nanyang Polytechnic,105550,Awarded to Suppliers,ST ELECTRONICS (INFO-SECURITY) PTE. LTD.
+NYP000ETT16000039,2016-09-13,"Supply, Delivery, Installation and Commissioning of 1 Unit of Stereolithography Additive Manufacturing Apparatus System and Accessories",Nanyang Polytechnic,899800,Awarded to Suppliers,EYE-2-EYE COMMUNICATIONS PRIVATE LIMITED
+NYP000ETT16000040,2016-09-27,"Supply, Delivery, Installation and Commissioning of 4-Screen 3D Immersive Visualisation System",Nanyang Polytechnic,689800,Awarded to Suppliers,EON REALITY PTE. LTD.
+NYP000ETT16000041,2016-09-26,Provision of Contract/Temporary and Outsourced Manpower Services,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT16000042,2016-08-05,"Creative Conceptualisation, Design & Layout, Editorial Services and Production of NYP Publications",Nanyang Polytechnic,180546,Awarded to Suppliers,NEWBASE CONTENT PTE. LTD.
+NYP000ETT16000044,2016-11-15,"Supply, Delivery, Installation, Testing and Commissioning of 3D Printers and 3D Scanner",Nanyang Polytechnic,144070,Awarded to Suppliers,CREATZ3D PTE. LTD.
+NYP000ETT16000045,2016-12-07,Refurbishment of Nanyang Polytechnic Apartment Units at Block 170,Nanyang Polytechnic,1188000,Awarded to Suppliers,L-Pine Design Pte LTd
+NYP000ETT16000046,2016-12-19,Supply and Delivery of 13 Sets of Training System and Equipment for Device Interfacing and Programming Laboratory,Nanyang Polytechnic,192080.56,Awarded to Suppliers,NATIONAL INSTRUMENTS SINGAPORE (PTE) LTD
+NYP000ETT16000047,2016-11-08,Conversion of 300 Worksite Web Licenses to Desksite Licenses and Provision of 3-Year Maintenance Contract for Electronic Document Management System,Nanyang Polytechnic,326269.89,Awarded to Suppliers,SERVTOUCH-WYWY (SINGAPORE) PTE. LTD.
+NYP000ETT16000048,2016-11-09,"Term Contract for the Supply, Rental, Sale and Management of Graduation Attire",Nanyang Polytechnic,55,Awarded to Suppliers,BEAU VOIX UNIFORM
+NYP000ETT16000049,2016-11-01,"Supply, Delivery, Installation, Testing and Commissioning of Av and Studio Lighting Equipment for Creators' Space at Pixel Building",Nanyang Polytechnic,728920,Awarded to Suppliers,BROADCAST ENGINEERING SERVICES PTE LTD
+NYP000ETT16000050,2016-12-23,Provision of Hardware and Related Software Upgrade Maintenance Services for 3 Years to School of Information Technology,Nanyang Polytechnic,285000,Awarded to Suppliers,PTC SYSTEM (S) PTE LTD
+NYP000ETT16000051,2017-02-27,"Leasing and Supply, Delivery, Installation and Commissioning of Fitness Equipment at Staff Gym",Nanyang Polytechnic,35800,Awarded to Suppliers,United Lifestyle Pte Ltd
+NYP000ETT16000052,2017-02-22,Term Contract for Structure Cabling Works,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT16000053,2017-03-09,Set Up of IT Infrastructure for Games Solution Centre and Creators' Space,Nanyang Polytechnic,641254,Awarded to Suppliers,3D NETWORKS SINGAPORE PTE. LTD.
+NYP000ETT16000054,2017-02-16,Group Hospitalisation and Surgical Insurance for Students,Nanyang Polytechnic,101392,Awarded to Suppliers,NTUC Income Insurance Co-operative Ltd
+NYP000ETT16000055,2017-02-24,"Supply, Delivery, Installation and Commissioning of a Functional Aircraft",Nanyang Polytechnic,596600,Awarded to Suppliers,AERO-MARINE VEHICLES
+NYP000ETT16000057,2017-02-14,Term Contract for the Supply and Delivery of T-Shirts for a Period of 1 Year,Nanyang Polytechnic,750000,Awarded to Suppliers,FG CONCEPTS PRIVATE LIMITED
+NYP000ETT16000058,2017-02-27,Supply and Delivery of High Definition Digital Drawing Tablets and Adjustable Stands,Nanyang Polytechnic,111000,Awarded to Suppliers,NEWSTEAD TECHNOLOGIES PTE LTD
+NYP000ETT16000059,2016-12-13,"TENDER FOR DESIGN, SUPPLY AND SET-UP OF EXHIBITION AREAS AND RELATED SERVICES FOR NYPS OPEN HOUSE AND JOINT ADMISSIONS EXERCISE 2017",Nanyang Polytechnic,219388,Awarded to Suppliers,MACRO EVENTS PTE LTD
+NYP000ETT16000060,2017-02-14,"Supply, Delivery, Installation and Commissioning of Wireless Authentication System",Nanyang Polytechnic,148266,Awarded to Suppliers,NCS PTE. LTD.
+NYP000ETT16000061,2017-03-23,Appointment of a Panel of Service Providers to Supply E-Books from Publishers,Nanyang Polytechnic,1,Awarded to Suppliers,ALKEM COMPANY (SINGAPORE) PRIVATE LIMITED
+NYP000ETT16000061,2017-03-23,Appointment of a Panel of Service Providers to Supply E-Books from Publishers,Nanyang Polytechnic,2,Awarded to Suppliers,CENGAGE LEARNING ASIA PTE. LTD.
+NYP000ETT16000061,2017-03-23,Appointment of a Panel of Service Providers to Supply E-Books from Publishers,Nanyang Polytechnic,1.43,Awarded to Suppliers,ELSEVIER B.V.
+NYP000ETT16000061,2017-03-23,Appointment of a Panel of Service Providers to Supply E-Books from Publishers,Nanyang Polytechnic,1,Awarded to Suppliers,"OVERDRIVE, INC."
+NYP000ETT16000061,2017-03-23,Appointment of a Panel of Service Providers to Supply E-Books from Publishers,Nanyang Polytechnic,1.43,Awarded to Suppliers,PROQUEST LLC
+NYP000ETT16000061,2017-03-23,Appointment of a Panel of Service Providers to Supply E-Books from Publishers,Nanyang Polytechnic,1,Awarded to Suppliers,"YANKEE BOOK PEDDLER, INC."
+NYP000ETT17000001,2017-06-08,Building Of a 3-Room Smart Home/Apartment and Innovation Space with a Universal and Eco-Friendly Design,Nanyang Polytechnic,709910,Awarded to Suppliers,IM SPACE PTE. LTD.
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,8580,Awarded to Suppliers,AITBIOTECH PTE. LTD.
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,2200,Awarded to Suppliers,APP SYSTEMS SERVICES PTE. LTD.
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,1965,Awarded to Suppliers,BIO-REV PTE. LTD.
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,1847,Awarded to Suppliers,FISHER SCIENTIFIC PTE LTD
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,7900,Awarded to Suppliers,ITS Science & Medical Pte Ltd
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,686.4,Awarded to Suppliers,Mettler-Toledo (S) Pte Ltd
+NYP000ETT17000002,2017-05-04,"Supply, Delivery and Installation of Equipment for Chemical, Biological and Food Laboratories",Nanyang Polytechnic,495,Awarded to Suppliers,VWR SINGAPORE PTE. LTD.
+NYP000ETT17000003,2017-03-21,"Building, Delivery and Commissioning of ITL Training Systems",Nanyang Polytechnic,156000,Awarded to Suppliers,ASTECH PTE. LTD.
+NYP000ETT17000004,2017-03-30,Campus Internet Infrastructure Technology Refresh,Nanyang Polytechnic,8685687.24,Awarded to Suppliers,NCS PTE. LTD.
+NYP000ETT17000005,2017-04-13,Joint-Polytechnic Group Personal Accident Insurance for Students,Nanyang Polytechnic,564885,Awarded to Suppliers,AXA INSURANCE PTE. LTD.
+NYP000ETT17000006,2017-03-13,"Supply and Construction of Stage Backdrop and Photo-Sites, and Provision of Related Facilities and Services for NYP Graduation 2017",Nanyang Polytechnic,52000,Awarded to Suppliers,RADIUS DESIGN & CONSTRUCTION PTE LTD
+NYP000ETT17000007,2017-06-28,"Supply, Delivery, Installation and Commissioning of Robotics Systems with Peripherals and Color Machine Vision Systems",Nanyang Polytechnic,375000,Awarded to Suppliers,MITSUBISHI ELECTRIC ASIA PTE LTD
+NYP000ETT17000007,2017-06-28,"Supply, Delivery, Installation and Commissioning of Robotics Systems with Peripherals and Color Machine Vision Systems",Nanyang Polytechnic,90000,Awarded to Suppliers,Omron Electronics Pte Ltd
+NYP000ETT17000008,2017-05-11,Engagement Of Social Media Agency,Nanyang Polytechnic,128600,Awarded to Suppliers,DSTNCT PTE. LTD.
+NYP000ETT17000009,2017-04-11,Installation of Fully Automatic Electronic Parking System (EPS),Nanyang Polytechnic,328000,Awarded to Suppliers,SUN SINGAPORE SYSTEMS PTE. LTD.
+NYP000ETT17000010,2017-04-03,Provision of One-Way Shuttle Bus Services,Nanyang Polytechnic,113296,Awarded to Suppliers,BUS-PLUS SERVICES PTE LTD
+NYP000ETT17000010,2017-04-03,Provision of One-Way Shuttle Bus Services,Nanyang Polytechnic,337698,Awarded to Suppliers,SUN-GEE TRAVEL PTE LTD
+NYP000ETT17000011,2017-07-13,"Implementation of Microsoft Sharepoint Solution for Campus-Wide Remote File Access, Collaborative Portal Architecture and Pilot Portal Sites",Nanyang Polytechnic,582335.35,Awarded to Suppliers,AVEPOINT SINGAPORE PTE. LTD.
+NYP000ETT17000012,2017-06-13,"Renovation Works to Tutorial Rooms at School of Engineering Blk S, Level 3",Nanyang Polytechnic,40752,Awarded to Suppliers,Rita Metal & Wooden Furniture Construction Pte Ltd
+NYP000ETT17000013,2017-06-15,Term Contract For Fabrication Works For A Period Of Two Years,Nanyang Polytechnic,200000,Awarded to Suppliers,BUILD-UP MOULDING & MACHINING
+NYP000ETT17000013,2017-06-15,Term Contract For Fabrication Works For A Period Of Two Years,Nanyang Polytechnic,200000,Awarded to Suppliers,CNT TECHNOLOGY
+NYP000ETT17000013,2017-06-15,Term Contract For Fabrication Works For A Period Of Two Years,Nanyang Polytechnic,200000,Awarded to Suppliers,STARLIGHT TOOL PRECISION ENGINEERING
+NYP000ETT17000013,2017-06-15,Term Contract For Fabrication Works For A Period Of Two Years,Nanyang Polytechnic,200000,Awarded to Suppliers,TNL ENGINEERING WORKS PTE LTD
+NYP000ETT17000014,2017-06-08,Term Contract for Structured Cabling Works,Nanyang Polytechnic,250000,Awarded to Suppliers,KEYDENCE SYSTEMS PTE. LTD.
+NYP000ETT17300001,2017-08-28,"Supply, Installation and Testing of Two Rows Of Industry Standardised IT Racks with Components Integrated into the Racks",Nanyang Polytechnic,198000,Awarded to Suppliers,ENGIE ITS PTE. LTD.
+NYP000ETT17300002,2017-08-02,Term Contract for the Provision of Car Park Management Services,Nanyang Polytechnic,80000,Awarded to Suppliers,WILSON PARKING (SINGAPORE) PTE. LTD.
+NYP000ETT17300003,2017-06-27,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,225000,Awarded by Items,AMICUS ENGINEERING PTE LTD
+NYP000ETT17300003,2017-06-27,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,225000,Awarded by Items,ELEMENT14 PTE. LTD.
+NYP000ETT17300003,2017-06-27,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,225000,Awarded by Items,RS Components Pte Ltd
+NYP000ETT17300003,2017-06-27,Term Contract for the Supply and Delivery of Electronic and Electrical Components,Nanyang Polytechnic,225000,Awarded by Items,SUN LIGHT ELECTRONICS PTE LTD
+NYP000ETT17300004,2017-07-04,"Provision of Artistic Direction, Choreography, Stage Support and Instructorship for Dance Musical",Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300005,2017-09-07,Provision of Pastoral Care (Intermediate) Programme,Nanyang Polytechnic,49050,Awarded to Suppliers,ROHEI CORPORATION PTE. LTD.
+NYP000ETT17300006,2017-07-11,Provision of Lifeguard Services,Nanyang Polytechnic,198113.4,Awarded to Suppliers,HYDRO AQUATIC PTE. LTD.
+NYP000ETT17300007,2017-08-02,Interior Design and Build Renovation Works for Communications & Outreach Department,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300008,2017-09-05,"Supply, Delivery and Installation of Equipment for Biological Laboratory",Nanyang Polytechnic,20796,Awarded by Items,Chemoscience Pte Ltd
+NYP000ETT17300008,2017-09-05,"Supply, Delivery and Installation of Equipment for Biological Laboratory",Nanyang Polytechnic,19348,Awarded by Items,FISHER SCIENTIFIC PTE LTD
+NYP000ETT17300008,2017-09-05,"Supply, Delivery and Installation of Equipment for Biological Laboratory",Nanyang Polytechnic,98500,Awarded by Items,TECHCOMP (SINGAPORE) PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,AH HUA KELONG
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,ALL BIG FROZEN FOOD PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,ANG SENG EGGS SUPPLIER
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,ANGLISS SINGAPORE PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,AUSTRALIAN FRUIT JUICE (S) PTE. LIMITED
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,AW GUAN HONG VEGETABLE WHOLESALER
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,BAKERY LABORATORY PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,BEN FOODS (S) PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,BONCAFE INTERNATIONAL PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,COCOAORIENT PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,DELIFRANCE SINGAPORE WHOLESALE PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,EURACO FINEFOOD PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,FAR OCEAN SEA PRODUCTS (PRIVATE) LIMITED
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,FIELD CATERING & SUPPLIES PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,FOODEDGE GOURMET PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,FOODXERVICES INC. PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,FRESHDIRECT PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,GLOBAL OCEANLINK PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,HONEY-LAND INTERNATIONAL PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,HSC INTERNATIONAL PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,Hock Tong Bee Pte Ltd
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,INDOGUNA (SINGAPORE) PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,JIMLI FROZEN FOODS
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,JIT SHENG PROVISION TRADING PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,KSB DISTRIBUTION PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,LAI SOON FRESH FRUITS
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,MAGNUM SPIRITS & WINE PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,NORTHSEA SINGAPORE PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,PACKET GREENS PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,PANASONIC SINGAPORE
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,PHOON HUAT PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,PURO COFFEE SINGAPORE PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,Q.B. FOOD TRADING PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,SIN LIAN XING MINI MART
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,TOH FOOD PTE. LTD.
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,Thong Chew Food Industries Pte Ltd
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,UNIPOOL TRADING PTE LTD
+NYP000ETT17300009,2017-08-31,Term Contract for the Supply and Delivery of Food Ingredients,Nanyang Polytechnic,26315,Awarded by Items,WALSON FOOD DISTRIBUTOR PTE. LTD.
+NYP000ETT17300010,2017-08-30,Term Contract for the Supply and Delivery of Kitchen Supplies,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300011,2017-09-18,Renewal and Purchase of Software for Pixel Studios,Nanyang Polytechnic,15960,Awarded by Items,Generic Technologies (S) Pte Ltd
+NYP000ETT17300011,2017-09-18,Renewal and Purchase of Software for Pixel Studios,Nanyang Polytechnic,13166.32,Awarded by Items,Innocom Technologies Pte Ltd
+NYP000ETT17300012,2017-08-08,Supply and Installation of Network Traffic Generator Platform Solution,Nanyang Polytechnic,97488,Awarded to Suppliers,SOPRA STERIA ASIA PTE. LTD.
+NYP000ETT17300013,2017-08-02,Renderfarm System,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300014,2017-10-03,Provision of Training Programmes for Digital Content Creators at Pixel Studios,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300015,2017-07-25,Provision Travel Services for Students' Overseas Trip to Japan (1-9 Oct 2017),Nanyang Polytechnic,98340,Awarded to Suppliers,FORTUNE TRAVEL PTE LTD
+NYP000ETT17300016,2017-09-04,"Supply of Labour, Equipment and Tools for the Replacement of Fumehood Exhaust Airflow Control Systems",Nanyang Polytechnic,176109,Awarded to Suppliers,ACROMEC ENGINEERS PTE LTD
+NYP000ETT17300017,2017-07-26,Provision Travel Services for Students' Overseas Trip to Australia (21 - 29 Sep 2017),Nanyang Polytechnic,89570,Awarded to Suppliers,FORTUNE TRAVEL PTE LTD
+NYP000ETT17300018,2017-10-20,"Supply, Delivery, Installation and Commissioning of (1) Smart Locker System (2) Library RFID Equipment",Nanyang Polytechnic,111178,Awarded by Items,3D NETWORKS SINGAPORE PTE. LTD.
+NYP000ETT17300018,2017-10-20,"Supply, Delivery, Installation and Commissioning of (1) Smart Locker System (2) Library RFID Equipment",Nanyang Polytechnic,56373,Awarded by Items,BIBLIOTHECA SINGAPORE PTE. LTD.
+NYP000ETT17300019,2017-08-11,"Provision of Artistic Direction, Choreography, Stage Support and Instructorship for Dance Musical",Nanyang Polytechnic,192950,Awarded to Suppliers,D.SOUL
+NYP000ETT17300020,2017-08-30,Term Contract for Cleaning Services at Pixel Studios,Nanyang Polytechnic,42180,Awarded to Suppliers,LIFEFORCE MAINTENANCE & SERVICES
+NYP000ETT17300021,2017-12-14,"Supply, Delivery, Installation and Commissioning of a Timetable Scheduling System and an Exam Scheduling System",Nanyang Polytechnic,498500,Awarded to Suppliers,ADVANCED BUSINESS SOFTWARE AND SOLUTIONS PTE. LTD.
+NYP000ETT17300022,2017-12-06,A&A Works and Equipping of New Training Room for Asian Culinary Institute (ACI),Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300023,2017-08-24,Provision Travel Services for Students' Overseas Trip to Germany & Austria (25 Sep - 4 Oct 2017),Nanyang Polytechnic,128056,Awarded to Suppliers,GOLDEN TRAVEL SERVICES PTE LTD
+NYP000ETT17300024,2017-09-25,Renderfarm System,Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300026,2017-11-16,"Supply, Delivery, Installation, Integration and Commissioning of IP Network CCTV (Closed-Circuit Television) System with Video Wall Monitoring and Associated Equipment",Nanyang Polytechnic,211000,Awarded to Suppliers,ROBERT BOSCH SECURITY SOLUTIONS PTE. LTD.
+NYP000ETT17300027,2017-11-15,Tender for Term Contract for the Maintenance of Landscape Areas and Ponds,Nanyang Polytechnic,2129504.58,Awarded to Suppliers,BSG LANDSCAPE & CONSTRUCTION PTE. LTD.
+NYP000ETT17300028,2017-11-09,Design and Build Of Beverage Training Lab B.408 AND B.408A,Nanyang Polytechnic,112756,Awarded to Suppliers,Aspacio Design Associates Pte Ltd
+NYP000ETT17300029,2017-11-21,Appointment of Travel Agencies for the Provision of Travel Services,Nanyang Polytechnic,375000,Awarded by Items,FORTUNE TRAVEL PTE LTD
+NYP000ETT17300029,2017-11-21,Appointment of Travel Agencies for the Provision of Travel Services,Nanyang Polytechnic,375000,Awarded by Items,GOLDEN TRAVEL SERVICES PTE LTD
+NYP000ETT17300030,2017-11-21,Term Contract for Provision of Security Services,Nanyang Polytechnic,5892210,Awarded to Suppliers,JASA INVESTIGATION & SECURITY SERVICES PTE LTD
+NYP000ETT17300032,2017-12-14,"Term Contract for the Supply, Production and Delivery of Customized Certificate Folders",Nanyang Polytechnic,0,Awarded to No Suppliers,na
+NYP000ETT17300033,2017-12-06,Renderfarm System,Nanyang Polytechnic,259344,Awarded to Suppliers,LOGICALIS SINGAPORE PTE. LTD.
+NYP000ETT17300034,2017-11-28,"Supply, Delivery, Installation and Commissioning of One Unit of X-Ray Diffractometer",Nanyang Polytechnic,290900,Awarded to Suppliers,BRUKER SINGAPORE PTE. LTD.
+NYP000ETT17300035,2017-12-07,Interior Design and Build Renovation Works for Communications & Outreach Department,Nanyang Polytechnic,290222,Awarded to Suppliers,Aspacio Design Associates Pte Ltd
+NYP000ETT17300041,2017-11-30,"Term Contract for Fabrication and Delivery of Printed Circuit Boards for 5 Years, subject to annual review.",Nanyang Polytechnic,437500,Awarded by Items,AMICUS ENGINEERING PTE LTD
+NYP000ETT17300041,2017-11-30,"Term Contract for Fabrication and Delivery of Printed Circuit Boards for 5 Years, subject to annual review.",Nanyang Polytechnic,437500,Awarded by Items,Interhorizon Corporation Pte Ltd
+NYP000ETT17300043,2017-12-14,"Design, Supply And Set-Up Of Exhibition Areas And Related Services For NYP's Open House And Joint Admissions Exercise 2018",Nanyang Polytechnic,242354.5,Awarded to Suppliers,MACRO EVENTS PTE LTD

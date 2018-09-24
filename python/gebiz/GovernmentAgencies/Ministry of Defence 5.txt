@@ -1,0 +1,11 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+DEF005ETT15000002,2015-03-30,Supply with Installation of Hand Towel Dispenser and paper Towel Roll - T2014101428,Ministry of Defence 5,1035.01,Awarded to Suppliers,RENTOKIL INITIAL SINGAPORE PRIVATE LIMITED
+DEF005ETT15000007,2015-04-28,For the supply of power filter boxes,Ministry of Defence 5,84600,Awarded to Suppliers,MUTECH PTE LTD
+DEF005ETT15000008,2015-07-13,Supply of Fiber Optic Transceivers - Ref 2014101763,Ministry of Defence 5,5564,Awarded to Suppliers,DIRECTOPTO TECHNOLOGY
+DEF005ETT15000012,2015-12-11,Unified Security System (Ref: T2015100260),Ministry of Defence 5,0,Awarded to No Suppliers,na
+DEF005ETT15000013,2015-08-21,Supply of Arista Network Switches and Accessories - Ref 2015100285,Ministry of Defence 5,250968.01,Awarded to Suppliers,NCS PTE. LTD.
+DEF005ETT15000015,2015-09-14,Supply of Fiber Optic Transceivers - Ref 2014101763,Ministry of Defence 5,72208.5,Awarded to Suppliers,PRECISION TECHNOLOGIES PTE LTD
+DEF005ETT15000024,2015-11-16,Supply of Arista Network Switches and Accessories - Ref 2015100682,Ministry of Defence 5,559332.74,Awarded to Suppliers,NCS PTE. LTD.
+DEF005ETT15000025,2015-10-28,Cisco Switch,Ministry of Defence 5,46720.2,Awarded to Suppliers,NCS PTE. LTD.
+DEF005ETT15000032,2016-03-14,Renewal of IBM SCCD Annual Subscription and Maintenance for Asset and Service Management System (ASM) Software (Ref: 2015100661),Ministry of Defence 5,134350,Awarded to Suppliers,UXC RED ROCK CONSULTING (SINGAPORE)
+DEF005ETT16000004,2016-05-20,Supply of Servers (Ref No.: 2015101866),Ministry of Defence 5,11200,Awarded to Suppliers,NCS PTE. LTD.

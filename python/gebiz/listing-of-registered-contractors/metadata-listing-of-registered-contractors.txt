@@ -1,0 +1,117 @@
+# Metadata for Listing Of Registered Contractors
+---
+Identifier: 'a8356cb8-8dd9-4436-a259-a9a3aa87f5c6'
+Name: 'listing-of-registered-contractors'
+Title: 'Listing Of Registered Contractors'
+Description: 'This dataset contains the list of contractors registered in BCA Contractor
+  Registration System (CRS). The BCA Contractors Registration System (CRS) serves
+  the construction and construction-related procurement needs of the public sector
+  including government ministries and statutory boards.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'Construction'
+  - 'Licensing'
+Publisher:
+  Name: 'Building and Construction Authority'
+  Admin 1:
+    Name: 'Adelbert Ngui'
+    Department: 'Procurement Policies Department'
+    Email: 'adelbert_ngui@bca.gov.sg'
+  Admin 2:
+    Name: 'Elaine Yip'
+    Department: 'Procurement Policies Department'
+    Email: 'elaine_yip@bca.gov.sg'
+Sources:
+  - 'Building and Construction Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2016-07-01 to 2019-08-01'
+Last Updated: '2017-04-19T15:43:57.796693'
+Resources:
+  -
+    Identifier: 'a9a9327f-7634-4367-be7f-d679a729bd96'
+    Title: 'Listing of Registered Contractors'
+    Url: 'https://storage.data.gov.sg/listing-of-registered-contractors/resources/listing-of-registered-contractors-2016-12-22T09-17-30Z.csv'
+    Format: 'CSV'
+    Coverage: '2016-07-01 to 2019-08-01'
+    Last Updated: '2016-12-22T09:17:30.525492'
+    Schema:
+      -
+        Name: 'company_name'
+        Title: 'Company Name'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Company Name'
+      -
+        Name: 'uen_no'
+        Title: 'UEN No'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'UEN No'
+      -
+        Name: 'workhead'
+        Title: 'Workhead'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Workhead'
+      -
+        Name: 'grade'
+        Title: 'Grade'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Grade'
+      -
+        Name: 'additional_info'
+        Title: 'Additional Info'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Additional Info'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'expiry_date'
+        Title: 'Expiry date'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'building_no'
+        Title: 'Building No'
+        Type: 'text'
+        Sub Type: 'address'
+        Description:
+          - 'Building No'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'street_name'
+        Title: 'Street Name'
+        Type: 'text'
+        Sub Type: 'address'
+      -
+        Name: 'unit_no'
+        Title: 'Unit No'
+        Type: 'text'
+        Sub Type: 'address'
+        Description:
+          - 'Unit No'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'building_name'
+        Title: 'Building Name'
+        Type: 'text'
+        Sub Type: 'address'
+        Description:
+          - 'Building Name'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'postal_code'
+        Title: 'Postal Code'
+        Type: 'text'
+        Sub Type: 'postal_code'
+        Description: 'Postal Code'
+      -
+        Name: 'tel_no'
+        Title: 'Tel No'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Tel No'

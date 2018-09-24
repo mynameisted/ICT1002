@@ -1,0 +1,87 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+WDA000ETT14000031,2015-01-29,WSU Motivational Workshop and Mentorship,Workforce Singapore,1122,Awarded to Suppliers,AGB EDUCATION CENTRE PTE. LTD.
+WDA000ETT14000031,2015-01-29,WSU Motivational Workshop and Mentorship,Workforce Singapore,1287,Awarded to Suppliers,NTUC LEARNINGHUB PTE. LTD.
+WDA000ETT14000031,2015-01-29,WSU Motivational Workshop and Mentorship,Workforce Singapore,1022,Awarded to Suppliers,SSA ACADEMY PTE. LTD.
+WDA000ETT14000033,2015-02-09,Invitation to Tender for Provision of Legal Services,Workforce Singapore,6530,Awarded to Suppliers,CENTRAL CHAMBERS LAW CORPORATION
+WDA000ETT14000033,2015-02-09,Invitation to Tender for Provision of Legal Services,Workforce Singapore,6550,Awarded to Suppliers,CHARACTERIST LLC
+WDA000ETT14000034,2015-02-11,Provision of Career Services Retention Tracking Survey (RTS),Workforce Singapore,60024,Awarded to Suppliers,MEDIA RESEARCH CONSULTANTS PTE LTD
+WDA000ETT14000035,2015-03-27,Provision of Design and Build Fit-Out Works,Workforce Singapore,1616885,Awarded to Suppliers,ID21 PTE. LTD.
+WDA000ETT14000036,2015-09-02,Provision of Classroom Recording System,Workforce Singapore,403383,Awarded to Suppliers,BLUE ORANGE PTE LTD
+WDA000ETT15000001,2015-03-17,Provision of Corporate Website Maintenance and Support,Workforce Singapore,420050,Awarded to Suppliers,DECISION SCIENCE AGENCY PTE. LTD.
+WDA000ETT15000002,2015-04-21,Design and build renovation works for WDA,Workforce Singapore,991209.2,Awarded to Suppliers,D' PERCEPTION SINGAPORE PTE. LTD.
+WDA000ETT15000003,2015-08-26,Provision of Term Survey Management Services,Workforce Singapore,6793.32,Awarded to Suppliers,MAJESTIC RESEARCH SERVICES ASIA PTE. LIMITED
+WDA000ETT15000003,2015-08-26,Provision of Term Survey Management Services,Workforce Singapore,12209.07,Awarded to Suppliers,NEXUS LINK PTE. LTD.
+WDA000ETT15000004,2015-05-06,Hardware Maintenance for WDA,Workforce Singapore,277798.4,Awarded to Suppliers,3D NETWORKS SINGAPORE PTE. LTD.
+WDA000ETT15000005,2015-07-08,Event and Training Management System (ETMS) maintenance,Workforce Singapore,78880,Awarded to Suppliers,IZENO PRIVATE LIMITED
+WDA000ETT15000006,2015-12-07,INVITION TO TENDER FOR INDIVIDUAL LEARNING PORTFOLIO (ILP),Workforce Singapore,61621050,Awarded to Suppliers,NCS PTE. LTD.
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,6784,Awarded to Suppliers,AUDIT ALLIANCE LLP
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,20780,Awarded to Suppliers,BDO LLP
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,12320,Awarded to Suppliers,FOO KON TAN LLP
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,16800,Awarded to Suppliers,Geetha A & Associates
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,14640,Awarded to Suppliers,JPL WONG & CO
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,12800,Awarded to Suppliers,"KONG, LIM & PARTNERS LLP"
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,13672,Awarded to Suppliers,MOORE STEPHENS LLP
+WDA000ETT15000007,2015-10-05,Provision of Audit Services,Workforce Singapore,18800,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+WDA000ETT15000008,2015-08-03,Provision of Research Services,Workforce Singapore,540000,Awarded to Suppliers,NEXUS LINK PTE. LTD.
+WDA000ETT15000009,2015-10-30,PROVISION OF SERVICES FOR A TOTAL ONLINE LEARNING SOLUTION PROOF-OF-CONCEPT (TOLS POC),Workforce Singapore,1673725,Awarded to Suppliers,imc information multimedia communication AG
+WDA000ETT15000010,2015-09-28,Provision of Manpower Study on the Spa Services Sector,Workforce Singapore,168224.3,Awarded to Suppliers,DELOITTE & TOUCHE ENTERPRISE RISK SERVICES PTE LTD
+WDA000ETT15000011,2016-02-04,"Provision of Consultancy, Application Development and Maintenance Services of Website and Training Management System",Workforce Singapore,9011412,Awarded to Suppliers,FUJITSU ASIA PTE LTD
+WDA000ETT15000012,2015-10-28,"Provision of Build & Renovation Works at WDA Career Centre, North West (NW)",Workforce Singapore,463851,Awarded to Suppliers,KYOOB - ID PTE. LTD.
+WDA000ETT15000013,2015-09-02,Provision of Singapore Workforce Skills Qualifications(WSQ) Outcomes Evaluation Survey(OES) 2015,Workforce Singapore,175500,Awarded to Suppliers,XPRESSWORKS PTE LTD
+WDA000ETT15000014,2015-12-03,Provision of copyediting and proofreading services,Workforce Singapore,0.6,Awarded to Suppliers,ASIASTAR INTERNATIONAL CONSULTANCY PTE. LTD.
+WDA000ETT15000014,2015-12-03,Provision of copyediting and proofreading services,Workforce Singapore,0.81,Awarded to Suppliers,PREPRESS PROJECTS LIMITED
+WDA000ETT15000015,2015-12-23,Provision of Brand Consultancy Services,Workforce Singapore,317400,Awarded to Suppliers,DIA Brand Consultants Pte. Ltd.
+WDA000ETT15000016,2016-03-16,Provision of Facilitator(s) for Facilitated Group Discussions,Workforce Singapore,20600,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+WDA000ETT15000017,2015-12-30,Invitation to Tender for Optimisation of Services,Workforce Singapore,48590005,Awarded to Suppliers,ST ELECTRONICS (E-SERVICES) PTE. LTD.
+WDA000ETT15000018,2015-11-04,Provision of Mailer Printing and Postage Service,Workforce Singapore,1517384.7,Awarded to Suppliers,SINGAPORE POST LIMITED
+WDA000ETT15000019,2015-11-02,Provision of Microsoft Licenses,Workforce Singapore,747498.8,Awarded to Suppliers,UIC Asian Computer Services Pte Ltd
+WDA000ETT15000020,2016-03-22,Design and Development of National Curriculum and National Assessment Plan,Workforce Singapore,155000,Awarded to Suppliers,Sigma Solutions HRD Consultants Pte Ltd
+WDA000ETT15000022,2016-02-05,Provision of Multi-Disciplinary Consultancy Services,Workforce Singapore,396800,Awarded to Suppliers,METAPHOR DESIGN + ARCHITECTURE PTE. LTD.
+WDA000ETT15000023,2016-03-07,Provision of Consultancy Services,Workforce Singapore,890000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS CONSULTING (SINGAPORE) PTE. LTD.
+WDA000ETT15000024,2016-02-04,Provision of SMS Gateway Service,Workforce Singapore,1502.4,Awarded to Suppliers,IZENO PRIVATE LIMITED
+WDA000ETT15000025,2016-02-16,"Provision of V hoods, graduation gowns, photography and videography services for Graduation Ceremony",Workforce Singapore,1755,Awarded to Suppliers,Raffles Studio Pte Ltd
+WDA000ETT15000026,2016-02-11,Provision of Software Licenses and Maintenance,Workforce Singapore,1803417,Awarded to Suppliers,S & I Systems Pte Ltd
+WDA000ETT16000001,2016-03-30,INVITATION TO TENDER FOR MOBILE BROADBAND SERVICES,Workforce Singapore,5110.3,Awarded to Suppliers,BTW Technology Pte Ltd
+WDA000ETT16000002,2016-04-05,Appointment of Integrated Communications Agency,Workforce Singapore,1955266,Awarded to Suppliers,DENTSU SINGAPORE PTE LTD
+WDA000ETT16000004,2016-03-14,Provision of Hybrid IP-PABX Telephone System,Workforce Singapore,263075,Awarded to Suppliers,IOSYS SOLUTIONS PTE. LTD.
+WDA000ETT16000005,2016-03-29,Supply of Electronic Journal Databases,Workforce Singapore,99614.81,Awarded to Suppliers,"EBSCO INTERNATIONAL, INC."
+WDA000ETT16000006,2016-05-12,Provision of Consultancy Services for the development of Professional Documents,Workforce Singapore,95300,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+WDA000ETT16000007,2016-05-05,Provision of Library Services for the Institute for Adult Learning,Workforce Singapore,131436,Awarded to Suppliers,CIVICA PTE. LTD.
+WDA000ETT16000008,2016-05-09,Demolition Works to Existing Features at Lifelong Learning Institute (LLI),Workforce Singapore,0,Awarded to No Suppliers,na
+WDA000ETT16000009,2016-04-29,Provision of Multi-Disciplinary Consultancy Services,Workforce Singapore,344380,Awarded to Suppliers,KYOOB ARCHITECTS PTE. LTD.
+WDA000ETT16000010,2016-06-09,Provision of Mover Services,Workforce Singapore,58600,Awarded to Suppliers,THE FAMILY MOVERS (SINGAPORE) PTE. LTD.
+WDA000ETT16000011,2016-07-15,Invitation to Tender for Workplace Design and Renovations,Workforce Singapore,892094.88,Awarded to Suppliers,D' PERCEPTION SINGAPORE PTE. LTD.
+WDA000ETT16000012,2016-07-21,Provision of Event Management Services,Workforce Singapore,412215,Awarded to Suppliers,EXPERIENCE MATTERS PTE. LTD.
+WDA000ETT16000013,2016-05-17,Provision of Hardware Maintenance,Workforce Singapore,255794.79,Awarded to Suppliers,NETWORK ARCHITECTS PTE. LTD.
+WDA000ETT16000014,2016-08-17,Appointment of Companies for Event Management Services,Workforce Singapore,82.5,Awarded to Suppliers,EXPERIENCE MATTERS PTE. LTD.
+WDA000ETT16000014,2016-08-17,Appointment of Companies for Event Management Services,Workforce Singapore,82.5,Awarded to Suppliers,FREEMAN PTE. LTD.
+WDA000ETT16000014,2016-08-17,Appointment of Companies for Event Management Services,Workforce Singapore,20.5,Awarded to Suppliers,ODYSSEY CONCEPTS PTE. LTD.
+WDA000ETT16000014,2016-08-17,Appointment of Companies for Event Management Services,Workforce Singapore,90,Awarded to Suppliers,Pico Art International Pte Ltd
+WDA000ETT16000015,2016-07-01,ETMS maintenance and support,Workforce Singapore,143790,Awarded to Suppliers,IZENO PRIVATE LIMITED
+WDA000ETT16000016,2016-08-26,A&A Works to Rooftop Space,Workforce Singapore,4748000,Awarded to Suppliers,KIENTA ENGINEERING CONSTRUCTION PTE. LTD.
+WDA000ETT16000017,2016-06-28,Provision of Consultancy Services,Workforce Singapore,900000,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+WDA000ETT16000018,2016-07-27,Invitation to Tender for Proposed Demolition Works,Workforce Singapore,267500,Awarded to Suppliers,CROWN CONSTRUCTION PTE LTD
+WDA000ETT16000019,2016-08-04,Provision of transcribing services,Workforce Singapore,549,Awarded to Suppliers,ASIASTAR INTERNATIONAL CONSULTANCY PTE. LTD.
+WDA000ETT16000019,2016-08-04,Provision of transcribing services,Workforce Singapore,762.5,Awarded to Suppliers,GLOBAL LINGO (S) PTE. LTD.
+WDA000ETT16000020,2016-08-17,Provision of Consultancy and Development Services,Workforce Singapore,705000,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+WDA000ETT16000021,2016-09-08,Provision of Singapore Workforce Skills Qualifications (WSQ) Outcomes Evaluation Survey (OES) 2016,Workforce Singapore,133763,Awarded to Suppliers,XPRESSWORKS PTE LTD
+WDA000ETT16000023,2016-09-09,"SUPPLY, DELIVERY AND INSTALLATION OF FURNITURE",Workforce Singapore,180781,Awarded to Suppliers,HAWORTH SINGAPORE PTE LTD
+WDA000ETT16000023,2016-09-09,"SUPPLY, DELIVERY AND INSTALLATION OF FURNITURE",Workforce Singapore,106924,Awarded to Suppliers,IM SPACE PTE. LTD.
+WDA000ETT16000023,2016-09-09,"SUPPLY, DELIVERY AND INSTALLATION OF FURNITURE",Workforce Singapore,74712,Awarded to Suppliers,Innoplan Technology Pte Ltd
+WDA000ETT16000023,2016-09-09,"SUPPLY, DELIVERY AND INSTALLATION OF FURNITURE",Workforce Singapore,472075,Awarded to Suppliers,VCOP Pte Ltd
+WDA000ETT16000024,2016-09-30,"Appointment of Media Agency to Provide Media Strategy, Consultancy, Planning and Buying Services",Workforce Singapore,17102.5,Awarded to Suppliers,DENTSU MOBIUS MEDIA PTE. LTD.
+WDA000ETT16000025,2016-09-19,Provision of Media Monitoring and Clipping Services,Workforce Singapore,162900,Awarded to Suppliers,NEWS SEARCH (SINGAPORE) PTE. LTD.
+WDA000ETT16000026,2016-09-15,Invitation to Tender for Office Interior Fit-Out,Workforce Singapore,3641716,Awarded to Suppliers,ID.INC INTERIORS PTE LTD
+WDA000ETT16000027,2016-11-02,Invitation to Tender for Reinstatement Works for Career Centre,Workforce Singapore,0,Awarded to No Suppliers,na
+WDA000ETT16000033,2017-02-08,Workplace Design and Renovation for Our Tampines Hub,Workforce Singapore,674059.2,Awarded to Suppliers,D' PERCEPTION SINGAPORE PTE. LTD.
+WDA000ETT17000001,2017-08-03,Invitation to Tender for Facility Management Services,Workforce Singapore,937260,Awarded to Suppliers,GUTHRIE FMC PTE. LTD.
+WDA000ETT17000002,2017-08-18,Development and Delivery of Digital Content Strategy,Workforce Singapore,405150,Awarded to Suppliers,NOVUS MEDIA SOLUTIONS PTE. LTD.
+WDA000ETT17000003,2017-12-02,Conducting of WSG Customer Satisfaction Survey,Workforce Singapore,257166,Awarded to Suppliers,IPSOS PTE. LTD.
+WDA000ETT17000004,2017-11-02,Invitation to Tender for provision of audit services,Workforce Singapore,463550,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+WDA000ETT17000004,2017-11-02,Invitation to Tender for provision of audit services,Workforce Singapore,266000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD.
+WDA000ETT17000005,2017-12-14,Design and Delivery of Professional Development Programme,Workforce Singapore,33474,Awarded to Suppliers,ABUNDANZ CONSULTING PTE. LTD.
+WDA000ETT17000005,2017-12-14,Design and Delivery of Professional Development Programme,Workforce Singapore,5390,Awarded to Suppliers,EDUTEX PTE. LTD.
+WDA000ETT17000005,2017-12-14,Design and Delivery of Professional Development Programme,Workforce Singapore,420,Awarded to Suppliers,HCS PRODUCTIVITY & CONSULTANCY PTE. LTD.
+WDA000ETT17000005,2017-12-14,Design and Delivery of Professional Development Programme,Workforce Singapore,37200,Awarded to Suppliers,HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+WDA000ETT17000005,2017-12-14,Design and Delivery of Professional Development Programme,Workforce Singapore,120,Awarded to Suppliers,Mind Map Training Centre Pte Ltd
+WDA000ETT17000006,2017-11-28,Provision of Audit Services for the Financial Statements of Workforce Singapore Agency,Workforce Singapore,360000,Awarded to Suppliers,KPMG LLP

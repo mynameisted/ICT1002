@@ -1,0 +1,28 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+INDMGSETT14000017,2015-01-22,"PROVISION OF NETBALL TRAINING TRIP TO PERTH, AUSTRALIA FOR METHODIST GIRLS SCHOOL",Methodist Girls' School (Secondary),0,Awarded to No Suppliers,na
+INDMGSETT15000002,2015-04-15,Provision of An Applied Learning Trip to South Korea for Methodist Girls' School,Methodist Girls' School (Secondary),79980,Awarded to Suppliers,GLOBAL TRAVEL PTE LTD
+INDMGSETT15000003,2015-04-01,Provision of Educational Trip to Taiwan for Methodist Girls' School,Methodist Girls' School (Secondary),64717,Awarded to Suppliers,Siam Express Pte Ltd
+INDMGSETT15000004,2015-04-16,Provision of Educational Tour to West Malaysia (Penang) for Methodist Girls' School,Methodist Girls' School (Secondary),229673.5,Awarded to Suppliers,JOURNEYFUL PTE. LTD.
+INDMGSETT15000005,2015-04-06,"PROVISION OF EDUCATIONAL FIELDTRIP TO PERTH, AUSTRALIA",Methodist Girls' School (Secondary),107789,Awarded to Suppliers,STA TRAVEL (PTE) LTD
+INDMGSETT15000007,2015-04-10,Provision of Educational Fieldtrip to United Kingdom to Methodist Girls' School,Methodist Girls' School (Secondary),130380,Awarded to Suppliers,FORTUNE TRAVEL PTE LTD
+INDMGSETT15000009,2015-07-29,Supply of Dance Educator for Modern Dance Choreography and Modern Dance Technique for MGS,Methodist Girls' School (Secondary),84000,Awarded to Suppliers,KWOH YAP CHUANG
+INDMGSETT15000010,2015-10-20,Minor Renovation Works and Replacement of Existing Laboratory Furniture,Methodist Girls' School (Secondary),356907,Awarded to Suppliers,QUEST TECHNOLOGY (S) PTE LTD
+INDMGSETT15000011,2015-10-08,Proposed Additions and Alterations to the existing Methodist Girl's School on lot 05125L MK04 at 11 Blackmore Drive S 599986,Methodist Girls' School (Secondary),356400,Awarded to Suppliers,GLASS@WORX PTE. LTD.
+INDMGSETT15000013,2015-12-21,PROVISION OF CLEANING & HOUSEKEEPING SERVICES TO METHODIST GIRLS SCHOOL,Methodist Girls' School (Secondary),862512,Awarded to Suppliers,PRIMECH SERVICES & ENGRG PTE LTD
+INDMGSETT15000014,2015-10-22,Proposed Air Conditioning Installation Works to the existing MGS,Methodist Girls' School (Secondary),142000,Awarded to Suppliers,LITTLE SWAN AIR-CONDITIONING & ENGINEERING PTE. LTD.
+INDMGSETT15000017,2015-10-13,Proposed Sound Proofing Works (MEP Rooms) to the existing Methodist Girls' School.,Methodist Girls' School (Secondary),166000,Awarded to Suppliers,CATHAY INTERIORS PTE. LTD.
+INDMGSETT15000021,2016-03-01,Provision of Education Trip to Taiwan for Methodist Girls' School,Methodist Girls' School (Secondary),0,Awarded to No Suppliers,na
+INDMGSETT15000022,2016-05-12,Provision of Applied Learning Trip to South Korea for Methodist Girls' School,Methodist Girls' School (Secondary),0,Awarded to No Suppliers,na
+INDMGSETT16000001,2016-05-12,"Provision of a 4 Days 3 Nights Educational Trip to Chiang Mai, Thailand",Methodist Girls' School (Secondary),0,Awarded to No Suppliers,na
+INDMGSETT16000002,2016-05-12,"Provision of Educational Tour to Kuching, Sarawak. East Malaysia",Methodist Girls' School (Secondary),0,Awarded to No Suppliers,na
+INDMGSETT16000003,2016-05-12,Provision of Educational Tour to West Malaysia (Penang),Methodist Girls' School (Secondary),0,Awarded to No Suppliers,na
+INDMGSETT16000004,2016-03-21,Provision of Educational Fieldtrip to UK,Methodist Girls' School (Secondary),108300,Awarded to Suppliers,FORTUNE TRAVEL PTE LTD
+INDMGSETT16000005,2016-05-05,PROVISION OF EDUCATIONAL TRIP TO TAIWAN,Methodist Girls' School (Secondary),74710,Awarded to Suppliers,STA TRAVEL (PTE) LTD
+INDMGSETT16000006,2016-11-14,Proposed Toilet Upgrading and Removal of Classroom Cabinets Work,Methodist Girls' School (Secondary),115752,Awarded to Suppliers,RONG DU BUILDING CONSTRUCTION PTE. LTD.
+INDMGSETT16000008,2016-12-20,Provision of Security Guard Services to Methodist Girls' School,Methodist Girls' School (Secondary),814800,Awarded to Suppliers,PROSEGUR SINGAPORE PTE. LTD.
+INDMGSETT16000009,2016-12-02,PROPOSED UPGRADING WORKS TO EXISTING PUBLIC ADDRESS (PA) SYSTEM AT METHODIST GIRLS' SCHOOL ON LOT 05125L MK04 AT 11 BLACKMORE DRIVE,Methodist Girls' School (Secondary),245566.17,Awarded to Suppliers,SYNERGY AVL PTE. LTD.
+INDMGSETT17000001,2017-03-16,Supply and delivery of Microsoft Surface Pro 4 and Apple MacBook,Methodist Girls' School (Secondary),64660,Awarded to Suppliers,NEWSTEAD TECHNOLOGIES PTE LTD
+INDMGSETT17000001,2017-03-16,Supply and delivery of Microsoft Surface Pro 4 and Apple MacBook,Methodist Girls' School (Secondary),127530,Awarded to Suppliers,UIC Asian Computer Services Pte Ltd
+INDMGSETT17000002,2017-03-31,Supply of Landscaping Services,Methodist Girls' School (Secondary),157056,Awarded to Suppliers,TAILONG INVESTMENT PRIVATE LIMITED
+INDMGSETT17000004,2017-11-01,Design and Production of Yearbook for Methodist Girls' School,Methodist Girls' School (Secondary),93700,Awarded to Suppliers,LONDONBOB DESIGN
+INDMGSETT17000007,2017-12-22,Provision of Onsite Printing and Related Services for Methodist Girls' School (Secondary),Methodist Girls' School (Secondary),136640,Awarded to Suppliers,ALL-BEST PHOTOCOPY & PRINTING

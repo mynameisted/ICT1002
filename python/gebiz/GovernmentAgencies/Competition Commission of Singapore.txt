@@ -1,0 +1,8 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+CCS000ETT14000006,2015-02-26,"Provision of Meeting Package, Meeting & Function Rooms, Dining Packages and Hotel Accomodation for the International Competition Network Annual Conference 2016",Competition Commission of Singapore,219259.05,Awarded to Suppliers,MARINA BAY SANDS PTE. LTD.
+CCS000ETT15000001,2015-09-09,Professsional conference organiser services for ICN Annual Conference 2016,Competition Commission of Singapore,224349,Awarded to Suppliers,ROXWELL PTE. LTD.
+CCS000ETT16000003,2016-04-15,Provision and Installation of New Access Card Reader System and Comprehensive Maintenance for Security System,Competition Commission of Singapore,84350,Awarded to Suppliers,CERTIS TECHNOLOGY (SINGAPORE) PTE. LTD.
+CCS000ETT16000006,2016-08-17,Provision of Renovation Works of Office Rooms For Competition Commission Of Singapore (CCS),Competition Commission of Singapore,107769,Awarded to Suppliers,Aspacio Design Associates Pte Ltd
+CCS000ETT16000007,2016-12-21,"Provision of Consultancy Services on ""Competition Policy, E-Commerce and Big Data in ASEAN""",Competition Commission of Singapore,393600,Awarded to Suppliers,PRICEWATERHOUSECOOPERS CONSULTING (SINGAPORE) PTE. LTD.
+CCS000ETT17000001,2017-09-13,"The supply, design, development, delivery, installation, testing, training and commissioning of a fully operational Intranet System for Competition Commission of Singapore",Competition Commission of Singapore,1578000,Awarded to Suppliers,TO THE POINT PRIVATE LIMITED
+CCS000ETT17000002,2017-10-05,Appointment of External Auditor of Financial Year 2017/2018,Competition Commission of Singapore,177000,Awarded to Suppliers,KPMG LLP

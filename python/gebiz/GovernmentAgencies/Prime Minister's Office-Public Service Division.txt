@@ -1,0 +1,33 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+PMOPSDETT14000028,2015-02-12,"INVITATION TO TENDER FOR APPOINTMENT OF CONSULTANTS TO DEVELOP A SERVICE DELIVERY COMPETENCY FRAMEWORK, ROLE PROFILES, APPRAISAL TOOLS AND USER GUIDE",Prime Minister's Office-Public Service Division,460000,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+PMOPSDETT14000031,2015-02-12,Tender for Provision of Consultancy Services (for MDT),Prime Minister's Office-Public Service Division,920000,Awarded to Suppliers,LIU & WO ARCHITECTS PTE LTD
+PMOPSDETT14000033,2015-02-12,Tender for Provision of Consultancy Services (for QS),Prime Minister's Office-Public Service Division,288000,Awarded to Suppliers,DAVIS LANGDON KPK (SINGAPORE) PTE. LTD.
+PMOPSDETT14000034,2015-04-06,"DESIGN, LAYOUT AND PRINTING SERVICES",Prime Minister's Office-Public Service Division,163300,Awarded to Suppliers,The Press Room
+PMOPSDETT15000001,2015-03-23,TENDER FOR THE PROVISION OF MEDIA MONITORING SERVICES,Prime Minister's Office-Public Service Division,280850,Awarded to Suppliers,INSIGHTMATRIX
+PMOPSDETT15000002,2015-06-23,Provision of Services To Design And Conduct Innovation Workshops,Prime Minister's Office-Public Service Division,122600,Awarded to Suppliers,CHEMISTRY FORM PTE. LTD.
+PMOPSDETT15000003,2015-07-31,APPOINTMENT OF CREATIVE AGENCY TO RUN A PUBLICITY CAMPAIGN,Prime Minister's Office-Public Service Division,4935146,Awarded to Suppliers,M & C SAATCHI (S) PTE LTD
+PMOPSDETT15000005,2015-06-30,"Tender for the provision of on-site scanning, conversion and tagging services of hardcopy documents to electronic copy",Prime Minister's Office-Public Service Division,81125.09,Awarded to Suppliers,CD Imaging Pte Ltd
+PMOPSDETT15000008,2015-08-06,TENDER FOR REPAIR AND REFURBISHMENT WORKS TO ALOHA LOYANG,Prime Minister's Office-Public Service Division,1558899,Awarded to Suppliers,ISO-TEAM CORPORATION PTE LTD
+PMOPSDETT15000009,2015-10-13,Additions and Alterations to Aloha Changi Chalet,Prime Minister's Office-Public Service Division,368899,Awarded to Suppliers,ISO-TEAM CORPORATION PTE LTD
+PMOPSDETT15000010,2015-10-05,Tender for the provision of venue rental and dinner,Prime Minister's Office-Public Service Division,76482.86,Awarded to Suppliers,CITY HOTELS PTE. LTD.
+PMOPSDETT15000013,2016-01-28,Additions and Alterations to Aloha Changi Resorts,Prime Minister's Office-Public Service Division,13947183,Awarded to Suppliers,RAYMOND CONSTRUCTION PTE LTD
+PMOPSDETT16000003,2016-04-05,UPGRADING OF UNDERGROUND WATER RETICULATION NETWORK AT ALOHA LOYANG,Prime Minister's Office-Public Service Division,749000,Awarded to Suppliers,BNF Engineering (S) Pte Ltd
+PMOPSDETT16000004,2016-05-26,Provision of Consultancy Services,Prime Minister's Office-Public Service Division,710000,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+PMOPSDETT16000006,2016-06-29,Tender for Public Officers Group Insurance Scheme (POGIS),Prime Minister's Office-Public Service Division,1,Awarded to Suppliers,NTUC Income Insurance Co-operative Ltd
+PMOPSDETT16000007,2016-07-25,Provision of Consultancy Services,Prime Minister's Office-Public Service Division,835080,Awarded to Suppliers,ACCENTURE PTE LTD
+PMOPSDETT16000008,2016-12-06,Provision of Services for the Production of Challenge Magazine,Prime Minister's Office-Public Service Division,122650,Awarded to Suppliers,MEDIACORP PTE. LTD.
+PMOPSDETT16000008,2016-12-06,Provision of Services for the Production of Challenge Magazine,Prime Minister's Office-Public Service Division,1284557.91,Awarded to Suppliers,TUBER PRODUCTIONS PTE. LTD.
+PMOPSDETT16000009,2016-08-31,Tender For Repair And Refurbishment Works To Aloha Loyang,Prime Minister's Office-Public Service Division,6868000,Awarded to Suppliers,TOH KIM BOCK C-E CONTRACTOR PTE LTD
+PMOPSDETT16000012,2017-01-23,"Appointment of Service Provider to Provide Auditing, and other Related Services",Prime Minister's Office-Public Service Division,1454155,Awarded to Suppliers,PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD.
+PMOPSDETT16000013,2016-11-29,Invitation to Tender for Market Perception Study,Prime Minister's Office-Public Service Division,49900,Awarded to Suppliers,THE NIELSEN COMPANY (SINGAPORE) PTE. LTD.
+PMOPSDETT16000014,2017-03-16,PROVISION OF APPLICATION DEVELOPMENT AND MAINTENANCE SERVICES FOR A SURVEY SYSTEM,Prime Minister's Office-Public Service Division,1704336,Awarded to Suppliers,JUSFEEDBACK PTE. LTD.
+PMOPSDETT16000016,2017-04-13,Tender for the Supply of Private Sector Salary Data,Prime Minister's Office-Public Service Division,13500,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+PMOPSDETT16000016,2017-04-13,Tender for the Supply of Private Sector Salary Data,Prime Minister's Office-Public Service Division,12190,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+PMOPSDETT16000016,2017-04-13,Tender for the Supply of Private Sector Salary Data,Prime Minister's Office-Public Service Division,5987.99,Awarded to Suppliers,WILLIS TOWERS WATSON CONSULTING (SINGAPORE) PTE. LTD.
+PMOPSDETT17000001,2017-05-17,TENDER FOR REPAIR AND REFURBISHMENT WORKS TO OFFICE SPACE,Prime Minister's Office-Public Service Division,177980,Awarded to Suppliers,Binjai Interior Design Pte Ltd
+PMOPSDETT17000002,2017-12-11,PROVISION OF A HR AND PAYROLL SYSTEM,Prime Minister's Office-Public Service Division,121579794,Awarded to Suppliers,NCS PTE. LTD.
+PMOPSDETT17000003,2017-06-01,"TENDER TO SUPPLY AND DELIVERY OF LINENS, QUILTS, AND SOFA CUSHIONS TO ALOHA RESORTS",Prime Minister's Office-Public Service Division,2376,Awarded to Suppliers,Asarco Pacific Pte Ltd
+PMOPSDETT17000003,2017-06-01,"TENDER TO SUPPLY AND DELIVERY OF LINENS, QUILTS, AND SOFA CUSHIONS TO ALOHA RESORTS",Prime Minister's Office-Public Service Division,33346.5,Awarded to Suppliers,H CONCEPT ASIA PTE. LTD.
+PMOPSDETT17000003,2017-06-01,"TENDER TO SUPPLY AND DELIVERY OF LINENS, QUILTS, AND SOFA CUSHIONS TO ALOHA RESORTS",Prime Minister's Office-Public Service Division,47190,Awarded to Suppliers,MATTRESS INTERNATIONAL PTE. LTD.
+PMOPSDETT17000006,2017-07-27,TENDER FOR DEVELOPMENT AND CONDUCT OF CURRICULUM FOR BEHAVIOURAL SCIENCE AND RANDOMISED CONTROL TRIALS,Prime Minister's Office-Public Service Division,242550,Awarded to Suppliers,BEHAVIOURAL INSIGHTS (SINGAPORE) PTE. LTD.
+PMOPSDETT17000007,2017-10-24,Replacement of underground electrical cables,Prime Minister's Office-Public Service Division,34383,Awarded to Suppliers,AVVERY ENGINEERING PTE. LTD.

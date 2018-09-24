@@ -1,0 +1,4 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+CPM000ETT15000001,2015-02-06,"Proposed Design and Build of an 8th Storey Office Unit #08-01 at HDB Hub, East Wing 480 Lorong 6 Toa Payoh, Singapore 310480.",Centre for Public Project Management,222000,Awarded to Suppliers,VALENCIA DESIGN PTE. LTD.
+CPM000ETT15000002,2015-12-09,Tenderers with EPPU registration under the supply head EPU/SER/34 (Consultancy Services) at Financial Grade S2 and above are invited to participate in this tender.,Centre for Public Project Management,24900,Awarded to Suppliers,JCP CONSULTANCY INTERNATIONAL LIMITED
+CPM000ETT15000002,2015-12-09,Tenderers with EPPU registration under the supply head EPU/SER/34 (Consultancy Services) at Financial Grade S2 and above are invited to participate in this tender.,Centre for Public Project Management,46500,Awarded to Suppliers,THE AUSTRALIAN CENTRE FOR VALUE MANAGEMENT PTY LTD

@@ -1,0 +1,710 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+LTA000ETT13000291,2015-01-29,Walk2Ride Programme,Land Transport Authority,82963500,Awarded to Suppliers,OR KIM PEOW CONTRACTORS (PRIVATE) LIMITED
+LTA000ETT13000295,2015-01-29,Walk2Ride Programme,Land Transport Authority,60963500,Awarded to Suppliers,OR KIM PEOW CONTRACTORS (PRIVATE) LIMITED
+LTA000ETT13000313,2015-01-27,Proposed Lift Shafts to Existing Pedestrian Overhead Bridges,Land Transport Authority,21926000,Awarded to Suppliers,TAI YONG CONSTRUCTION PTE. LTD.
+LTA000ETT14000011,2015-03-03,Supply and Installation of Mechanical Services for Mandai Depot,Land Transport Authority,29644800,Awarded to Suppliers,GAMMON PTE. LIMITED
+LTA000ETT14000061,2015-05-05,Proposed Enhancement to Existing Commuter Infrastructure,Land Transport Authority,4500000,Awarded to Suppliers,CCECC SINGAPORE PTE LTD
+LTA000ETT14000079,2015-04-27,Reinstatement Works for North South Expressway,Land Transport Authority,38810000,Awarded to Suppliers,CHC CONSTRUCTION PTE. LTD.
+LTA000ETT14000087,2015-01-23,Design and Construction of Stabling Yard at Gali Batu Depot,Land Transport Authority,137380000,Awarded to Suppliers,HOCK LIAN SENG INFRASTRUCTURE PTE. LTD.
+LTA000ETT14000110,2015-03-18,Junction Enhancements at Bukit Batok Road between PIE and Bukit Batok West Avenue 3,Land Transport Authority,14333700,Awarded to Suppliers,CHEE YAM CONTRACTOR PTE. LTD.
+LTA000ETT14000115,2015-05-12,Design and Construction of Cycling Path Network in Bedok,Land Transport Authority,9627000,Awarded to Suppliers,HCJ CONSTRUCTION PTE. LTD.
+LTA000ETT14000118,2015-02-23,Design and Construction of Cycling Path Network in Punggol,Land Transport Authority,2950000,Awarded to Suppliers,HCJ CONSTRUCTION PTE. LTD.
+LTA000ETT14000151,2015-05-12,Design and Construction of Cycling Path Network in Jurong Lake,Land Transport Authority,9758000,Awarded to Suppliers,HCJ CONSTRUCTION PTE. LTD.
+LTA000ETT14000159,2015-01-16,Wheel Impact Load Detection (WILD) System For Downtown Line,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000163,2015-01-14,Implementation of Noise Barriers at Rail Viaduct,Land Transport Authority,17086070,Awarded to Suppliers,C K T THOMAS PRIVATE LIMITED
+LTA000ETT14000170,2015-03-02,Construction of Linkways to DTL2 Stations,Land Transport Authority,37100000,Awarded to Suppliers,KTC CIVIL ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT14000171,2015-04-30,Supply and Installation of Electrical Services for Mandai Depot,Land Transport Authority,41620000,Awarded to Suppliers,GAMMON PTE. LIMITED
+LTA000ETT14000172,2015-05-11,"Addition & Alteration Works on Communications, Control and Station Travel Information Systems to Existing Stations that Interchange with Thomson Line",Land Transport Authority,27995000,Awarded to Suppliers,Siemens Pte Ltd
+LTA000ETT14000174,2015-02-13,"Design, Supply and Installation of Photovoltaic System",Land Transport Authority,3670992,Awarded to Suppliers,PHOENIX SOLAR PTE. LTD.
+LTA000ETT14000176,2015-03-02,Upgrading of Vehicular Bridge at Woodlands Centre Road,Land Transport Authority,5257900,Awarded to Suppliers,CHAN & CHAN ENGINEERING PTE. LTD.
+LTA000ETT14000178,2015-06-22,Expansion of KPE/TPE Interchange including Link Road to Punggol Central,Land Transport Authority,189339600,Awarded to Suppliers,HWA SENG BUILDER PTE LTD
+LTA000ETT14000179,2015-04-08,Trackwork For Gali Batu Depot,Land Transport Authority,16962000,Awarded to Suppliers,CTCI Coporation / CTCI Singapore Pte Ltd Consortium
+LTA000ETT14000183,2015-01-06,Consultancy Service for Overhead Catenary System,Land Transport Authority,373000,Awarded to Suppliers,EGIS RAIL PTE. LTD.
+LTA000ETT14000186,2015-06-15,Consultancy Services for Bus Depots,Land Transport Authority,6886689,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT14000188,2015-07-20,Design and Build of Enhancement to Existing MRT/LRT Stations and Associated Commuter Facilities,Land Transport Authority,8656000,Awarded to Suppliers,TAI YONG CONSTRUCTION PTE. LTD.
+LTA000ETT14000189,2015-04-13,Widening of Loyang Avenue between Pasir Ris Drive 3 and Tampines Expressway,Land Transport Authority,5680000,Awarded to Suppliers,JIN CHOON CIVIL ENGINEERING PTE. LTD.
+LTA000ETT14000191,2015-06-23,Proposed Infrastructure Under Existing Vehicular Bridge,Land Transport Authority,2000000,Awarded to Suppliers,JEI FONG ENGINEERING PTE. LTD.
+LTA000ETT14000193,2015-02-12,Temporary Road at Punggol,Land Transport Authority,13372000,Awarded to Suppliers,Hwa Seng Builder Pte Ltd / JYC Consultancy Pte Ltd
+LTA000ETT14000199,2015-01-29,"Supply, Installation, Testing and Commissioning of Cables and Associated Equipment for Bus Ticketing Equipment",Land Transport Authority,954625.59,Awarded to Suppliers,SMRT AUTOMOTIVE SERVICES PTE. LTD.
+LTA000ETT14000202,2015-04-06,Implementation of Support Enhancement Measures for Tunnel Equipment and Fixtures in Rail Tunnels,Land Transport Authority,4485335.9,Awarded to Suppliers,AGITECH INNOVATIONS PRIVATE LIMITED
+LTA000ETT14000203,2015-04-20,Widening of Simei Street 3 (Part) and Other Road Works,Land Transport Authority,1961240,Awarded to Suppliers,ECK Shen Construction & Trading Pte Ltd
+LTA000ETT14000205,2015-01-12,"Supply, Installation and Monitoring of Instruments for Contract ER382",Land Transport Authority,1488160,Awarded to Suppliers,GEOAPPLICATION ENGINEERS PTE. LTD.
+LTA000ETT14000206,2015-03-05,5-Year Contract for the Maintenance and Installation of Traffic Signal System,Land Transport Authority,39585805.79,Awarded to Suppliers,ATS TRAFFIC PTE LTD
+LTA000ETT14000206,2015-03-05,5-Year Contract for the Maintenance and Installation of Traffic Signal System,Land Transport Authority,34647053.56,Awarded to Suppliers,ENG HUP ENGINEERING PTE LTD
+LTA000ETT14000207,2015-08-12,Provision of Bus Depot Equipment,Land Transport Authority,6180108,Awarded to Suppliers,KTC CIVIL ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT14000209,2015-03-20,Application-Specific Integrated Circuit (ASIC) for Intelligent Transport System Applications,Land Transport Authority,12431700,Awarded to Suppliers,XILINX SALES INTERNATIONAL PTE. LTD.
+LTA000ETT14000210,2015-05-07,Bus Contracting - Bulim Bus Package,Land Transport Authority,125564769,Awarded to Suppliers,TOWER TRANSIT GROUP LIMITED
+LTA000ETT14000211,2015-01-16,Additions and Alteration Works to an Existing MRT Station,Land Transport Authority,1684800,Awarded to Suppliers,YUAN MEI CHEN (S) PTE. LTD.
+LTA000ETT14000213,2015-01-08,Provision of Electrical and Mechanical Systems to an Existing MRT Station,Land Transport Authority,607126,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT14000215,2015-06-10,Supply and Installation of Tunnel Ventilation and Environmental Control Systems for Thomson Line Stage 1 and 2,Land Transport Authority,59996295,Awarded to Suppliers,VOLTAS LIMITED
+LTA000ETT14000216,2015-05-05,Roadworks at Choa Chu Kang Avenue 4 between Choa Chu Kang Loop and Choa Chu Kang Drive,Land Transport Authority,1670000,Awarded to Suppliers,PENG CHUAN ENGINEERING CONSTRUCTION PTE. LTD.
+LTA000ETT14000217,2015-04-27,Design and Construction of Canberra Station,Land Transport Authority,96443500,Awarded to Suppliers,China State Construction Engineering Corporation Limited (Singapore Branch) / Surbana International Consultants Pte Ltd
+LTA000ETT14000218,2015-01-12,"Minor Works at Circle Line Stations, Tunnels and Depot",Land Transport Authority,150510,Awarded to Suppliers,RN & ASSOCIATES PTE LTD
+LTA000ETT14000219,2015-06-10,"Widening of Woodlands Road, Choa Chu Kang Link and Stagmont Ring",Land Transport Authority,46860000,Awarded to Suppliers,HWA SENG BUILDER PTE LTD
+LTA000ETT14000221,2015-02-06,Regular Inspection of Road Structures in Central Sector,Land Transport Authority,808500,Awarded to Suppliers,ANG & ONG CONSULTANTS PTE. LTD.
+LTA000ETT14000222,2015-02-06,Regular Inspection of Road Structures in West Sector,Land Transport Authority,771000,Awarded to Suppliers,CMP CONSULTANTS PRIVATE LIMITED
+LTA000ETT14000223,2015-02-06,Regular Inspection of Road Structures in East Sector,Land Transport Authority,596760,Awarded to Suppliers,Novaars International Pte Ltd
+LTA000ETT14000224,2015-02-06,Regular Inspection of Road Structures along Expressways,Land Transport Authority,1182466,Awarded to Suppliers,ALLIANCE CONSULTING ENGINEERS PTE. LTD.
+LTA000ETT14000225,2015-04-20,Road and Civil Works at Various Locations,Land Transport Authority,4900000,Awarded to Suppliers,AVENUE ENGINEERING PTE. LTD.
+LTA000ETT14000226,2015-02-17,Appointment of QP(Supervision) for Contract ER436 Proposed Lift Shafts to Existing Pedestrian Overhead Bridges,Land Transport Authority,674000,Awarded to Suppliers,Novaars International Pte Ltd
+LTA000ETT14000227,2015-03-23,"Advanced Sewer Diversion (Package 1), NEWater Pipe and Effluent Outfall Pipe",Land Transport Authority,53440576,Awarded to Suppliers,Ed Zublin AG Singapore Branch
+LTA000ETT14000228,2015-06-10,Supply and Installation of Electrical Services for Thomson-East Coast Line Stages 1 and 2,Land Transport Authority,76239000,Awarded to Suppliers,GUTHRIE ENGINEERING (S) PTE LTD
+LTA000ETT14000230,2015-06-05,Advance Sewer Diversions (Package 2),Land Transport Authority,78600000,Awarded to Suppliers,"ED. ZUBLIN AG, SINGAPORE BRANCH"
+LTA000ETT14000231,2015-02-23,Provision of Venue and Catering Services for LTA Function,Land Transport Authority,205700,Awarded to Suppliers,RESORTS WORLD AT SENTOSA PTE. LTD.
+LTA000ETT14000232,2015-09-22,Trains for North-South / East-West Lines,Land Transport Authority,136800000,Awarded to Suppliers,"Kawasaki Heavy Industries, Ltd. / CSR Qingdao Sifang Co., Ltd. / Kawasaki Heavy Industries (S) Pte Ltd Consortium"
+LTA000ETT14000234,2015-04-27,Realignment of Sheares Avenue,Land Transport Authority,3390000,Awarded to Suppliers,SAMWOH CORPORATION PTE. LTD.
+LTA000ETT14000235,2015-04-07,Decking of Sungei Ketapang,Land Transport Authority,25980000,Awarded to Suppliers,HSL Constructor Pte Ltd
+LTA000ETT14000236,2015-03-17,Appointment of Accredited Checker for Contract 9061,Land Transport Authority,138350,Awarded to Suppliers,Meinhardt Infrastructure Pte Ltd
+LTA000ETT14000237,2015-02-16,Roadworks at Jalan Anak Bukit/Upper Bukit Timah Road junction and CTE,Land Transport Authority,1777998,Awarded to Suppliers,HARFORD ENGINEERING PTE LTD
+LTA000ETT14000238,2015-06-12,Supply and Installation of Tunnel Ventilation and Environmental Control Systems for Thomson-East Coast Line Stage 3,Land Transport Authority,85580000,Awarded to Suppliers,SHINRYO CORPORATION (SINGAPORE BRANCH)
+LTA000ETT14000239,2015-06-15,Consultancy Services for Bus Depots,Land Transport Authority,10988000,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+LTA000ETT14000240,2015-04-09,Comprehensive Maintenance of EMAS Central Computer System,Land Transport Authority,2602520,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT14000241,2015-04-07,Appointment of Consultant for Supervision of Contract 9061,Land Transport Authority,2590700,Awarded to Suppliers,EMERALD GEOTECHNIC PTE. LTD.
+LTA000ETT14000242,2015-03-12,360 Leadership Survey,Land Transport Authority,78000,Awarded to Suppliers,MANAGEMENT CENTRE OF ASIA PTE. LTD.
+LTA000ETT14000243,2015-03-30,Inspection of Submerged Elements of Road Structures,Land Transport Authority,516000,Awarded to Suppliers,ANG & ONG CONSULTANTS PTE. LTD.
+LTA000ETT14000244,2015-04-24,Advance Utility And Sewer Diversion At Tanjong Rhu And Katong Park Stations,Land Transport Authority,44842000,Awarded to Suppliers,AIK LEONG PLUMBING CONSTRUCTION PTE LTD
+LTA000ETT14000245,2015-02-27,Work Injury Compensation Insurance/Employer's Liability Insurances for Canberra (NS12) Station and Trains for North South East West Line Projects,Land Transport Authority,49500,Awarded to Suppliers,MS FIRST CAPITAL INSURANCE LIMITED
+LTA000ETT14000247,2015-05-05,Procurement of Water Handling Equipment,Land Transport Authority,6634044.25,Awarded to Suppliers,PURETECH ENGINEERING PTE LTD
+LTA000ETT14000248,2015-02-13,Renovation Works for Production & Non Production Data Centre,Land Transport Authority,2128000,Awarded to Suppliers,EVERGREEN ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT14000249,2015-04-09,Integrated Maintenance of LTA Premises,Land Transport Authority,17701800,Awarded to Suppliers,Bintai Kindenko Pte Ltd
+LTA000ETT14000250,2015-08-11,Expansion of Tampines Bus Interchange,Land Transport Authority,7580000,Awarded to Suppliers,YONG XING CONSTRUCTION PTE. LTD.
+LTA000ETT14000251,2015-03-04,Provision of Maintenance Services for Soft Landscape at No. 1 Hampshire Road,Land Transport Authority,447690,Awarded to Suppliers,TOH KIM BOCK C-E CONTRACTOR PTE LTD
+LTA000ETT14000252,2015-03-10,Term Contract for Trial Trenches for A Period of Three (3) Years,Land Transport Authority,587193,Awarded to Suppliers,Citi Construction & Engineering pte ltd
+LTA000ETT14000253,2015-08-11,Expansion of Sengkang Bus Interchange,Land Transport Authority,7686223,Awarded to Suppliers,W'RAY CONSTRUCTION PTE. LTD.
+LTA000ETT14000254,2015-05-11,Upgrading of Directional Signs,Land Transport Authority,1588000,Awarded to Suppliers,Gleason Advertising Pte Ltd
+LTA000ETT14000255,2015-06-12,Operations and Maintenance Services for Vehicle Registration and Licensing System (VRLS),Land Transport Authority,78754126,Awarded to Suppliers,NCS PTE. LTD.
+LTA000ETT14000256,2015-04-02,Common Utility Trench along Marine Terrace and Marine Crescent,Land Transport Authority,9680000,Awarded to Suppliers,JIN CHOON CIVIL ENGINEERING PTE. LTD.
+LTA000ETT14000257,2015-08-20,Supply and Installation of Electrical Services for Thomson-East Coast Line Stage 3,Land Transport Authority,87907000,Awarded to Suppliers,GUTHRIE ENGINEERING (S) PTE LTD
+LTA000ETT14000258,2015-07-06,Supply and Installation of Fire Protection System for Thomson-East Coast Line Stages 1 and 2,Land Transport Authority,14980000,Awarded to Suppliers,DELUGE FIRE PROTECTION (S.E.A.) PTE LTD
+LTA000ETT14000259,2015-01-29,Appointment Of Agency For Advertisement Placement,Land Transport Authority,729784,Awarded to Suppliers,STARLIGHT ADVERTISING (PTE) LTD.
+LTA000ETT14000260,2015-03-04,Parking Survey,Land Transport Authority,928000,Awarded to Suppliers,MEDIA RESEARCH CONSULTANTS PTE LTD
+LTA000ETT14000261,2015-06-19,Advanced Work at Depot,Land Transport Authority,428301000,Awarded to Suppliers,GS Engineering & Construction Corp.
+LTA000ETT14000262,2015-05-11,"Term Contract for Road Related Facilities, Road Structures & Road Safety Schemes in West Sector",Land Transport Authority,17500000,Awarded to Suppliers,MEGASTONE HOLDINGS PTE LTD
+LTA000ETT14000263,2015-05-11,"Term Contract for Road Related Facilities, Road Structures & Road Safety Schemes in East Sector",Land Transport Authority,19727000,Awarded to Suppliers,ENG LAM CONTRACTORS CO (PTE) LTD
+LTA000ETT14000264,2015-01-26,Procurement of Internet Bandwidth,Land Transport Authority,178254.8,Awarded to Suppliers,M1 LIMITED
+LTA000ETT14000265,2015-02-27,Procurement of Proxy Antivirus And Network Equipment Maintenance Services For Both Hardware and Software,Land Transport Authority,502405,Awarded to Suppliers,Nera Telecommunications Ltd
+LTA000ETT14000266,2015-04-13,Road Works Inspection Patrol Service,Land Transport Authority,632750,Awarded to Suppliers,CMP CONSULTANTS PRIVATE LIMITED
+LTA000ETT14000267,2015-02-26,Provision of CEPAS Concession Cards,Land Transport Authority,944350,Awarded to Suppliers,GEMALTO PTE. LTD.
+LTA000ETT14000268,2015-03-23,Infrastructure Enhancement Works,Land Transport Authority,675730,Awarded to Suppliers,TRADESMEN PTE LTD
+LTA000ETT14000269,2015-04-08,Maintenance of EMAS Arterial System,Land Transport Authority,16299988,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT14000270,2015-07-15,Road Maintenance Contract for Central South and Central West Sectors,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000271,2015-07-15,Road Maintenance Contract for Central North and Central East Sectors,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000272,2015-07-15,Road Maintenance Contract for Expressways,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000273,2015-07-15,Road Maintenance Contract for North East Sector,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000276,2015-07-15,Road Maintenance Contract for South West Sector,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000278,2015-07-15,Road Maintenance Contract for South East Sector,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000279,2015-07-15,Road Maintenance Contract for North West Sector,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT14000280,2015-05-20,Regular Inspection of Roads and Road Facilities along Expressways and West Sector,Land Transport Authority,3231080,Awarded to Suppliers,FONG CONSULT PTE. LTD.
+LTA000ETT14000281,2015-05-20,Regular Inspection of Roads and Road Facilities in Central and East Sector,Land Transport Authority,4089820,Awarded to Suppliers,FONG CONSULT PTE. LTD.
+LTA000ETT14000282,2015-09-15,Supply and Installation of Fire Protection System for Thomson-East Coast Line Stage 3,Land Transport Authority,23800000,Awarded to Suppliers,DELUGE FIRE PROTECTION (S.E.A.) PTE LTD
+LTA000ETT15000001,2015-09-17,Communications System for the Canberra Station,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT15000004,2015-05-05,Appointment of Accredited Checker for Contract 158 Design and Construction of Canberra Station,Land Transport Authority,49342.5,Awarded to Suppliers,CKM CONSULTANTS PTE LTD
+LTA000ETT15000005,2015-05-25,Site Investigation Works for LTA Projects,Land Transport Authority,5610446,Awarded to Suppliers,KWANG SING ENGINEERING PTE. LTD.
+LTA000ETT15000006,2015-05-25,Site Investigation Works for LTA Projects,Land Transport Authority,5209209,Awarded to Suppliers,SOIL INVESTIGATION PTE. LIMITED
+LTA000ETT15000007,2015-06-08,Supply and Installation of Traffic Signage,Land Transport Authority,503880,Awarded to Suppliers,SIGNMECHANIC PTE LTD
+LTA000ETT15000008,2015-05-25,Site Investigation Consultancy Works for LTA Projects,Land Transport Authority,5195890,Awarded to Suppliers,"KISO-JIBAN CONSULTANTS CO., LTD SINGAPORE BRANCH"
+LTA000ETT15000010,2015-06-04,Supply and Delivery of Security Seals,Land Transport Authority,93060,Awarded to Suppliers,3M TECHNOLOGIES (S) PTE. LTD.
+LTA000ETT15000011,2015-06-11,"Hosting, Operation and Maintenance of LTA Systems",Land Transport Authority,57888520,Awarded to Suppliers,NCS PTE. LTD.
+LTA000ETT15000012,2015-07-06,A&A Works to Trackwork,Land Transport Authority,1887036,Awarded to Suppliers,XR TRACKWORK PTE. LTD.
+LTA000ETT15000013,2015-10-28,Proposed Sungei Seletar Bus Depot,Land Transport Authority,73900475,Awarded to Suppliers,TIONG SENG CONTRACTORS (PRIVATE) LIMITED
+LTA000ETT15000014,2015-06-05,Provisions of Consultancy for Supervision and Checking Services for Thomson-East Coast Line Advance Works for Contracts T3003 and T3005,Land Transport Authority,7193076,Awarded to Suppliers,ALLIANCE CONSULTING ENGINEERS PTE. LTD.
+LTA000ETT15000015,2015-06-19,"Provisions of Consultancy for Supervision and Checking Services for Thomson-East Coast Line Advance Works for Contracts T3006, T3007 and T3009",Land Transport Authority,1410000,Awarded to Suppliers,FONG CONSULT PTE. LTD.
+LTA000ETT15000016,2015-04-30,Comprehensive Maintenance and On-Site Updating of Bus Stop Pole Information,Land Transport Authority,2988000,Awarded to Suppliers,Gleason Advertising Pte Ltd
+LTA000ETT15000020,2015-10-14,"Design, Construction, Operation & Maintenance of Tuas South Staging Ground",Land Transport Authority,83650139,Awarded to Suppliers,Toa Corporation - Hiap Shing Construction Pte Ltd Joint Venture
+LTA000ETT15000025,2015-06-11,Procurement of Taxi Customer Satisfaction Survey,Land Transport Authority,39300,Awarded to Suppliers,SPIRE RESEARCH AND CONSULTING PTE LTD
+LTA000ETT15000026,2015-07-24,Proposed Utilities Diversion Between Siglap Link And Bedok South Ave 1,Land Transport Authority,4466000,Awarded to Suppliers,JUPITER BUILDER PTE. LTD.
+LTA000ETT15000029,2015-07-13,Provisions of Consultancy for Supervision and Checking Services for Thomson-East Coast Line Advance Works for Contract T3008,Land Transport Authority,3552000,Awarded to Suppliers,FONG CONSULT PTE. LTD.
+LTA000ETT15000032,2015-08-11,Half Height Platform Screen Doors for Canberra Station,Land Transport Authority,1648888,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT15000035,2015-05-15,Detailed Design Safety Review,Land Transport Authority,54750,Awarded to Suppliers,TSM CONSULTANCY PTE. LTD.
+LTA000ETT15000036,2015-03-06,Provision of Electricity for Street Lighting and Commuter Facilities for 12 Months,Land Transport Authority,18.4,Awarded to Suppliers,TUAS POWER SUPPLY PTE LTD
+LTA000ETT15000037,2015-07-21,City Direct Bus Services,Land Transport Authority,5412788,Awarded to Suppliers,AEDGE HOLDINGS PTE LTD
+LTA000ETT15000037,2015-07-21,City Direct Bus Services,Land Transport Authority,3138836,Awarded to Suppliers,BUS HUB SERVICE PTE. LTD.
+LTA000ETT15000039,2015-11-09,Upgrading of Upper Bukit Timah Road and Jalan Anak Bukit,Land Transport Authority,49240630,Awarded to Suppliers,FENG MING CONSTRUCTION PTE LTD / T.Y.LIN INTERNATIONAL PTE. LTD.
+LTA000ETT15000040,2015-05-21,Provision of Auxiliary Police Officers,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT15000043,2015-11-23,Viaduct from TPE to PIE (Westbound) and Upper Changi Road East,Land Transport Authority,97002940,Awarded to Suppliers,OR KIM PEOW CONTRACTORS (PRIVATE) LIMITED / CPG CONSULTANTS PTE LTD
+LTA000ETT15000044,2015-06-09,Provision of Traffic Wardens,Land Transport Authority,16531200,Awarded to Suppliers,RAMKY CLEANTECH SERVICES PTE. LTD.
+LTA000ETT15000046,2015-07-03,Engineering Consultancy Services for the Design of Cycling Path Network,Land Transport Authority,2193530,Awarded to Suppliers,Meinhardt (Singapore) Pte Ltd
+LTA000ETT15000047,2015-06-25,Appointment of Accredited Checker for Walk2Ride Programme,Land Transport Authority,98865,Awarded to Suppliers,PH CONSULTING PTE. LTD.
+LTA000ETT15000048,2015-05-08,Completion Contract ER410A - Widening of Lorong 6 Toa Payoh and Braddell Road between Lorong 1 Toa Payoh and Braddell Flyover,Land Transport Authority,29936609,Awarded to Suppliers,FENG MING CONSTRUCTION PTE LTD
+LTA000ETT15000049,2015-07-03,APPOINTMENT OF QUALIFIED PERSON (SUPERVISION) FOR CONTRACT ER432,Land Transport Authority,933000,Awarded to Suppliers,Novaars International Pte Ltd
+LTA000ETT15000050,2015-05-15,Provision of CEPAS Autopass Cards,Land Transport Authority,1293500,Awarded to Suppliers,NETWORK FOR ELECTRONIC TRANSFERS (SINGAPORE) PTE LTD
+LTA000ETT15000051,2015-07-06,"Supply, Installation and Monitoring of Instruments for Contracts T3003, T3005, T3006 and T3009",Land Transport Authority,4185396,Awarded to Suppliers,FOSTA PTE. LTD.
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,ANNE LEONG HRD CONSULTING
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,AUREUS CONSULTING PTE. LTD.
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,COMAT TRAINING SERVICES PTE LTD
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,COMMUNICATION MATTERS
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,Integrative Learning Corporation Pte Ltd
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,MDIS Corporation Pte Ltd
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,Neville-Clarke (Singapore) Pte Limited
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,PACE O.D. CONSULTING PTE. LTD.
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,SERVICE QUALITY CENTRE PTE. LTD.
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,SPECTRUM MANAGEMENT CONSULTING PTE. LTD.
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,2,Awarded to Suppliers,TEAM EXCELLENCE TRAINING & CONSULTANCY
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,THINKING MANAGEMENT TECHNIQUES PTE. LTD.
+LTA000ETT15000052,2015-08-11,Procurement of Learning Programmes for FY15/16,Land Transport Authority,1,Awarded to Suppliers,TRAINING EDGE INTERNATIONAL PTE LTD
+LTA000ETT15000053,2015-04-21,Provision of Services to Organize and Coordinate LTA Event,Land Transport Authority,119576,Awarded to Suppliers,PLANET EVENTS
+LTA000ETT15000054,2015-04-21,"Fire and Extended Perils, Public Liability, Fidelity and Money Insurances for Land Transport Authority",Land Transport Authority,80144.88,Awarded to Suppliers,INDIA INTERNATIONAL INSURANCE PTE LTD
+LTA000ETT15000055,2015-06-15,Appointment of Agency to Develop & Implement Communication Materials & Publicity Initiatives,Land Transport Authority,1882250,Awarded to Suppliers,Pico Art International Pte Ltd
+LTA000ETT15000056,2015-08-11,"Supply, Installation and Monitoring of Instruments for Contracts T3008 and T301",Land Transport Authority,7933969,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT15000057,2015-09-16,Construction of Covered Linkways to Downtown Line 3 (DTL3) and Tuas West Extension (TWE) Stations,Land Transport Authority,39746586,Awarded to Suppliers,Soil-Build (Pte) Ltd - Shincon Industrial Pte Ltd Joint Venture
+LTA000ETT15000058,2015-11-23,Extension of Parapet Walls for CTE,Land Transport Authority,1102011,Awarded to Suppliers,CIVILTRUST CONSTRUCTION PTE. LTD.
+LTA000ETT15000059,2015-11-05,Appointment of Qualified Person (Supervision) for Contract ER440 Walk2Ride Programme,Land Transport Authority,1298000,Awarded to Suppliers,HS ENGINEERING CONSULTANTS
+LTA000ETT15000060,2015-11-05,Appointment of Qualified Person (Supervision) for Contract ER441 Walk2Ride Programme,Land Transport Authority,1956880,Awarded to Suppliers,CKM CONSULTANTS PTE LTD
+LTA000ETT15000062,2015-07-06,Relocation of Building,Land Transport Authority,22957682,Awarded to Suppliers,QUEK HOCK SENG CONSTRUCTION (PTE) LTD
+LTA000ETT15000063,2015-08-06,Condition Assessment of RTS Systems,Land Transport Authority,2150000,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT15000064,2015-08-19,Condition Assessment of RTS Infrastructure,Land Transport Authority,11700000,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT15000065,2015-06-11,Service Provider for Outreach Efforts,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT15000066,2015-08-19,Proposed Office Renovation Project,Land Transport Authority,29896500,Awarded to Suppliers,KUAN AIK HONG CONSTRUCTION PTE LTD
+LTA000ETT15000068,2015-07-28,Provision of AFC Network for Backup Operation Control Centre,Land Transport Authority,606896.68,Awarded to Suppliers,UIC Asian Computer Services Pte Ltd
+LTA000ETT15000069,2015-08-11,Signage Design Consultancy Service for Public Transit,Land Transport Authority,243466,Awarded to Suppliers,TRANSPORT DESIGN CONSULTANCY LIMITED
+LTA000ETT15000070,2015-06-05,Procurement of Network Switches to Support DC Virtualization,Land Transport Authority,483283,Awarded to Suppliers,Nera Telecommunications Ltd
+LTA000ETT15000071,2015-11-20,Construction of Marine Parade Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,555322063,Awarded to Suppliers,SAMSUNG C&T CORPORATION
+LTA000ETT15000072,2015-07-16,LTA Traffic Marshal Services,Land Transport Authority,23676180,Awarded to Suppliers,AETOS SECURITY MANAGEMENT PTE. LTD.
+LTA000ETT15000073,2015-10-19,Proposed Lift Shafts to Existing Pedestrian Overhead Bridges,Land Transport Authority,19886000,Awarded to Suppliers,SOIL-BUILD (PTE.) LTD.
+LTA000ETT15000074,2015-10-12,Extension of Sengkang West Way between Jalan Kayu and Sengkang West Road,Land Transport Authority,7388000,Awarded to Suppliers,CPC CONSTRUCTION PTE. LTD.
+LTA000ETT15000075,2015-05-12,Installation of Artworks,Land Transport Authority,79900,Awarded to Suppliers,SINGA SIGNAGE & DESIGN EXHIBIT PTE LTD
+LTA000ETT15000076,2015-12-28,Proposed Ulu Pandan Bus Depot,Land Transport Authority,72100000,Awarded to Suppliers,TIONG SENG CONTRACTORS (PRIVATE) LIMITED
+LTA000ETT15000077,2015-07-22,Geotechnical and Tunnel Monitoring,Land Transport Authority,414220,Awarded to Suppliers,WISESCAN ENGINEERING SERVICES PTE LTD
+LTA000ETT15000078,2015-09-25,Site Investigation Works for LTA Projects,Land Transport Authority,3714798,Awarded to Suppliers,SOIL INVESTIGATION PTE. LIMITED
+LTA000ETT15000079,2015-06-17,Provision of Warehousing and Logistics Services,Land Transport Authority,185928,Awarded to Suppliers,FREIGHT LINKS LOGISTICS PTE. LTD.
+LTA000ETT15000080,2015-07-22,Road Works at City Centre,Land Transport Authority,6893561,Awarded to Suppliers,HIGHWAY INTERNATIONAL PRIVATE LIMITED
+LTA000ETT15000081,2015-06-29,Provision of Auxiliary Police Officers and Security Officers for Crowd Control for Motor Sport Event,Land Transport Authority,527846,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+LTA000ETT15000082,2015-06-29,"Provision of Auxiliary Police Officers, Security Officers and Towing Services for Traffic Control and Parking Enforcement for Motor Sport Event",Land Transport Authority,1041142,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+LTA000ETT15000083,2015-11-23,Bus Contracting - Loyang Bus Package,Land Transport Authority,497738104,Awarded to Suppliers,THE GO-AHEAD GROUP PLC
+LTA000ETT15000084,2015-06-12,Instrumentation and Monitoring for Contract 925,Land Transport Authority,618480,Awarded to Suppliers,GROUND INSTRUMENTATION & ENGINEERING PTE. LTD.
+LTA000ETT15000085,2015-08-17,Tremor Monitoring System For Transport Infrastructures,Land Transport Authority,2199720,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT15000087,2015-08-14,Accredited Checker Services for Contracts 1362 and 1376,Land Transport Authority,68000,Awarded to Suppliers,CKM CONSULTANTS PTE LTD
+LTA000ETT15000088,2015-08-06,Appointment of Agency For LTA Recruitment & Scholarship Marketing Campaign,Land Transport Authority,369334,Awarded to Suppliers,BATES SINGAPORE ASIA PTE. LTD.
+LTA000ETT15000089,2015-07-06,Independent Compressed Air Works Consultancy and On-Site Audit Services for Thomson-East Coast Line Bored Tunnel Works,Land Transport Authority,1007344,Awarded to Suppliers,KB ASSOCIATES PTE. LTD.
+LTA000ETT15000090,2015-08-14,Provision of Cash Receipt Printers,Land Transport Authority,286625,Awarded to Suppliers,LECIP (SINGAPORE) PTE. LTD.
+LTA000ETT15000091,2016-01-18,Expansion of Bus Interchanges,Land Transport Authority,12470000,Awarded to Suppliers,BSI (1990) PTE. LTD.
+LTA000ETT15000092,2016-01-25,Construction of Marine Terrace Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,360590000,Awarded to Suppliers,"SSANGYONG ENGINEERING & CONSTRUCTION CO., LTD. - HYUNDAI ENGINEERING & CONSTRUCTION CO., LTD. JOINT VENTURE"
+LTA000ETT15000093,2015-07-20,Transit Business Consultancy Review,Land Transport Authority,580000,Awarded to Suppliers,DELOITTE & TOUCHE ENTERPRISE RISK SERVICES PTE LTD
+LTA000ETT15000094,2016-08-23,"Design, Supply, Install, Test & Commission of AFC Frontend System For Thomson East Coast Line",Land Transport Authority,48500000,Awarded to Suppliers,CUBIC TECHNOLOGIES SINGAPORE PTE. LTD. & CUBIC TRANSPORTATION SYSTEMS (AUSTRALIA) PTY LIMITED CONSORTIUM
+LTA000ETT15000095,2015-10-02,Site Investigation Consultancy Works for LTA Projects,Land Transport Authority,5524300,Awarded to Suppliers,"KISO-JIBAN CONSULTANTS CO., LTD SINGAPORE BRANCH"
+LTA000ETT15000096,2016-01-25,Construction of Tanjong Rhu Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,293858081.1,Awarded to Suppliers,Bachy Soletanche Singapore Pte Ltd-Wai Fong Construction Pte Ltd Joint Venture
+LTA000ETT15000097,2015-09-25,Site Investigation Works for LTA Projects,Land Transport Authority,5879470,Awarded to Suppliers,SOIL INVESTIGATION PTE. LIMITED
+LTA000ETT15000098,2015-09-25,Site Investigation Works for LTA Projects,Land Transport Authority,6425122,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT15000099,2015-11-02,Operation and Maintenance of the EPS Central Computer System (EPSCCS)and EPS e-Service (EPS CEPAS Hub),Land Transport Authority,9175585,Awarded to Suppliers,SOPRA STERIA ASIA PTE. LTD.
+LTA000ETT15000100,2015-10-08,Concept Bus Mock-up,Land Transport Authority,498500,Awarded to Suppliers,ALEXANDER DENNIS (ASIA PACIFIC) LIMITED
+LTA000ETT15000100,2015-10-08,Concept Bus Mock-up,Land Transport Authority,610000,Awarded to Suppliers,SINGAPORE TECHNOLOGIES KINETICS LTD
+LTA000ETT15000101,2015-07-20,Proposed Silver Zones at Yishun and Bedok North,Land Transport Authority,1940100,Awarded to Suppliers,DOUBLE-TRANS PTE. LTD.
+LTA000ETT15000102,2015-06-02,Supply of Electricity to Premises and Facilities for 12 Months,Land Transport Authority,41.84,Awarded to Suppliers,PACIFICLIGHT ENERGY PTE. LTD.
+LTA000ETT15000103,2015-11-05,Expansion of Closed-Circuit Television Enforcement Camera System for Illegal Parking (Central-East),Land Transport Authority,6199890,Awarded to Suppliers,O'Connor's Singapore Pte Ltd
+LTA000ETT15000104,2015-11-05,Expansion of Closed-Circuit Television Enforcement Camera System for Illegal Parking (North-West),Land Transport Authority,6118855,Awarded to Suppliers,ATT SYSTEMS (S'PORE) PTE LTD
+LTA000ETT15000105,2015-07-23,LTA Photo Exhibition,Land Transport Authority,31580,Awarded to Suppliers,CUBIC SPACE PRIVATE LIMITED
+LTA000ETT15000106,2015-10-01,Term Contract for Events Management Services,Land Transport Authority,91037.02,Awarded to Suppliers,EUREKA! CAMPAIGN ASSOCIATES PTE. LTD.
+LTA000ETT15000106,2015-10-01,Term Contract for Events Management Services,Land Transport Authority,114459.02,Awarded to Suppliers,FORCE 21 EQUIPMENT PTE LTD
+LTA000ETT15000106,2015-10-01,Term Contract for Events Management Services,Land Transport Authority,79102.5,Awarded to Suppliers,SENSES MARKETING COMMUNICATIONS & DESIGN PTE LTD
+LTA000ETT15000107,2015-10-09,Addition & Alteration Works at Bukit Batok Bus Interchange,Land Transport Authority,1162611,Awarded to Suppliers,ESPIRIT BUILDING & ENGINEERING PTE. LTD.
+LTA000ETT15000108,2015-10-12,Regular Maintenance and Upgrading of Bridges,Land Transport Authority,15451000,Awarded to Suppliers,SWEE BUILDERS PTE LTD
+LTA000ETT15000109,2015-08-17,Provision of Computer System,Land Transport Authority,2669550,Awarded to Suppliers,ACCLIVIS TECHNOLOGIES AND SOLUTIONS PTE. LTD.
+LTA000ETT15000110,2015-09-10,Concrete and Water Testing,Land Transport Authority,245400,Awarded to Suppliers,ADMATERIALS TECHNOLOGIES PTE. LTD.
+LTA000ETT15000111,2015-08-12,Provision of Audit Services,Land Transport Authority,197942,Awarded to Suppliers,VICOM LTD
+LTA000ETT15000114,2015-09-07,Appointment of Qualified Person (Supervision) for Contract N1003,Land Transport Authority,871000,Awarded to Suppliers,RONNIE & KOH CONSULTANTS PTE. LTD.
+LTA000ETT15000115,2015-11-04,Provision of Contactless Transit Readers,Land Transport Authority,2973621.1,Awarded to Suppliers,STYL SOLUTIONS PTE. LTD.
+LTA000ETT15000116,2015-09-18,Work Injury Compensation / Employer's Liability Insurance for Thomson-East Coast Line (East Coast Section),Land Transport Authority,1612500,Awarded to Suppliers,MS FIRST CAPITAL INSURANCE LIMITED
+LTA000ETT15000117,2015-07-13,Provision of Assessors to Assess Skilled Craftsmen for Reinforced Concrete Works for Thomson-East Coast Line Contracts T227 and T228,Land Transport Authority,422964,Awarded to Suppliers,GS ENGINEERING & CONSTRUCTION CORP.
+LTA000ETT15000118,2015-10-23,Provision of Storage Services,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT15000119,2015-08-11,Traffic Schemes in Marina Centre for Motor Sport Event,Land Transport Authority,3548000,Awarded to Suppliers,MEGASTONE HOLDINGS PTE LTD
+LTA000ETT15000120,2015-07-27,Provision of Mobile Cameras and Transmission of Real Time Video Surveillance for F1 2015,Land Transport Authority,124000,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT15000121,2015-09-21,"Supply, Installation and Monitoring of Instruments for Contract 9061",Land Transport Authority,858109,Awarded to Suppliers,GEOAPPLICATION ENGINEERS PTE. LTD.
+LTA000ETT15000123,2015-11-06,Green Man + Expansion,Land Transport Authority,6971646.14,Awarded to Suppliers,ATS TRAFFIC PTE LTD
+LTA000ETT15000124,2016-03-17,Construction of Xilin Station and Tunnels for Downtown Line 3 Extension,Land Transport Authority,833612000,Awarded to Suppliers,SAMSUNG C&T CORPORATION
+LTA000ETT15000125,2016-06-17,Construction of Facility Building and Tunnels for Thomson-East Coast Line,Land Transport Authority,242366241.24,Awarded to Suppliers,"CHINA RAILWAY FIRST GROUP CO., LTD. SINGAPORE BRANCH"
+LTA000ETT15000126,2015-12-14,Roadworks at Upper Serangoon Road between Hillside Drive and Lowland Road,Land Transport Authority,7300000,Awarded to Suppliers,MEGASTONE HOLDINGS PTE LTD
+LTA000ETT15000127,2015-11-27,Advance Engineering Consultancy Services for the Expansion of Ulu Pandan Depot,Land Transport Authority,5991909.1,Awarded to Suppliers,T.Y. Lin International Pte. Ltd. / DP Architects Pte Ltd
+LTA000ETT15000128,2016-01-25,Construction of Katong Park Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,293452574,Awarded to Suppliers,SHANGHAI TUNNEL ENGINEERING CO (SINGAPORE) PTE LTD
+LTA000ETT15000131,2015-08-03,Production of Public Transport Collectibles,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT15000132,2015-11-11,Maintenance and Enhancement of Junction Electronic Eyes (J-Eyes),Land Transport Authority,17529506,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT15000133,2015-11-09,Reconfiguration of Buildings and Services off Keppel Road,Land Transport Authority,14230000,Awarded to Suppliers,JIN CHOON CIVIL ENGINEERING PTE. LTD.
+LTA000ETT15000134,2016-01-15,Flyover from Seletar West Link to SLE,Land Transport Authority,17164200,Awarded to Suppliers,Samwoh Corporation Pte. Ltd. / T.Y. Lin International Pte. Ltd.
+LTA000ETT15000135,2015-09-17,Provision of Event Management and Integrated Communications Services,Land Transport Authority,462500,Awarded to Suppliers,ATOMZ I! PTE. LTD.
+LTA000ETT15000135,2015-09-17,Provision of Event Management and Integrated Communications Services,Land Transport Authority,447662,Awarded to Suppliers,SENSES MARKETING COMMUNICATIONS & DESIGN PTE LTD
+LTA000ETT15000137,2015-10-01,Installation and Implementation of Camera Systems,Land Transport Authority,349900,Awarded to Suppliers,PANASONIC ASIA PACIFIC PTE. LTD.
+LTA000ETT15000138,2016-03-17,Construction of Bayshore Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,295868000,Awarded to Suppliers,Woh Hup (Private) Ltd - Shanghai Tunnel Engineering Co (Singapore) Pte Ltd Joint Venture
+LTA000ETT15000139,2015-09-15,Public Transport Customer Satisfaction Survey 2015,Land Transport Authority,90000,Awarded to Suppliers,SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+LTA000ETT15000140,2016-02-16,Club House Renovation Works,Land Transport Authority,594940,Awarded to Suppliers,DB & B PTE LTD
+LTA000ETT15000141,2016-03-21,Noise Barrier Trial at PIE,Land Transport Authority,2790000,Awarded to Suppliers,CCECC SINGAPORE PTE LTD
+LTA000ETT15000143,2015-11-04,Provision of Hardware for Replacement of Security Keys Management System,Land Transport Authority,1757940,Awarded to Suppliers,PCS SECURITY PRIVATE LIMITED
+LTA000ETT15000144,2015-09-07,Provision of Lavender Shuttle Bus Service for Formula One (F1) Grand Prix 2015,Land Transport Authority,55680,Awarded to Suppliers,COMFORTDELGRO BUS PTE. LTD.
+LTA000ETT15000145,2016-03-18,Construction of 4-In-1 Rail and Bus Depot and Reception Tunnels for Thomson-East Coast Line,Land Transport Authority,1988000000,Awarded to Suppliers,GS ENGINEERING & CONSTRUCTION CORP.
+LTA000ETT15000146,2015-10-19,Security Services for Downtown Line Package A,Land Transport Authority,1935600,Awarded to Suppliers,DRAGNET SMARTECH SECURITY PTE. LTD.
+LTA000ETT15000147,2015-11-20,Security Services for Downtown Line Package B,Land Transport Authority,2240900,Awarded to Suppliers,SECURUS PTE. LTD.
+LTA000ETT15000148,2015-10-19,Security Services for Downtown Line Package C,Land Transport Authority,2902200,Awarded to Suppliers,DRAGNET SMARTECH SECURITY PTE. LTD.
+LTA000ETT15000149,2015-11-11,Appointment of Accredited Checker (AC) for Contracts ER442 & ER443 Walk2ride Programme,Land Transport Authority,45000,Awarded to Suppliers,ENGINEERS 2002 (PTE)
+LTA000ETT15000150,2015-12-11,Infrastructure Enhancement Works Phase 2,Land Transport Authority,12521000,Awarded to Suppliers,SWEE BUILDERS PTE LTD
+LTA000ETT15000151,2015-09-03,Renewal of Software and Hardware Maintenance Services for IT Systems,Land Transport Authority,1963438,Awarded to Suppliers,NCS PTE. LTD.
+LTA000ETT15000153,2015-12-11,Earthworks,Land Transport Authority,10727000,Awarded to Suppliers,KTC CIVIL ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT15000154,2015-11-16,Procurement of Teambuilding Programme for FY15/16 to FY17/18,Land Transport Authority,1,Awarded to Suppliers,CAMELOT PTE. LTD.
+LTA000ETT15000154,2015-11-16,Procurement of Teambuilding Programme for FY15/16 to FY17/18,Land Transport Authority,1,Awarded to Suppliers,CENTRE FOR PERFORMANCE TRANSFORMATION (PTE.) LTD.
+LTA000ETT15000154,2015-11-16,Procurement of Teambuilding Programme for FY15/16 to FY17/18,Land Transport Authority,1,Awarded to Suppliers,TEAMBUILDING SINGAPORE PTE. LTD.
+LTA000ETT15000155,2016-02-03,Development of Asphalt Surfacing Mix,Land Transport Authority,1200000,Awarded to Suppliers,SAMWOH CORPORATION PTE. LTD.
+LTA000ETT15000156,2016-03-17,Construction of Siglap Station for Thomson-East Coast Line,Land Transport Authority,175741589,Awarded to Suppliers,John Holland Pty Ltd - Zhen Hua (Singapore) Engineering Pte. Ltd. Joint Venture
+LTA000ETT15000157,2016-01-13,Appointment of Qualified Person (Supervision) Contract ER457,Land Transport Authority,208000,Awarded to Suppliers,HS ENGINEERING CONSULTANTS
+LTA000ETT15000158,2016-04-28,Construction of Bedok South Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,188280000,Awarded to Suppliers,CHINA JINGYE ENGINEERING CORPORATION LIMITED (SINGAPORE BRANCH)
+LTA000ETT15000160,2015-11-09,Term Contract for Supply & Production of Visual Identity Panels on Project Hoardings,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT15000161,2015-12-16,Provision of Services for the Replacement of Passenger Service Machines & Station Computers in selected Rail Stations,Land Transport Authority,4419498,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT15000163,2015-11-18,Consultancy Study to Review Customer Processes,Land Transport Authority,158257,Awarded to Suppliers,THINKPLACE SINGAPORE PTE LTD AND THINKPLACE PTY LTD
+LTA000ETT15000164,2015-11-03,Upgrading of Existing Toilets at Bus Interchanges & Terminal,Land Transport Authority,405960,Awarded to Suppliers,LEACON ENGINEERING PTE. LTD.
+LTA000ETT15000165,2015-12-14,City Direct Services,Land Transport Authority,2461304.8,Awarded to Suppliers,BT&TAN TRANSPORT PTE. LTD.
+LTA000ETT15000165,2015-12-14,City Direct Services,Land Transport Authority,3413412,Awarded to Suppliers,TONG TAR TRANSPORT SERVICE PTE LTD
+LTA000ETT15000166,2016-03-17,Construction of Amber Station for Thomson-East Coast Line,Land Transport Authority,145638000,Awarded to Suppliers,WOH HUP (PRIVATE) LIMITED
+LTA000ETT15000168,2016-01-13,Construction of New Bus Terminal at Shenton Way,Land Transport Authority,11295000,Awarded to Suppliers,CCECC SINGAPORE PTE LTD
+LTA000ETT15000173,2015-10-23,Provision of Data Analysis Services,Land Transport Authority,195700,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+LTA000ETT15000176,2015-10-12,Procurement of Microsoft Software Licenses via IDA MGLP Licensing Agreement,Land Transport Authority,881316.3,Awarded to Suppliers,UIC Asian Computer Services Pte Ltd
+LTA000ETT15000179,2015-11-27,Provision of Survey,Land Transport Authority,214099,Awarded to Suppliers,TTS GROUP PTE. LTD.
+LTA000ETT15000181,2015-11-24,Production of Public Transport Collectibles,Land Transport Authority,421300,Awarded to Suppliers,JUST SIMPLY GIFTS PTE. LTD.
+LTA000ETT15000181,2015-11-24,Production of Public Transport Collectibles,Land Transport Authority,50000,Awarded to Suppliers,NEEL'S PTE. LTD.
+LTA000ETT15000182,2015-12-23,Appointment of Accredited Checker Services for Expansion of KPE/TPE Interchange including Link Road to Punggol Central,Land Transport Authority,163126,Awarded to Suppliers,CALIBRE CONSULTING (SINGAPORE) PTE. LTD.
+LTA000ETT15000183,2016-01-26,Upgrade of Data Management System,Land Transport Authority,20042101.38,Awarded to Suppliers,WIPRO NETWORKS PTE. LIMITED
+LTA000ETT15000184,2017-01-10,Proposed Relocation of Recreational Facility,Land Transport Authority,19220000,Awarded to Suppliers,SCB BUILDING CONSTRUCTION PTE. LTD. / SMITECH ENGINEERING PTE LTD JOINT VENTURE
+LTA000ETT15000187,2016-03-14,Appointment of Qualified Person (Supervision) for Contract ER443 Walk2ride Programme,Land Transport Authority,1638000,Awarded to Suppliers,HS ENGINEERING CONSULTANTS
+LTA000ETT15000188,2016-03-14,Appointment of Qualified Person (Supervision) for Contract ER442 Walk3Ride Programme,Land Transport Authority,1438000,Awarded to Suppliers,HS ENGINEERING CONSULTANTS
+LTA000ETT15000189,2015-12-15,Provision of Towing Services for a Period of Three (3) Years,Land Transport Authority,376800,Awarded to Suppliers,ISLAND RECOVERY SERVICES
+LTA000ETT15000191,2015-10-23,Provision and Application of Publicity Materials on Buses,Land Transport Authority,202000,Awarded to Suppliers,BUSADS PTE LTD
+LTA000ETT15000192,2015-12-02,Two Year Term Contract for Detailed Topographical Surveys,Land Transport Authority,619,Awarded to Suppliers,HKS Surveyors Pte Ltd
+LTA000ETT15000193,2015-11-26,Two Year Term Contract for Cadastral Surveys for the East Sector,Land Transport Authority,145,Awarded to Suppliers,ATLAS CONSULTING SURVEYORS
+LTA000ETT15000194,2015-11-26,Two Year Term Contract for Cadastral Surveys for the West Sector,Land Transport Authority,1,Awarded to Suppliers,Chartered Survey Services Consultants
+LTA000ETT15000197,2016-02-18,Regular Road Network Condition Survey,Land Transport Authority,1168500,Awarded to Suppliers,GAMLITE IT (S) PTE. LTD.
+LTA000ETT15000198,2015-11-16,Provision of ICT Specialist Resources,Land Transport Authority,1,Awarded to Suppliers,ACCENTURE PTE LTD
+LTA000ETT15000198,2015-11-16,Provision of ICT Specialist Resources,Land Transport Authority,1,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+LTA000ETT15000198,2015-11-16,Provision of ICT Specialist Resources,Land Transport Authority,1,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+LTA000ETT15000198,2015-11-16,Provision of ICT Specialist Resources,Land Transport Authority,1,Awarded to Suppliers,NCS PTE. LTD.
+LTA000ETT15000198,2015-11-16,Provision of ICT Specialist Resources,Land Transport Authority,1,Awarded to Suppliers,PRICEWATERHOUSECOOPERS CONSULTING (SINGAPORE) PTE. LTD.
+LTA000ETT15000198,2015-11-16,Provision of ICT Specialist Resources,Land Transport Authority,1,Awarded to Suppliers,WIPRO NETWORKS PTE. LIMITED
+LTA000ETT15000199,2015-11-03,Queue Line for Downtown Line 2 and Existing Stations,Land Transport Authority,60600,Awarded to Suppliers,JI-HON DEVELOPMENT PTE LTD
+LTA000ETT15000200,2016-06-17,Construction of Sungei Bedok Station and Tunnels for Thomson-East Coast Line,Land Transport Authority,417500000,Awarded to Suppliers,KTC CIVIL ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT15000201,2016-04-15,Advance Engineering Consultancy Services for the Proposed Jurong Region Line (JRL) Mainline (Contract 1),Land Transport Authority,9624456.85,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT15000202,2016-04-15,Advance Engineering Consultancy Services for the Proposed Jurong Region Line (JRL) Mainline and Depot (Contract 2),Land Transport Authority,10865396.49,Awarded to Suppliers,T.Y.LIN INTERNATIONAL PTE. LTD. / DP ARCHITECTS PTE LTD / HASSELL ARCHITECTURE (SINGAPORE) PTE. LTD.
+LTA000ETT15000203,2015-12-22,"Supply, Installation and Monitoring of Instruments for Earthworks",Land Transport Authority,578365,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT15000204,2016-04-15,Advance Engineering Consultancy Services for the Proposed Jurong Region Line (JRL) Mainline (Contract 3),Land Transport Authority,8955579.98,Awarded to Suppliers,JURONG CONSULTANTS PTE LTD/ ATKINS DESIGN ENGINEERING CONSULTANS PTE. LTD./ SURBANA INTERNATIONAL CONSULTANTS PTE. LTD.
+LTA000ETT15000205,2016-02-17,"Supply, Installation and Monitoring of Instruments for Contract T307",Land Transport Authority,7869117.6,Awarded to Suppliers,GEOAPPLICATION ENGINEERS PTE. LTD.
+LTA000ETT15000206,2016-03-23,"Stage 2 Tender - Consultancy Services (Architectural, Civil & Structural Engineering and Mechanical & Electrical Engineering) for Integrated Transport Hub",Land Transport Authority,58369494.5,Awarded to Suppliers,AEDAS PTE. LTD.
+LTA000ETT15000207,2015-11-03,"Supply, Fabrication and Installation of Signage at MRT/LRT Stations and Trains",Land Transport Authority,317380,Awarded to Suppliers,BUSADS PTE LTD
+LTA000ETT15000208,2016-01-11,Travel Smart Consultancy Tender,Land Transport Authority,30000,Awarded to Suppliers,BECA CARTER HOLLINGS & FERNER (S.E.ASIA) PTE LTD
+LTA000ETT15000208,2016-01-11,Travel Smart Consultancy Tender,Land Transport Authority,30000,Awarded to Suppliers,CH2M HILL SINGAPORE PRIVATE LIMITED
+LTA000ETT15000208,2016-01-11,Travel Smart Consultancy Tender,Land Transport Authority,30000,Awarded to Suppliers,FROST & SULLIVAN (SINGAPORE) PTE LTD
+LTA000ETT15000209,2016-01-13,Appointment of Accredited Checker (AC),Land Transport Authority,48660,Awarded to Suppliers,PH CONSULTING PTE. LTD.
+LTA000ETT15000210,2016-02-05,"Design, Construction, Operation and Maintenance of a Stockpile Site at Changi Area",Land Transport Authority,12500000,Awarded to Suppliers,KTC CIVIL ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT15000211,2016-04-07,Noise and Vibration Study Consultancy Services for the Proposed Jurong Region Line (JRL),Land Transport Authority,261989.65,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT15000212,2016-01-27,Maintenance of Traffic Planning System (TPS),Land Transport Authority,2374588,Awarded to Suppliers,SOPRA STERIA ASIA PTE. LTD.
+LTA000ETT15000213,2016-04-13,Security and Protective Design Consultancy Services for the Proposed Jurong Region Line (JRL),Land Transport Authority,998701.13,Awarded to Suppliers,ARUP SINGAPORE PRIVATE LIMITED
+LTA000ETT15000214,2016-04-18,Proposed High Covered Linkways & Covered Linkways,Land Transport Authority,3970000,Awarded to Suppliers,VESTAR IRON WORKS PTE LTD
+LTA000ETT15000215,2016-04-15,Provision of Services for the Replacement of AFC Network Cables and Equipment in Selected Rail Stations,Land Transport Authority,5295646,Awarded to Suppliers,HITACHI SYSTEMS DIGITAL SERVICES (SINGAPORE) PTE. LTD.
+LTA000ETT15000216,2015-11-17,Provision of Mobile Cameras for Bus Interchanges Operation,Land Transport Authority,39295,Awarded to Suppliers,NETE2 ASIA PTE LTD
+LTA000ETT15000217,2016-01-15,Functional Maintenance Contract,Land Transport Authority,15565000,Awarded to Suppliers,GIM TIAN CIVIL ENGINEERING PTE LTD
+LTA000ETT15000218,2016-01-25,Road Maintenance Contract,Land Transport Authority,24000000,Awarded to Suppliers,CHYE JOO CONSTRUCTION PTE LTD
+LTA000ETT15000218,2016-01-25,Road Maintenance Contract,Land Transport Authority,41632554,Awarded to Suppliers,DOUBLE-TRANS PTE. LTD.
+LTA000ETT15000218,2016-01-25,Road Maintenance Contract,Land Transport Authority,51087666,Awarded to Suppliers,Highway International Private Limited - Avenue Engineering Pte Ltd Consortium
+LTA000ETT15000218,2016-01-25,Road Maintenance Contract,Land Transport Authority,20277004,Awarded to Suppliers,YUN ONN COMPANY (PRIVATE) LIMITED
+LTA000ETT15000219,2016-04-15,Video Surveillance System and Associated Works for Bus Interchanges,Land Transport Authority,3268880,Awarded to Suppliers,CA M&E ENGINEERING PTE. LTD.
+LTA000ETT15000220,2016-06-03,IT Infrastructure Upgrade for Advanced Analytics,Land Transport Authority,21359014,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT15000221,2016-02-15,Replacement of Autopass Card Top-up Booth,Land Transport Authority,186331,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT15000222,2016-03-11,Supply and Installation of Biometric Authentication System,Land Transport Authority,3595006,Awarded to Suppliers,INTERCORP SOLUTIONS PTE LTD
+LTA000ETT15000223,2016-05-23,Design & Build Fixed barriers For Light Rail Transit Stations,Land Transport Authority,9489500,Awarded to Suppliers,CHEE YAM CONTRACTOR PTE. LTD.
+LTA000ETT15000224,2016-02-05,"Appointment of Qualified Person(Supervision) for Contracts 8809, 8811 and 8812",Land Transport Authority,1368323,Awarded to Suppliers,R.J. CROCKER CONSULTANTS PTE. LTD.
+LTA000ETT15000226,2016-02-22,Appointment of Qualified Person (Supervision) for Contract ER437 Proposed Lift Shafts to Existing Pedestrian Overhead Bridges,Land Transport Authority,572000,Awarded to Suppliers,HS ENGINEERING CONSULTANTS
+LTA000ETT15000227,2015-12-29,Provision of Services for Bus Ticketing Equipment,Land Transport Authority,338886,Awarded to Suppliers,Kenetics Innovations Pte Ltd
+LTA000ETT15000228,2016-06-07,Station Enhancement Works at North-South and East-West Lines,Land Transport Authority,14847915,Awarded to Suppliers,SUNRAY WOODCRAFT CONSTRUCTION PTE LTD
+LTA000ETT15000229,2016-02-05,"Provision Of Consultancy For Supervision Of Thomson-East Coast Line Contracts T307, T308 & T309",Land Transport Authority,34758200,Awarded to Suppliers,LYL CONSULTANTS PTE. LTD.
+LTA000ETT15000230,2016-01-15,Road Structure/ Facilities Functional Maintenance Contract,Land Transport Authority,21325307.62,Awarded to Suppliers,SUPERSONIC MAINTENANCE SERVICES PTE. LTD.
+LTA000ETT15000231,2016-05-27,Engineering Service Works on Rail Infrastructure,Land Transport Authority,587250,Awarded to Suppliers,AURECON SINGAPORE (PTE.) LTD.
+LTA000ETT15000232,2016-05-26,"Supply, Installation and Monitoring of Instruments for Contracts T308 and T309",Land Transport Authority,6308888,Awarded to Suppliers,GEOSMART INTERNATIONAL PTE. LTD.
+LTA000ETT15000233,2016-04-06,Building Information Modelling (BIM) Services,Land Transport Authority,768796.8,Awarded to Suppliers,AUTODESK ASIA PTE LTD
+LTA000ETT15000234,2016-05-27,Mechanical and Electrical Engineering Services for Jurong Region Line (JRL) Depot,Land Transport Authority,7897635,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT15000235,2015-12-30,Quality Assurance and Quality Control of Concrete Precast Sleepers and Bearers for Thomson Line,Land Transport Authority,275600,Awarded to Suppliers,C@NSPECS PTE. LTD.
+LTA000ETT15000236,2016-08-01,New Road Link Between Senja Road and Kranji Expressway,Land Transport Authority,6550000,Awarded to Suppliers,MEGASTONE HOLDINGS PTE LTD
+LTA000ETT15000237,2016-02-17,Term Contract For Production of Publicity Materials,Land Transport Authority,1590460,Awarded to Suppliers,Allmaster Enterprise
+LTA000ETT15000238,2016-06-09,Mechanical and Electrical Engineering Services for Jurong Region Line (JRL) Mainline,Land Transport Authority,18968100,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT15000239,2016-06-13,Architectural/Engineering Services for Existing Pedestrian Overhead Bridges (Package 1),Land Transport Authority,5330000,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT15000240,2016-06-13,Architectural/Engineering Services for Existing Pedestrian Overhead Bridges (Package 2),Land Transport Authority,5330000,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT15000241,2015-12-21,Addition & Alteration Works at Sengkang Bus Interchange,Land Transport Authority,1388000,Awarded to Suppliers,YUAN MEI CHEN (S) PTE. LTD.
+LTA000ETT15000242,2016-01-27,Topographical Survey for Existing Pedestrian Overhead Bridges (Package 1),Land Transport Authority,399,Awarded to Suppliers,ACE LAND SURVEY
+LTA000ETT15000243,2016-01-27,Topographical Survey for Existing Pedestrian Overhead Bridges (Package 2),Land Transport Authority,588,Awarded to Suppliers,CAK & FG SURVEY PTE. LTD.
+LTA000ETT15000244,2016-01-25,Supply And Delivery Of Hot And Cold Water Dispensers And Bottled Water For A Period Of Two Years,Land Transport Authority,204560,Awarded to Suppliers,DR. WHO WATERWORKS PTE. LTD.
+LTA000ETT15000245,2016-02-16,Two Year Term Contract for the Supply & Delivery of Pre-Printed Forms,Land Transport Authority,143553,Awarded to Suppliers,SECURA SINGAPORE PTE. LTD.
+LTA000ETT15000246,2016-09-13,Reinstatement Works,Land Transport Authority,23700000,Awarded to Suppliers,CCECC SINGAPORE PTE LTD
+LTA000ETT15000247,2016-01-26,Provision of Training Services in Bus Ticketing System for Bus Operators,Land Transport Authority,181184.5,Awarded to Suppliers,INFONET SYSTEMS AND SERVICES PTE LTD
+LTA000ETT15000248,2016-04-04,Provision of Services for Audit of Security Key Management System,Land Transport Authority,168500,Awarded to Suppliers,GRANT THORNTON SINGAPORE PRIVATE LIMITED
+LTA000ETT15000250,2016-06-08,Automatic Fare Collection (AFC) Gates,Land Transport Authority,12738143.75,Awarded to Suppliers,SMRT SERVICES PTE. LTD.
+LTA000ETT15000252,2016-03-10,Programme for Active Mobility,Land Transport Authority,1311180,Awarded to Suppliers,TACTIC PUBLIC RELATIONS
+LTA000ETT15000254,2016-03-10,Commercial Advisory Services for the KL-Singapore HSR,Land Transport Authority,599760,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+LTA000ETT15000255,2016-07-15,Maintenance and Software Development of Travel Smart Rewards System,Land Transport Authority,4384247,Awarded to Suppliers,FUJITSU ASIA PTE LTD
+LTA000ETT15000257,2016-04-14,"Provision of Consultancy for Supervision of Thomson-East Coast Line Contracts T302,T303,T305 & T306",Land Transport Authority,41458500,Awarded to Suppliers,GWC CONSULTING PTE. LTD.
+LTA000ETT15000258,2016-05-26,"Supply, Installation and Monitoring of Instruments for Contract T313",Land Transport Authority,5716985,Awarded to Suppliers,GEOSMART INTERNATIONAL PTE. LTD.
+LTA000ETT15000259,2016-06-06,Communications System for Station Enhancement Works at North-South / East-West Lines,Land Transport Authority,1787779.4,Awarded to Suppliers,NEC ASIA PACIFIC PTE. LTD.
+LTA000ETT15000260,2016-09-09,Construction of Covered Linkway,Land Transport Authority,2533668,Awarded to Suppliers,SHINCON INDUSTRIAL PTE. LTD.
+LTA000ETT15000261,2016-02-26,Review of Regulatory Framework,Land Transport Authority,374040,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+LTA000ETT15000262,2016-03-23,E&M Works for The Construction of Vehicular Underpass at Nicoll Highway / Guillemard Road Junction,Land Transport Authority,358340,Awarded to Suppliers,"TYCO FIRE, SECURITY & SERVICES PTE. LTD."
+LTA000ETT15000268,2016-02-05,Provision of CEPAS Concession Cards,Land Transport Authority,2214000,Awarded to Suppliers,GIESECKE & DEVRIENT ASIA PTE LTD
+LTA000ETT15000269,2016-04-15,"Provision of Consultancy for Supervision and Checking Services for Thomson-East Coast Line Contracts T310, T311 and T312",Land Transport Authority,29856500,Awarded to Suppliers,ECAS CONSULTANTS PTE. LTD.
+LTA000ETT15000270,2016-04-18,Trial Trenching for Existing Pedestrian Overhead Bridges (Package 2),Land Transport Authority,1798936,Awarded to Suppliers,Citi Construction & Engineering pte ltd
+LTA000ETT15000271,2016-04-18,Trial Trenching for Existing Pedestrian Overhead Bridges (Package 1),Land Transport Authority,1875720,Awarded to Suppliers,KIM TIONG HUAT CONTRACTOR PTE LTD
+LTA000ETT15000272,2016-05-16,"Supply, Instrumentation and Monitoring of Instruments for Contracts T310 and T311",Land Transport Authority,7597059,Awarded to Suppliers,Cast Laboratories Pte Ltd
+LTA000ETT15000273,2016-05-04,Appointment of Agency for the Graciousness Campaign,Land Transport Authority,907200,Awarded to Suppliers,DENTSU SINGAPORE PTE LTD
+LTA000ETT15000273,2016-05-04,Appointment of Agency for the Graciousness Campaign,Land Transport Authority,186910,Awarded to Suppliers,PLAYINC PTE. LTD.
+LTA000ETT15000274,2016-02-16,Re-Certification the Enterprise Registry Archival System (ERA),Land Transport Authority,107000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+LTA000ETT15000277,2016-06-02,Provision of Ridership Study and Commercial Advisory Services for Rapid Transit System (RTS) Link Project,Land Transport Authority,1008600,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+LTA000ETT15000278,2016-04-15,Provision of Consultancy for Supervision of Thomson-East Coast Line Contract T301,Land Transport Authority,31780000,Awarded to Suppliers,RONNIE & KOH CONSULTANTS PTE. LTD.
+LTA000ETT15000279,2016-03-31,"Supply, Installation and Monitoring of Instruments for Contracts T302 and T303",Land Transport Authority,8966138.7,Awarded to Suppliers,FOSTA PTE. LTD.
+LTA000ETT15000281,2016-05-12,Conduct of Travel Surveys,Land Transport Authority,1867300,Awarded to Suppliers,MOBILE MARKET MONITOR SINGAPORE PTE. LTD.
+LTA000ETT15000281,2016-05-12,Conduct of Travel Surveys,Land Transport Authority,4780414,Awarded to Suppliers,SYSTRA MVA SINGAPORE PTE. LTD.
+LTA000ETT15000282,2016-05-11,Appointment of External Auditors,Land Transport Authority,390000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+LTA000ETT15000283,2016-06-06,"Road Resurfacing Works along PIE, AYE and Other Expressways",Land Transport Authority,27853500,Awarded to Suppliers,ENG LAM CONTRACTORS CO (PTE) LTD
+LTA000ETT15000284,2016-06-06,"Planned Road Resurfacing Works along ECP, SLE, BKE, CTE and KPE",Land Transport Authority,26813500,Awarded to Suppliers,ENG LAM CONTRACTORS CO (PTE) LTD
+LTA000ETT15000288,2016-04-15,Leasing of Data Centre Space,Land Transport Authority,12427048,Awarded to Suppliers,ACCLIVIS TECHNOLOGIES AND SOLUTIONS PTE. LTD.
+LTA000ETT15000292,2016-04-27,Fire Safety Engineering Analysis for Rapid Transit Stations,Land Transport Authority,159000,Awarded to Suppliers,LEONG POON & ASSOC. PTE. LTD.
+LTA000ETT15000293,2016-04-19,Provision of Venue and Catering Services for LTA Function,Land Transport Authority,269390,Awarded to Suppliers,RESORTS WORLD AT SENTOSA PTE. LTD.
+LTA000ETT15000295,2016-05-26,"Supply, Installation and Monitoring of Instruments for Contracts T305 and T306",Land Transport Authority,7079754.8,Awarded to Suppliers,FOSTA PTE. LTD.
+LTA000ETT15000296,2016-06-06,Appointment of Biennial Audit Service,Land Transport Authority,34800,Awarded to Suppliers,ASSURANCE PARTNERS LLP
+LTA000ETT15000297,2016-05-19,Provision of Storage Services for Electronic Equipment,Land Transport Authority,662303.98,Awarded to Suppliers,SMRT SERVICES PTE. LTD.
+LTA000ETT15000298,2016-08-04,A&A Works for Ventilation to LRT Stations,Land Transport Authority,3528000,Awarded to Suppliers,KOYO ENGINEERING (S.E. ASIA) PTE. LTD.
+LTA000ETT15000299,2016-06-02,Beacon System for Autonomous Vehicle Trials,Land Transport Authority,1041539,Awarded to Suppliers,ATT SYSTEMS (S'PORE) PTE LTD
+LTA000ETT16000001,2016-08-08,"Supply, Installation and Monitoring of Instruments for Contract T312",Land Transport Authority,5361117,Awarded to Suppliers,GEOMOTION (SINGAPORE) PTE. LTD.
+LTA000ETT16000002,2016-04-15,Engagement of Agency for Provision of Media Buy Services,Land Transport Authority,1,Awarded to Suppliers,STARLIGHT ADVERTISING (PTE) LTD.
+LTA000ETT16000003,2016-06-23,Monitoring and Evaluation System for Autonomous Vehicle Trials,Land Transport Authority,3884542,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT16000004,2016-03-30,Addition & Alteration Works Of AFC System For Existing Downtown Line 1 Interchange Station,Land Transport Authority,435000,Awarded to Suppliers,SMRT SERVICES PTE. LTD.
+LTA000ETT16000005,2016-06-28,Provision of Lighting to Sengkang-Punggol Light Rapid Transit (SPLRT) Guideway,Land Transport Authority,4080000,Awarded to Suppliers,ELIKTRICAL ENGINEERING PTE. LTD.
+LTA000ETT16000006,2016-03-29,Group Personal Accident and Work Injury Compensation / Employer's Liability Insurances,Land Transport Authority,529531.81,Awarded to Suppliers,AIG ASIA PACIFIC INSURANCE PTE. LTD.
+LTA000ETT16000007,2016-05-06,Provision of Services to Organize and Coordinate LTA Event,Land Transport Authority,144596,Awarded to Suppliers,PLANET EVENTS
+LTA000ETT16000008,2016-06-07,Provision of QP Services of Thomson-East Coast Line Contracts T313 and T315,Land Transport Authority,36565700,Awarded to Suppliers,TRITECH CONSULTANTS PTE. LTD.
+LTA000ETT16000009,2016-03-08,Condition Survey for Bus Interchanges,Land Transport Authority,179400,Awarded to Suppliers,OGP KONSULT PTE. LTD.
+LTA000ETT16000010,2016-08-25,Environmental Impact Study,Land Transport Authority,498669,Awarded to Suppliers,RAMBOLL ENVIRON SINGAPORE PTE. LTD.
+LTA000ETT16000011,2016-06-06,Modifications to Existing Hougang Bus Depot,Land Transport Authority,21398000,Awarded to Suppliers,QUEK & QUEK CIVIL ENGINEERING PTE LTD
+LTA000ETT16000012,2016-10-10,Mobile Application System for Rail Construction and Interface to Maintenance Management Systems,Land Transport Authority,13633600,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT16000013,2016-11-17,"Depot Equipment for East-West, Downtown and Thomson-East Coast Lines (Package A)",Land Transport Authority,26520668.7,Awarded to Suppliers,Siemens Pte Ltd
+LTA000ETT16000014,2016-11-17,"Depot Equipment for East-West, Downtown and Thomson-East Coast Lines (Package B)",Land Transport Authority,23054764.5,Awarded to Suppliers,Siemens Pte Ltd
+LTA000ETT16000015,2016-06-08,Appointment of Accredited Checker Services for Viaduct from TPE to PIE (Westbound) and Upper Changi Road East,Land Transport Authority,118050,Awarded to Suppliers,CALIBRE CONSULTING (SINGAPORE) PTE. LTD.
+LTA000ETT16000017,2016-12-16,"Trackwork for Thomson-East Coast Line Stage 4 and 5, Downtown Line Stage 3 Extension and East-West Line Upgrade",Land Transport Authority,266296856.61,Awarded to Suppliers,"CHINA RAILWAY FIRST GROUP CO., LTD."
+LTA000ETT16000018,2016-03-11,Provision of Electricity for Street Lighting and Commuter Facilities,Land Transport Authority,11.74,Awarded to Suppliers,SEMBCORP POWER PTE LTD
+LTA000ETT16000019,2016-05-12,Provision of Payment Gateway,Land Transport Authority,1955625.48,Awarded to Suppliers,ORANGE BUSINESS SERVICES SINGAPORE PTE. LTD.
+LTA000ETT16000022,2016-06-20,Appointment of Agency to Develop & Implement Public Communication Materials & Initiatives,Land Transport Authority,2013965.5,Awarded to Suppliers,MCCANN WORLDGROUP (SINGAPORE) PTE. LTD.
+LTA000ETT16000023,2016-04-29,Procurement of Ad-hoc Network Data Cabling Works and Services,Land Transport Authority,234306,Awarded to Suppliers,CONVERGENT ENGINEERING PTE. LTD.
+LTA000ETT16000024,2016-10-25,Addition and Alteration Works to Existing Tanah Merah Station and Existing Viaducts,Land Transport Authority,325000000,Awarded to Suppliers,LUM CHANG BUILDING CONTRACTORS PTE LTD.
+LTA000ETT16000025,2016-05-23,Appointment of Insurance Broker for the Proposed Circle Line Stage 6 Project,Land Transport Authority,80000,Awarded to Suppliers,Jardine Lloyd Thompson Private Limited
+LTA000ETT16000026,2016-05-11,Appointment of Accredited Checker (AC) for Contract RD299A & RD300A Proposed Bus Depots,Land Transport Authority,59832,Awarded to Suppliers,ENGINEERS 2002 (PTE)
+LTA000ETT16000027,2016-07-21,Term Contract for Trial Trenches for a Period of 2 Years (Contract 1),Land Transport Authority,2746605,Awarded to Suppliers,KIM TIONG HUAT CONTRACTOR PTE LTD
+LTA000ETT16000028,2016-07-21,Term Contract for Trial Trenches for a Period of 2 Years (Contract 2),Land Transport Authority,2119184.5,Awarded to Suppliers,Citi Construction & Engineering pte ltd
+LTA000ETT16000029,2016-10-13,Security and Protective Design Engineering Services for Proposed Vehicular Bridge,Land Transport Authority,600450,Awarded to Suppliers,BETH-EL (ASIA PACIFIC) PTE. LTD.
+LTA000ETT16000030,2016-08-19,Consultancy Study for Account-based Ticketing System,Land Transport Authority,996798,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,AVENSYS CONSULTING PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,ENERGY RESOURCING SINGAPORE PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,EWI RECRUITMENT LIMITED
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,30000,Awarded to Suppliers,GLOBAL SEARCH PARTNERS PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,GMP TECHNOLOGIES (S) PTE LTD
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,HRM3 ASIA PTE LTD
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,KELLY SERVICES (SINGAPORE) PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,MACDONALD AND COMPANY PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,PEOPLE ADVANTAGE PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,RAIL PERSONNEL LIMITED
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,RANDSTAD PTE. LIMITED
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,RGF HR AGENT SINGAPORE PTE. LTD.
+LTA000ETT16000031,2016-09-15,Appointment of Recruitment Search Firms,Land Transport Authority,1,Awarded to Suppliers,SEARCHASIA CONSULTING PTE. LTD.
+LTA000ETT16000032,2016-06-10,Provision of Independent Security Audits,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT16000033,2016-06-07,Fence Intrusion Detection System at Tuas West Depot,Land Transport Authority,888000,Awarded to Suppliers,CHUBB SINGAPORE PRIVATE LIMITED
+LTA000ETT16000034,2016-08-31,"Qualified Person (Supervision) for Contracts 1382, 1383 & 8123",Land Transport Authority,2853600,Awarded to Suppliers,ECAS CONSULTANTS PTE. LTD.
+LTA000ETT16000035,2016-07-12,Appointment of Accredited Checker for the Proposed LTA In House Design Project,Land Transport Authority,266660,Awarded to Suppliers,PH CONSULTING PTE. LTD.
+LTA000ETT16000036,2016-11-14,Security and Protective Design Consultancy Services,Land Transport Authority,98000,Awarded to Suppliers,ST Education & Training Private Limited
+LTA000ETT16000038,2016-06-24,Fabrication and Installation of Visual Identity Panels,Land Transport Authority,245405,Awarded to Suppliers,Allmaster Enterprise
+LTA000ETT16000039,2016-07-11,Provision of Housekeeping Services,Land Transport Authority,1213320,Awarded to Suppliers,NAFA SYSTEM SERVICES PTE LTD
+LTA000ETT16000040,2016-07-11,Provision of Security Services,Land Transport Authority,1558800,Awarded to Suppliers,PROSEGUR SINGAPORE PTE. LTD.
+LTA000ETT16000041,2016-08-12,Rectification and Improvement Works to Circle Line - Promenade and Bras Basah Stations,Land Transport Authority,320780,Awarded to Suppliers,CRAFTSMEN DESIGN & CONSTRUCTION LLP
+LTA000ETT16000042,2017-01-10,New Road between Lorong Halus and Pasir Ris Industrial Drive 1 including Expansion of KPE/TPE Interchange,Land Transport Authority,77414800,Awarded to Suppliers,HWA SENG BUILDER PTE LTD
+LTA000ETT16000043,2016-06-10,Professional Services For Supply And Installation Of Fare System Development Network And Relocation,Land Transport Authority,565209,Awarded to Suppliers,ST ELECTRONICS (INFO-SOFTWARE SYSTEMS) PTE. LTD.
+LTA000ETT16000044,2016-10-10,Realignment of Simei Road for connection to Somapah Road,Land Transport Authority,3076300,Awarded to Suppliers,DOUBLE-TRANS PTE. LTD.
+LTA000ETT16000045,2016-07-25,Appointment of Event Organiser for Land Transport Excellence Awards (LTEA) 2016,Land Transport Authority,92710.5,Awarded to Suppliers,PLANET EVENTS
+LTA000ETT16000046,2016-10-24,Design and Construction of Silver Zones,Land Transport Authority,4126000,Awarded to Suppliers,JUPITER BUILDER PTE. LTD.
+LTA000ETT16000047,2016-07-27,Provision of Security Services,Land Transport Authority,393600,Awarded to Suppliers,DRAGNET SMARTECH SECURITY PTE. LTD.
+LTA000ETT16000048,2016-07-27,Provision of Housekeeping Services,Land Transport Authority,171600,Awarded to Suppliers,LIFEFORCE MAINTENANCE & SERVICES
+LTA000ETT16000049,2016-10-10,"Supply, Installation and Monitoring of Instruments for Contract ER480A",Land Transport Authority,1898984,Awarded to Suppliers,GROUND INSTRUMENTATION & ENGINEERING PTE. LTD.
+LTA000ETT16000050,2016-07-29,City Direct Bus Services,Land Transport Authority,2869228,Awarded to Suppliers,RUI FENG CHARTERED PTE. LTD.
+LTA000ETT16000052,2016-10-28,Provision of General Learning Programmes,Land Transport Authority,98400,Awarded to Suppliers,AUREUS CONSULTING PTE. LTD.
+LTA000ETT16000052,2016-10-28,Provision of General Learning Programmes,Land Transport Authority,27600,Awarded to Suppliers,COMAT TRAINING SERVICES PTE LTD
+LTA000ETT16000052,2016-10-28,Provision of General Learning Programmes,Land Transport Authority,135380,Awarded to Suppliers,Integrative Learning Corporation Pte Ltd
+LTA000ETT16000052,2016-10-28,Provision of General Learning Programmes,Land Transport Authority,18800,Awarded to Suppliers,NTUC LEARNINGHUB PTE. LTD.
+LTA000ETT16000053,2016-09-20,Provision of EMAS Vehicle Recovery Services (KPE & MCE),Land Transport Authority,12623280,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+LTA000ETT16000054,2016-10-11,Provision of Learning Programmes for (i) WSQ Workplace Skills Series (WSS); and (ii) WSQ Leadership and People Management (LPM),Land Transport Authority,131200,Awarded to Suppliers,CAPELLE ACADEMY PTE. LTD.
+LTA000ETT16000054,2016-10-11,Provision of Learning Programmes for (i) WSQ Workplace Skills Series (WSS); and (ii) WSQ Leadership and People Management (LPM),Land Transport Authority,158000,Awarded to Suppliers,SERVICE QUALITY CENTRE PTE. LTD.
+LTA000ETT16000055,2016-05-26,Provision of Electricity for Premises and Road Facilities,Land Transport Authority,27.8,Awarded to Suppliers,I SWITCH PTE. LTD.
+LTA000ETT16000056,2016-08-23,Appointment of Social Media Agency,Land Transport Authority,277000,Awarded to Suppliers,KRDS DIGITAL PTE. LTD.
+LTA000ETT16000057,2016-07-12,Supply of Mobile Scaffold Towers for Downtown Line Stage 3 and Tuas West Extension,Land Transport Authority,159000,Awarded to Suppliers,ENVIRO VORTEX SYSTEMS PTE. LTD.
+LTA000ETT16000059,2016-08-25,Appointment of Acquiring Bank For Account-Based Ticketing System,Land Transport Authority,1.18,Awarded to Suppliers,UNITED OVERSEAS BANK LIMITED
+LTA000ETT16000060,2016-08-18,Procurement of Off-site Computer Media Storage and Transportation Services,Land Transport Authority,650360,Awarded to Suppliers,RECALL TOTAL INFORMATION MANAGEMENT PTE. LTD.
+LTA000ETT16000061,2016-09-20,EMAS Vehicle Recovery Services (All Expressways except KPE/MCE),Land Transport Authority,36111850,Awarded to Suppliers,SUPERSONIC MAINTENANCE SERVICES PTE. LTD.
+LTA000ETT16000062,2016-07-18,Data Center Hosting,Land Transport Authority,1379280,Awarded to Suppliers,PCS SECURITY PRIVATE LIMITED
+LTA000ETT16000064,2016-11-08,"Design and Construction of Passenger Service Centre, Station Masters' Room and Ticket Sales Office for Thomson East Coast Line Stations",Land Transport Authority,11800000,Awarded to Suppliers,ANCON ANDA PTE. LTD.
+LTA000ETT16000065,2016-11-11,Upgrading Works at Permanent Way and Locomotive Workshop in Tuas Depot,Land Transport Authority,43900000,Awarded to Suppliers,SCB BUILDING CONSTRUCTION PTE. LTD.
+LTA000ETT16000066,2017-03-22,Power Supply System for Thomson-East Coast Line Stage 4 and 5,Land Transport Authority,99500000,Awarded to Suppliers,"Guthrie Engineering (S) Pte Ltd / LSIS Co., Ltd. Consortium"
+LTA000ETT16000067,2016-09-20,Provision of Traffic Wardens for Enforcement Duty,Land Transport Authority,5400000,Awarded to Suppliers,WILSON PARKING (SINGAPORE) PTE. LTD.
+LTA000ETT16000068,2016-12-08,Architectural/Engineering Services for the Design of Cycling Path Network and Linear Park,Land Transport Authority,2097679,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT16000069,2016-11-09,Enhancement Work at Scotts Underpass,Land Transport Authority,192000,Awarded to Suppliers,SINTRUST CONSTRUCTION PTE. LTD.
+LTA000ETT16000071,2016-11-04,Term Contract for Design and Creative Services for Publicity Materials,Land Transport Authority,558900,Awarded to Suppliers,Grid Private Limited
+LTA000ETT16000071,2016-11-04,Term Contract for Design and Creative Services for Publicity Materials,Land Transport Authority,187750,Awarded to Suppliers,OCULUS DESIGN PTE. LTD.
+LTA000ETT16000077,2016-10-10,"Relocation, Restoration and Reinstatement of Tanjong Pagar Railway Station Platforms",Land Transport Authority,33580354,Awarded to Suppliers,SHANGHAI CHONG KEE FURNITURE & CONSTRUCTION PTE LTD
+LTA000ETT16000078,2016-08-15,Staircases Enhancement with Additional Pressure Relief Dampers,Land Transport Authority,40000,Awarded to Suppliers,MIDAS ENGINEERING & SERVICES PRIVATE LIMITED
+LTA000ETT16000079,2016-09-26,WIFI@MRT Phase 2,Land Transport Authority,31874099,Awarded to Suppliers,M1 NET LTD.
+LTA000ETT16000079,2016-09-26,WIFI@MRT Phase 2,Land Transport Authority,7144540,Awarded to Suppliers,SINGAPORE TELECOMMUNICATIONS LIMITED
+LTA000ETT16000080,2016-08-08,Provision of Mobile Cameras and Transmission of Real Time Video Surveillance,Land Transport Authority,119880,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT16000081,2016-08-19,Renovation Works of Compound,Land Transport Authority,205998,Awarded to Suppliers,AZURE PTE. LTD.
+LTA000ETT16000082,2016-08-16,Maintenance and Management of Little India Bus Service Passenger Points,Land Transport Authority,304988,Awarded to Suppliers,RAMKY CLEANTECH SERVICES PTE. LTD.
+LTA000ETT16000083,2016-09-13,Topograhical Survey for Existing Bus-Stops (Package 1),Land Transport Authority,606,Awarded to Suppliers,ATLAS CONSULTING SURVEYORS
+LTA000ETT16000084,2016-09-13,Topograhical Survey for Existing Bus-Stops (Package 2),Land Transport Authority,680,Awarded to Suppliers,CAK & FG SURVEY PTE. LTD.
+LTA000ETT16000086,2016-08-25,Contract for the Supply and Delivery of Postage Paid Impression (PPI) Envelopes,Land Transport Authority,379989,Awarded to Suppliers,MIN HWA ENVELOPE MANUFACTURERS PTE. LTD.
+LTA000ETT16000087,2017-03-24,Bus Network Scheduling And Management System,Land Transport Authority,5675228,Awarded to Suppliers,COGNIZANT TECHNOLOGY SOLUTIONS ASIA PACIFIC PTE. LTD.
+LTA000ETT16000088,2017-04-19,Bus Contracting - Seletar Bus Package,Land Transport Authority,480332472,Awarded to Suppliers,SBS Transit Ltd
+LTA000ETT16000089,2016-10-24,Site Investigation Engineering Services,Land Transport Authority,7199970,Awarded to Suppliers,Tritech Engineering & Testing (Singapore) Pte Ltd
+LTA000ETT16000090,2016-10-24,Provision of Horizontal Directional Coring Services,Land Transport Authority,8499825,Awarded to Suppliers,Tritech Engineering & Testing (Singapore) Pte Ltd
+LTA000ETT16000091,2016-10-24,Provision of Horizontal Directional Coring Services,Land Transport Authority,7277250,Awarded to Suppliers,Tritech Engineering & Testing (Singapore) Pte Ltd
+LTA000ETT16000092,2017-01-10,Trackwork at Permanent Way and Locomotive Workshop in Tuas Depot,Land Transport Authority,11990980.98,Awarded to Suppliers,GATES PCM CONSTRUCTION LTD.
+LTA000ETT16000093,2017-02-06,Replacement of Vehicular Bridge Bearings - Contract 2,Land Transport Authority,17235000,Awarded to Suppliers,GIM TIAN CIVIL ENGINEERING PTE LTD
+LTA000ETT16000094,2017-02-06,Replacement of Vehicular Bridge Bearings - Contract 1,Land Transport Authority,15642770,Awarded to Suppliers,GIM TIAN CIVIL ENGINEERING PTE LTD
+LTA000ETT16000097,2016-09-21,"Supply, Fabrication and Installation of Signages at MRT/LRT Stations and Trains.",Land Transport Authority,305965,Awarded to Suppliers,BUSADS PTE LTD
+LTA000ETT16000098,2016-11-11,"Implementation and Maintenance of ""40 km/h When Lights Flash"" Signs at Enhanced School Zones",Land Transport Authority,2138813,Awarded to Suppliers,ATS TRAFFIC PTE LTD
+LTA000ETT16000099,2017-03-07,Advance Engineering Study for the Proposed Cross Island Line Eastern Leg (CRLe) from Sin Ming to Changi-Depot and Mainline Package A,Land Transport Authority,12288000,Awarded to Suppliers,Arup Singapore Private Limited and Aedas Pte. Ltd.
+LTA000ETT16000100,2017-01-12,Provision of Financial and System Security Audit Services,Land Transport Authority,698000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD.
+LTA000ETT16000101,2016-10-17,Term Contract for Trial Trenches for a Period of 3 Years,Land Transport Authority,2898800,Awarded to Suppliers,KIM TIONG HUAT CONTRACTOR PTE LTD
+LTA000ETT16000102,2016-09-13,Provision of Hardware & Software Tools For Entry & Exit Monitoring System,Land Transport Authority,208920,Awarded to Suppliers,Willowglen Services Pte Ltd
+LTA000ETT16000103,2016-10-24,Provision of Geophysical Investigation Services,Land Transport Authority,1298500,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT16000104,2016-10-10,Provision of Indicator Lights at Identified Bus Stops Island Wide,Land Transport Authority,1143145.6,Awarded to Suppliers,HIGHNESS ELECTRICAL ENGINEERING PTE LTD
+LTA000ETT16000105,2017-02-13,Behavioural Research Study,Land Transport Authority,215000,Awarded to Suppliers,CHEMISTRY FORM PTE. LTD.
+LTA000ETT16000107,2016-09-29,Supply & Delivery of Mobile Phone Plan and Mobile Phone for a Period of Two Years,Land Transport Authority,1277848,Awarded to Suppliers,SINGAPORE TELECOMMUNICATIONS LIMITED
+LTA000ETT16000108,2016-12-05,Appointment of Insurance Broker for the Proposed North-South Corridor Project,Land Transport Authority,48500,Awarded to Suppliers,WILLIS TOWERS WATSON BROKERS (SINGAPORE) PTE. LTD.
+LTA000ETT16000109,2016-12-29,"Supply, Delivery, Installation, Testing and Commissioning of Automatic Clean Gas System for Thomson-East Coast Line (T2161)",Land Transport Authority,10103550.11,Awarded to Suppliers,"TYCO FIRE, SECURITY & SERVICES PTE. LTD."
+LTA000ETT16000110,2017-03-07,Advance Engineering Study for the Proposed Cross Island Line Eastern Leg (CRLe) from Sin Ming to Changi - Mainline Package C,Land Transport Authority,14890000.01,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT16000111,2017-03-10,Point Machines for Tanah Merah Station Addition and Alteration Works and 4-in-1 Depot - East West Line,Land Transport Authority,6601648.8,Awarded to Suppliers,Siemens Pte Ltd
+LTA000ETT16000112,2016-11-15,Provision of Power Supply System for upgrading works at existing P-Way and Locomotive Workshop at Tuas Depot,Land Transport Authority,2838216.71,Awarded to Suppliers,WAH LOON ENGINEERING PTE. LTD.
+LTA000ETT16000113,2017-07-20,Proposed Office Renovation Works at Hampshire Office,Land Transport Authority,11992940,Awarded to Suppliers,W'RAY CONSTRUCTION PTE. LTD.
+LTA000ETT16000114,2017-04-20,Communications System For 4-in-1 Depot - East West Line Including Addition And Alteration Works At Tanah Merah Station,Land Transport Authority,20170329,Awarded to Suppliers,NCS COMMUNICATIONS ENGINEERING PTE. LTD.
+LTA000ETT16000116,2016-11-09,Independent Compressed Air Works Consultancy and On-Site Audit Services for Thomson-East Coast Line 5 and 6 Bored Tunnel Works,Land Transport Authority,289345,Awarded to Suppliers,KB ASSOCIATES PTE. LTD.
+LTA000ETT16000117,2016-11-30,"Supply, Installation and Monitoring of Instruments",Land Transport Authority,78000,Awarded to Suppliers,GEOAUTO PTE. LTD.
+LTA000ETT16000119,2017-06-02,Procurement of Asset Management and Maintenance-Related Training Programmes,Land Transport Authority,1,Awarded to Suppliers,ASSET MANAGEMENT CONSULTING LIMITED
+LTA000ETT16000119,2017-06-02,Procurement of Asset Management and Maintenance-Related Training Programmes,Land Transport Authority,1,Awarded to Suppliers,ASSETIVITY PTY LTD
+LTA000ETT16000120,2017-03-07,Advance Engineering Study for the Proposed Cross Island Line Eastern Leg (CRLe) from Sin Ming to Changi - Mainline Package B,Land Transport Authority,15488882.63,Awarded to Suppliers,WSP CONSULTANCY PTE. LTD.
+LTA000ETT16000121,2016-10-12,Provision of ISO 55001 Management System Support,Land Transport Authority,299847,Awarded to Suppliers,JACOBS INTERNATIONAL CONSULTANTS PTE. LTD.
+LTA000ETT16000123,2017-03-24,"Implementation, Operations and Maintenance of Bicycle Sharing system in Jurong Lake District",Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT16000124,2016-11-21,Dedicated Sponsorship and Marketing Consultancy for Bicycle Sharing System,Land Transport Authority,0.01,Awarded to Suppliers,LAGARDERE SPORTS ASIA PTE. LTD.
+LTA000ETT16000126,2016-11-14,City Direct Bus Services,Land Transport Authority,1226507.6,Awarded to Suppliers,BT&TAN TRANSPORT PTE. LTD.
+LTA000ETT16000127,2016-12-21,Automatic Vehicle Inspection (AVI) System at Tuas West Depot,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT16000128,2017-05-04,Bus Maintenance Management System,Land Transport Authority,3345585,Awarded to Suppliers,TECH MAHINDRA LIMITED (SINGAPORE BRANCH)
+LTA000ETT16000129,2017-07-10,New Road Connections to Seletar Link and Widening of TPE between Jalan Kayu and Punggol West Flyovers,Land Transport Authority,66878600,Awarded to Suppliers,KOON CONSTRUCTION & TRANSPORT CO. PTE. LTD.
+LTA000ETT16000131,2017-01-10,Qualified Person (Supervision) Services for Contract 1685A,Land Transport Authority,2389000,Awarded to Suppliers,TRITECH CONSULTANTS PTE. LTD.
+LTA000ETT16000132,2016-12-29,Peer Reviewer for the Fire Safety Design for Rapid Transit Stations,Land Transport Authority,42500,Awarded to Suppliers,SHEVS IFT CONSULTANTS PTE. LTD.
+LTA000ETT16000133,2017-01-09,Instrumentation and Monitoring Works for Contract 1685A,Land Transport Authority,551958,Awarded to Suppliers,GEOAPPLICATION ENGINEERS PTE. LTD.
+LTA000ETT16000134,2017-06-21,Supply and Installation of Environmental Control System for 4-In-1 Rail and Bus Depot,Land Transport Authority,39598000,Awarded to Suppliers,Bintai Kindenko Pte Ltd
+LTA000ETT16000135,2016-10-07,Provision of Maintenance Services,Land Transport Authority,266815,Awarded to Suppliers,SODEXO KIM YEW PTE. LTD.
+LTA000ETT16000136,2017-01-12,Supply and Delivery of Two Units of Twin-Cabin Pickups and Six Units of Motorcycles,Land Transport Authority,67392,Awarded to Suppliers,Ban Hock Hin Company Private Limited
+LTA000ETT16000137,2017-05-12,Mechanical and Electrical Engineering Services for Cross Island Line Eastern Leg (CRLe) Depot,Land Transport Authority,7983800,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT16000138,2016-11-24,Engagement of Lead Assessors,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT16000139,2016-12-30,Road Works Inspection Patrol Service,Land Transport Authority,780920,Awarded to Suppliers,CMP CONSULTANTS PRIVATE LIMITED
+LTA000ETT16000140,2017-02-23,Commuter Facility Equipment Monitoring Services,Land Transport Authority,3257962.5,Awarded to Suppliers,Surbana Technologies Pte Ltd
+LTA000ETT16000142,2016-11-21,"Procurement of Hardware, BIM Modelling Software and Support Services",Land Transport Authority,558858.02,Awarded to Suppliers,Innocom Technologies Pte Ltd
+LTA000ETT16000143,2017-01-12,Advance Engineering Study for the Proposed High Speed Rail (HSR) within Singapore,Land Transport Authority,24563800,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+LTA000ETT16000144,2017-03-06,Proposed Design and Construction of Bus Interchange and Associated Works at Choa Chu Kang,Land Transport Authority,14658591,Awarded to Suppliers,KIMLY CONSTRUCTION PRIVATE LIMITED
+LTA000ETT16000145,2016-12-16,Provision of Security Services for LTA Premises,Land Transport Authority,7183800,Awarded to Suppliers,PROSEGUR SINGAPORE PTE. LTD.
+LTA000ETT16000146,2016-11-22,Provision of Housekeeping Services for LTA Premises,Land Transport Authority,4706760,Awarded to Suppliers,SUPERSONIC MAINTENANCE SERVICES PTE. LTD.
+LTA000ETT16000147,2017-01-17,Procurement of Taxi Service Surveys,Land Transport Authority,1331000,Awarded to Suppliers,KT BUSINESS (R) PTE. LTD.
+LTA000ETT16000148,2017-02-15,E&M Works for Entrance and Underpass at Bukit Panjang Station,Land Transport Authority,940480,Awarded to Suppliers,GUTHRIE ENGINEERING (S) PTE LTD
+LTA000ETT16000149,2017-05-08,Design & Construction of Cycling Facilities,Land Transport Authority,11577000,Awarded to Suppliers,CHC CONSTRUCTION PTE. LTD.
+LTA000ETT16000150,2017-05-31,Supply and Installation of Fire Protection System for 4-In-1 Rail and Bus Depot,Land Transport Authority,32450000,Awarded to Suppliers,CHUBB SINGAPORE PRIVATE LIMITED
+LTA000ETT16000151,2017-05-09,Unified Maintenance Hub 2.0 (UMH2.0),Land Transport Authority,10087130,Awarded to Suppliers,SOPRA STERIA ASIA PTE. LTD.
+LTA000ETT16000152,2017-03-20,"Implementation, Operations and Maintenance of Mobile Application",Land Transport Authority,2285757,Awarded to Suppliers,COGNIZANT TECHNOLOGY SOLUTIONS ASIA PACIFIC PTE. LTD.
+LTA000ETT16000153,2017-03-30,Independent Review on the In-house Design of Tunnel Ventilation System for North-South Corridor (NSC) and North East Line Extension (NELe),Land Transport Authority,174000,Awarded to Suppliers,MOSEN LIMITED
+LTA000ETT16000154,2017-02-01,Appointment of Accredited Checker for Rapid Transit System (RTS) Link,Land Transport Authority,196000,Awarded to Suppliers,ECAS CONSULTANTS PTE. LTD.
+LTA000ETT16000155,2017-02-08,Replacement of Signboards,Land Transport Authority,66000,Awarded to Suppliers,SIGNMECHANIC PTE LTD
+LTA000ETT16000156,2017-01-11,Conduct of Taxi Survey,Land Transport Authority,46000,Awarded to Suppliers,QS-FIRST PTE LTD
+LTA000ETT16000157,2017-03-17,"Appointment of Registered Inspectors (Architectural) for Walk2Ride Programme (Contracts ER440, ER441, ER442, ER443, 9068 and 9095)",Land Transport Authority,41100,Awarded to Suppliers,ENGINEERS 2002 (PTE)
+LTA000ETT16100001,2017-02-02,Provision of Counter Services,Land Transport Authority,67200,Awarded to Suppliers,SINGAPORE POST LIMITED
+LTA000ETT16100002,2017-02-10,Management Services for Enterprise Risk Management (ERM) Framework,Land Transport Authority,283400,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+LTA000ETT16100003,2017-02-16,Joint Development Partner for Kuala Lumpur - Singapore High Speed Rail,Land Transport Authority,34850000,Awarded to Suppliers,WSP ENGINEERING MALAYSIA SDN BHD / MOT T MACDONALD (MALAYSIA) SDN BHD / ERNST & YOUNG ADVISORY SERVICES SDN BHD
+LTA000ETT16100004,2016-12-29,Scope and Conduct Feedback Surveys for LTA Employees,Land Transport Authority,1242500,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+LTA000ETT16100005,2017-04-10,Proposed Commuter Infrastructure Enhancement,Land Transport Authority,6191217,Awarded to Suppliers,Yew Ann Construction Pte Ltd
+LTA000ETT16100007,2016-12-02,Provision of Medical Examination Services,Land Transport Authority,1,Awarded to Suppliers,PARKWAY SHENTON PTE LTD
+LTA000ETT16100008,2017-05-09,Architectural/Engineering Services for Implementation of New Bus Interchanges,Land Transport Authority,11286172,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT16100009,2017-06-21,Supply and Installation of Electrical Services for 4-In-1 Rail and Bus Depot,Land Transport Authority,108000000,Awarded to Suppliers,UG M&E PTE. LTD.
+LTA000ETT16100010,2017-05-08,Works at Slip Road from Pan Island Expressway to Airport Boulevard,Land Transport Authority,18900000,Awarded to Suppliers,MEGASTONE HOLDINGS PTE LTD
+LTA000ETT16100011,2017-04-11,Conducting Traffic Surveys (Part A),Land Transport Authority,3231330,Awarded to Suppliers,KT BUSINESS (R) PTE. LTD.
+LTA000ETT16100012,2016-12-12,Conducting Traffic Surveys (Part B),Land Transport Authority,1743500,Awarded to Suppliers,KT BUSINESS (R) PTE. LTD.
+LTA000ETT16100013,2017-03-09,Term Contract for Survey Services,Land Transport Authority,10292,Awarded by Items,FORBES RESEARCH PTE LTD
+LTA000ETT16100013,2017-03-09,Term Contract for Survey Services,Land Transport Authority,3099,Awarded by Items,KT BUSINESS (R) PTE. LTD.
+LTA000ETT16100013,2017-03-09,Term Contract for Survey Services,Land Transport Authority,10780,Awarded by Items,NEXUS LINK PTE. LTD.
+LTA000ETT16100013,2017-03-09,Term Contract for Survey Services,Land Transport Authority,6335.3,Awarded by Items,TTS GROUP PTE. LTD.
+LTA000ETT16100014,2017-03-20,Bus Interchange Enhancement,Land Transport Authority,2705170,Awarded to Suppliers,LAI YEW SENG PTE LTD
+LTA000ETT16100015,2017-05-12,Mechanical and Electrical Engineering Services for the Proposed Cross Island Line Eastern Leg (CRLe) Mainline,Land Transport Authority,21185000,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+LTA000ETT16100016,2017-05-02,Technology Refresh and Upgrade of Corporate Network and Server Data Backup Infrastructure,Land Transport Authority,2782726,Awarded to Suppliers,Nera Telecommunications Ltd
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,APBA PTE. LTD.
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,CKM CONSULTANTS PTE LTD
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,CKMBT INTERNATIONAL PTE. LTD.
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,ENERGY RESOURCING SINGAPORE PTE. LTD.
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,KELLY SERVICES (SINGAPORE) PTE. LTD.
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,RCY PTE. LTD.
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,TROYTECH INTERNATIONAL CONSULTING PTE LTD
+LTA000ETT16100017,2017-04-20,Term Contract for Technical Manpower Services,Land Transport Authority,1,Awarded by Items,ZENITH INFOTECH (S) PTE LTD.
+LTA000ETT16100018,2017-01-23,Site Investigation Works for LTA Projects,Land Transport Authority,2762640,Awarded to Suppliers,GROUND INSTRUMENTATION & ENGINEERING PTE. LTD.
+LTA000ETT16100020,2017-01-27,Retrofitting of Handrails on Trains,Land Transport Authority,1316000,Awarded to Suppliers,LEXBUILD INTERNATIONAL PTE. LTD.
+LTA000ETT16100023,2017-07-21,Supply and Delivery of Luminaires for Non-Public Areas for Thomson-East Coast Line,Land Transport Authority,15382979,Awarded to Suppliers,Thorn Lighting (Singapore) Pte Ltd
+LTA000ETT16100024,2017-07-21,Supply and Delivery of Luminaires for Public Areas for Thomson-East Coast Line,Land Transport Authority,23503832,Awarded to Suppliers,KOIZUMI LIGHTING SINGAPORE PTE. LTD.
+LTA000ETT16100025,2017-06-14,"Implementation, Operations & Maintenance of Reports Processing & Management System",Land Transport Authority,11020540,Awarded to Suppliers,COGNIZANT TECHNOLOGY SOLUTIONS ASIA PACIFIC PTE. LTD.
+LTA000ETT16100026,2017-04-11,Ground Vibration Study,Land Transport Authority,278231,Awarded to Suppliers,WITTEVEEN+BOS SOUTH-EAST ASIA PTE. LTD.
+LTA000ETT16100027,2017-03-31,Upgrading and Maintenance of the VEP/Toll Front-end System,Land Transport Authority,6219348.68,Awarded to Suppliers,CSE GLOBAL LIMITED
+LTA000ETT16100028,2017-05-11,Provision of Parking Warden Services,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT16100029,2017-05-31,Half Height Platform Screen Doors for Additional Platform at Tanah Merah Station,Land Transport Authority,2333756,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT16100030,2017-02-13,Comprehensive Maintenance of the Existing Audio Visual (AV) System,Land Transport Authority,109265,Awarded to Suppliers,PAVE System Pte Ltd
+LTA000ETT16100031,2017-01-27,Wireless Network Extension For Internet Surfing,Land Transport Authority,1288876.6,Awarded to Suppliers,HITACHI SYSTEMS DIGITAL SERVICES (SINGAPORE) PTE. LTD.
+LTA000ETT16100033,2017-04-11,Term Contract for Supply and Installation of New System Furniture,Land Transport Authority,2906394,Awarded to Suppliers,C&R INTERIORS PTE. LTD.
+LTA000ETT16100034,2017-01-24,Provision of Windows 10 Tablets,Land Transport Authority,572238,Awarded to Suppliers,AsiaPac Distribution Pte Ltd
+LTA000ETT16100035,2017-02-24,Office Mover and Transport Services,Land Transport Authority,384490,Awarded to Suppliers,COLLIN'S MOVERS PTE. LTD.
+LTA000ETT16100036,2017-03-30,Regular Inspection of Roads and Road Related Facilities,Land Transport Authority,2761820,Awarded by Items,CMP CONSULTANTS PRIVATE LIMITED
+LTA000ETT16100036,2017-03-30,Regular Inspection of Roads and Road Related Facilities,Land Transport Authority,4279230,Awarded by Items,FONG CONSULT PTE. LTD.
+LTA000ETT16100037,2017-05-25,Provision of Bus Depot Equipment,Land Transport Authority,6195500,Awarded to Suppliers,"TANGSHAN BAICHUAN INTELLIGENT MACHINE CO.,LTD"
+LTA000ETT16100038,2017-04-05,Two Year Term Contract for Detailed Topographical Surveys for the East Sector,Land Transport Authority,618,Awarded to Suppliers,CAK & FG SURVEY PTE. LTD.
+LTA000ETT16100039,2017-04-05,Two Year Term Contract for Detailed Topographical Surveys for the West Sector,Land Transport Authority,582,Awarded to Suppliers,HKS Surveyors Pte Ltd
+LTA000ETT16100040,2017-05-02,"Maintenance of Central Expressway Tunnels, Fort Canning Tunnel and Woodsville Tunnel E&M Works",Land Transport Authority,6798525,Awarded to Suppliers,CPG Facilities Management Pte Ltd
+LTA000ETT16100041,2017-09-14,"Supply, Delivery, Installation, Testing and Commissioning of UPS and EPS Systems for Thomson-East Coast Line",Land Transport Authority,37180000,Awarded to Suppliers,GUTHRIE ENGINEERING (S) PTE LTD
+LTA000ETT16100042,2017-05-02,Upgrading of Toilet Facilities and Other Minor Works at Existing Bus Interchanges & Terminals,Land Transport Authority,1480000,Awarded to Suppliers,JEI FONG ENGINEERING PTE. LTD.
+LTA000ETT16100043,2017-04-17,Rectification Works At Bayfront Station And Tunnels,Land Transport Authority,239800,Awarded to Suppliers,ASIABUILD ENTERPRISES PTE LTD
+LTA000ETT16100044,2017-05-04,Site Investigation Works for LTA Projects,Land Transport Authority,2697465.5,Awarded to Suppliers,GEOMOTION (SINGAPORE) PTE. LTD.
+LTA000ETT16100045,2017-03-31,Term Contract for Trial Trenches for a Period of Two (2) Years,Land Transport Authority,2078500,Awarded to Suppliers,KIM TIONG HUAT CONTRACTOR PTE LTD
+LTA000ETT16100046,2017-04-20,Tunnel Washing Services for Road Tunnels,Land Transport Authority,3486000,Awarded to Suppliers,GIM TIAN CIVIL ENGINEERING PTE LTD
+LTA000ETT16100047,2017-04-12,Provision of Maintenance and Configuration Services for Analysis System,Land Transport Authority,128860,Awarded to Suppliers,SMART CONSULTING SOLUTIONS PTE. LTD.
+LTA000ETT16100048,2017-05-15,Comprehensive Maintenance of KPE and MCE Integrated Traffic and Plant Management System (Front End),Land Transport Authority,6202494,Awarded to Suppliers,"TYCO FIRE, SECURITY & SERVICES PTE. LTD."
+LTA000ETT16100049,2017-09-08,Construction of Kim Chuan Depot Extension for Circle Line 6,Land Transport Authority,1211738000,Awarded to Suppliers,WOH HUP (PRIVATE) LIMITED
+LTA000ETT16100050,2017-09-08,Construction of Keppel Station and Tunnels for Circle Line 6,Land Transport Authority,313800000,Awarded to Suppliers,"China State Construction Engineering Corporation Limited (Singapore Branch) - Nishimatsu Construction Co., Ltd. Joint Venture"
+LTA000ETT16100051,2017-01-20,Provision of Venue and Catering Services for LTA Function,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT16100052,2017-03-27,Repair Services for General Ticketing Machines,Land Transport Authority,299736.49,Awarded to Suppliers,SMRT SERVICES PTE. LTD.
+LTA000ETT16100053,2017-04-28,Supply and Management of Vehicle Pound,Land Transport Authority,2496520,Awarded to Suppliers,COGENT AUTOMOTIVE LOGISTICS PTE. LTD.
+LTA000ETT16100054,2017-03-28,Provision of Wireless Local Area Network (WLAN) and Test Jig,Land Transport Authority,490324,Awarded to Suppliers,PANASONIC ASIA PACIFIC PTE. LTD.
+LTA000ETT16100055,2017-04-27,Comprehensive Maintenance of GLIDE System,Land Transport Authority,8915665,Awarded to Suppliers,ATS TRAFFIC PTE LTD
+LTA000ETT16100056,2017-06-05,Consultancy Study for North-South Corridor (NSC),Land Transport Authority,3071800,Awarded to Suppliers,ARUP SINGAPORE PRIVATE LIMITED
+LTA000ETT17300001,2017-07-25,Conduct of Freight Surveys,Land Transport Authority,990344,Awarded to Suppliers,RMA CONTRACTS PTE. LTD.
+LTA000ETT17300002,2017-06-21,Security Design Study for the Proposed Cross Island Line (CRL),Land Transport Authority,750579.81,Awarded to Suppliers,ARUP SINGAPORE PRIVATE LIMITED
+LTA000ETT17300003,2017-05-08,"Provision of Services for Operation of Works Train for Thomson-East Coast Line Stage 1,2 & 3, Gali Batu Depot Extension and Tuas Depot Extension",Land Transport Authority,20298504,Awarded to Suppliers,P-WAY CONSTRUCTION & ENGINEERING PTE. LTD.
+LTA000ETT17300005,2017-08-23,Centralised Collections and Refunds System (CCRS),Land Transport Authority,31619849,Awarded to Suppliers,WIPRO NETWORKS PTE. LIMITED
+LTA000ETT17300006,2017-07-10,"Term Contract for Road Related Facilities, Road Structures & Road Safety Schemes",Land Transport Authority,12788888,Awarded to Suppliers,DOUBLE-TRANS PTE. LTD.
+LTA000ETT17300009,2017-03-29,Provision of Shuttle Bus Service,Land Transport Authority,86400,Awarded to Suppliers,MILLION BUS TRANSPORT SERVICES
+LTA000ETT17300010,2017-11-10,Supply and Delivery of Sanitary Ware & Fittings for Thomson-East Coast Line (Thomson Section),Land Transport Authority,523064,Awarded to Suppliers,SWISSWERKZ (S) PTE. LTD.
+LTA000ETT17300011,2017-04-06,Provision of Venue and Catering Services for LTA Annual Dinner,Land Transport Authority,231495,Awarded to Suppliers,MARINA BAY SANDS PTE. LTD.
+LTA000ETT17300012,2017-06-07,Appointment of Vendors for Placement of Print Advertisements in Publications,Land Transport Authority,188028,Awarded to Suppliers,BRIQ PTE. LTD.
+LTA000ETT17300013,2017-09-08,Construction of Cut and Cover Tunnels at Marina Bay Area for Circle Line 6,Land Transport Authority,225350000,Awarded to Suppliers,KOH BROTHERS BUILDING & CIVIL ENGINEERING CONTRACTOR (PTE.) LTD.
+LTA000ETT17300014,2017-04-06,Event Organiser for LTA Annual Dinner,Land Transport Authority,113540,Awarded to Suppliers,SE7EN FRIDAY PTE. LTD.
+LTA000ETT17300015,2017-06-22,Term Contract for Trial Trenches for a Period of 2 Years,Land Transport Authority,2231345,Awarded to Suppliers,Citi Construction & Engineering pte ltd
+LTA000ETT17300016,2017-06-22,Term Contract for Trial Trenches for a Period of 2 Years,Land Transport Authority,3004772,Awarded to Suppliers,Citi Construction & Engineering pte ltd
+LTA000ETT17300017,2017-06-22,Term Contract for Trial Trenches for a Period of 2 Years,Land Transport Authority,2947191.88,Awarded to Suppliers,Citi Construction & Engineering pte ltd
+LTA000ETT17300018,2017-05-29,Production of Downtown Line Commemorative Book,Land Transport Authority,244750,Awarded to Suppliers,STRAITS TIMES PRESS PTE. LTD.
+LTA000ETT17300019,2017-03-09,Provision of Electricity for Street Lighting and Commuter Facilities,Land Transport Authority,7.91,Awarded to Suppliers,TUAS POWER SUPPLY PTE LTD
+LTA000ETT17300020,2017-05-29,Supply and Delivery of Vehicles,Land Transport Authority,616588.55,Awarded to Suppliers,VOLKSWAGEN GROUP SINGAPORE PTE LTD
+LTA000ETT17300021,2017-05-30,"Supply and Delivery of Microfilm Archive Processor, Densitometer and Microfilm Winder",Land Transport Authority,56800,Awarded to Suppliers,MICROIMAGE SYSTEMS PTE. LTD.
+LTA000ETT17300022,2017-04-21,"Fire and Extended Perils, Public Liability, Fidelity and Money Insurances for Land Transport Authority",Land Transport Authority,52736.74,Awarded to Suppliers,TOKIO MARINE INSURANCE SINGAPORE LTD.
+LTA000ETT17300023,2017-07-18,Regular Inspection of Major Road Structures,Land Transport Authority,3970620,Awarded to Suppliers,Novaars International Pte Ltd
+LTA000ETT17300024,2017-03-16,Printing of Decals,Land Transport Authority,26400,Awarded to Suppliers,Decal Singapore Pte Ltd
+LTA000ETT17300026,2017-07-03,Upgrading of CFD Computing Network,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT17300027,2017-10-09,Construction of Prince Edward Station and Tunnels for Circle Line 6,Land Transport Authority,310775390,Awarded to Suppliers,"CHINA RAILWAY TUNNEL GROUP CO., LTD. (SINGAPORE BRANCH)"
+LTA000ETT17300028,2017-06-08,Independent Road Safety Reviewer,Land Transport Authority,18037.5,Awarded by Items,TRAFFIC CONSULT PTE. LTD.
+LTA000ETT17300028,2017-06-08,Independent Road Safety Reviewer,Land Transport Authority,14030,Awarded by Items,TSM CONSULTANCY PTE. LTD.
+LTA000ETT17300029,2017-07-03,"Supply, Fabrication and Installation of Signage at MRT/LRT Stations and Trains",Land Transport Authority,970650,Awarded to Suppliers,Allmaster Enterprise
+LTA000ETT17300030,2017-10-04,Works at Balmoral Road / Bukit Timah Road Junction and Newton Circus,Land Transport Authority,18350000,Awarded to Suppliers,MEGASTONE HOLDINGS PTE LTD
+LTA000ETT17300031,2017-06-13,Appointment of Insurance Broker for Rail Asset Replacement Project,Land Transport Authority,15000,Awarded to Suppliers,Jardine Lloyd Thompson Private Limited
+LTA000ETT17300032,2017-07-13,Provision of Manpower Services to Operate VEP/Toll System at Land Checkpoints,Land Transport Authority,24568639.2,Awarded to Suppliers,PEOPLE ADVANTAGE PTE. LTD.
+LTA000ETT17300033,2017-07-28,Appointment of Audit Services,Land Transport Authority,118000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+LTA000ETT17300034,2017-09-08,Condition Assessment of Rail Operating Assets,Land Transport Authority,4272340,Awarded to Suppliers,PYPUN-KD & ASSOCIATES LIMITED
+LTA000ETT17300035,2017-10-02,Addition & Alteration (A&A) Works to Sengkang-Punggol Light Rapid Transit (SPLRT) Depot Workshop,Land Transport Authority,6051816,Awarded to Suppliers,C K T THOMAS PRIVATE LIMITED
+LTA000ETT17300036,2017-10-27,"Supply and Installation of Tunnel Ventilation and Environmental Control Systems for Thomson-East Coast Line Stages 4 & 5, Downtown Line 3 Extension and East-West Line Upgrade",Land Transport Authority,94682000,Awarded to Suppliers,SHINRYO CORPORATION (SINGAPORE BRANCH)
+LTA000ETT17300037,2017-07-10,Provision of Event Management Services,Land Transport Authority,699480,Awarded to Suppliers,SENSES MARKETING COMMUNICATIONS & DESIGN PTE LTD
+LTA000ETT17300038,2017-07-13,"Supply and Delivery of Site T-Shirts and Pants, Corporate T-Shirts, Laced-Up and Slip-On Safety Boots",Land Transport Authority,264700,Awarded by Items,FG CONCEPTS PRIVATE LIMITED
+LTA000ETT17300038,2017-07-13,"Supply and Delivery of Site T-Shirts and Pants, Corporate T-Shirts, Laced-Up and Slip-On Safety Boots",Land Transport Authority,290500,Awarded by Items,KING'S SHOE MANUFACTURING PTE LTD.
+LTA000ETT17300039,2017-07-17,Provision of Wire Mesh and Associated Works for Tunnel Ventilation Fans at Downtown Line Stage 1 Stations,Land Transport Authority,150221.05,Awarded to Suppliers,PURETECH ENGINEERING PTE LTD
+LTA000ETT17300041,2016-06-30,Provision of Services for Integrated Communications and Development of Publicity Materials,Land Transport Authority,804648,Awarded to Suppliers,OGILVY & MATHER (SINGAPORE) PRIVATE LIMITED
+LTA000ETT17300042,2017-11-10,Construction of Cantonment Station for Circle Line 6,Land Transport Authority,205000000,Awarded to Suppliers,CHINA STATE CONSTRUCTION ENGINEERING CORPORATION LIMITED (SINGAPORE BRANCH)
+LTA000ETT17300044,2017-07-14,Provision of Signages and Leaflets at all MRT Stations,Land Transport Authority,206377.8,Awarded to Suppliers,AMICO TECHNOLOGY INTERNATIONAL PTE. LTD.
+LTA000ETT17300045,2017-09-05,Reinstatement Works for North-South Corridor,Land Transport Authority,1811000,Awarded to Suppliers,AIK SUN DEMOLITION & ENGINEERING PTE LTD
+LTA000ETT17300046,2017-07-25,Work Injury Compensation / Employer's Liability Insurance for the Proposed Circle Line 6 Project,Land Transport Authority,600000,Awarded to Suppliers,LIBERTY INSURANCE PTE LTD
+LTA000ETT17300047,2017-12-04,Expansion of Yio Chu Kang Bus Interchange,Land Transport Authority,9500000,Awarded to Suppliers,CPC CONSTRUCTION PTE. LTD.
+LTA000ETT17300049,2017-11-10,Communications System for Circle Line Stage 6,Land Transport Authority,97803000,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+LTA000ETT17300051,2017-08-24,LTA Blanket Insurance Scheme,Land Transport Authority,1267500,Awarded by Items,INDIA INTERNATIONAL INSURANCE PTE LTD
+LTA000ETT17300051,2017-08-24,LTA Blanket Insurance Scheme,Land Transport Authority,1596000,Awarded by Items,MS FIRST CAPITAL INSURANCE LIMITED
+LTA000ETT17300052,2017-11-24,Design and Construction of North-South Corridor (Tunnel) between Novena Rise and Toa Payoh Rise,Land Transport Authority,809358000,Awarded to Suppliers,SAMSUNG C&T CORPORATION
+LTA000ETT17300053,2017-11-29,Slope Stabilization Works at Choa Chu Kang Ave 1,Land Transport Authority,1608800,Awarded to Suppliers,JEI FONG ENGINEERING PTE. LTD.
+LTA000ETT17300054,2017-07-26,Maintenance of the Parking Guidance System (PGS),Land Transport Authority,479748,Awarded to Suppliers,GLOBOTRON (S) PTE. LTD.
+LTA000ETT17300055,2017-06-22,Production and Installation of Publicity Materials on Buses,Land Transport Authority,444800,Awarded to Suppliers,BUSADS PTE LTD
+LTA000ETT17300056,2017-05-29,Video Surveillance System and Associated Works For Bus Interchanges,Land Transport Authority,668550,Awarded to Suppliers,CA M&E ENGINEERING PTE. LTD.
+LTA000ETT17300058,2017-10-12,Procurement of Learning Programmes for Electrical and Mechanical (E&M) Engineers,Land Transport Authority,1,Awarded by Items,EEM Advancement Centre Pte Ltd
+LTA000ETT17300058,2017-10-12,Procurement of Learning Programmes for Electrical and Mechanical (E&M) Engineers,Land Transport Authority,24000,Awarded by Items,EQUIVOLT PTE. LTD.
+LTA000ETT17300058,2017-10-12,Procurement of Learning Programmes for Electrical and Mechanical (E&M) Engineers,Land Transport Authority,1,Awarded by Items,KCG CORPORATION LIMITED
+LTA000ETT17300058,2017-10-12,Procurement of Learning Programmes for Electrical and Mechanical (E&M) Engineers,Land Transport Authority,1,Awarded by Items,Nanyang Technological University
+LTA000ETT17300060,2017-12-06,Supply and Installation of Water Handling Equipment (WHE) for Thomson East-Coast Line,Land Transport Authority,7749425.68,Awarded to Suppliers,YAMATO TECHNOLOGIES PTE. LTD.
+LTA000ETT17300061,2017-11-10,"Supply and Installation of Fire Protection Systems for Thomson-East Coast Line Stages 4 & 5, Downtown Line 3 Extension and East-West Line Upgrade",Land Transport Authority,23850000,Awarded to Suppliers,CHUBB SINGAPORE PRIVATE LIMITED
+LTA000ETT17300062,2017-05-18,Provision of Electricity for Premises and Road Facilities,Land Transport Authority,8.58,Awarded to Suppliers,PACIFICLIGHT ENERGY PTE. LTD.
+LTA000ETT17300063,2017-12-20,Demolition of Existing Warehouse Buildings and Ancillary Works,Land Transport Authority,239000,Awarded to Suppliers,HWA AIK ENGINEERING PTE. LTD.
+LTA000ETT17300065,2017-10-24,Engagement of Maintenance Assessors,Land Transport Authority,1603312,Awarded to Suppliers,DB ENGINEERING & CONSULTING GMBH SINGAPORE BRANCH
+LTA000ETT17300068,2017-10-03,Appointment of Qualified Person (Supervision) for Contract 882 and Contract 883,Land Transport Authority,23018500,Awarded to Suppliers,GEOALLIANCE CONSULTANTS PTE. LTD.
+LTA000ETT17300069,2017-09-18,Appointment of Qualified Person (Supervision) for Contract 821A,Land Transport Authority,15463899,Awarded to Suppliers,RCY PTE. LTD.
+LTA000ETT17300072,2017-11-02,Fence Intrusion Detection System at Mandai Depot,Land Transport Authority,816680,Awarded to Suppliers,ATT SYSTEMS (S'PORE) PTE LTD
+LTA000ETT17300073,2017-10-17,Regular Inspection of Minor Road Structures,Land Transport Authority,1598300,Awarded by Items,Novaars International Pte Ltd
+LTA000ETT17300073,2017-10-17,Regular Inspection of Minor Road Structures,Land Transport Authority,1888888,Awarded by Items,R.J. CROCKER CONSULTANTS PTE. LTD.
+LTA000ETT17300074,2017-07-10,City Direct Bus Services,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT17300075,2017-11-13,Widening of Tampines Avenue 7 between Tampines Expressway and Tampines Street 34,Land Transport Authority,4519000,Awarded to Suppliers,SING TEC DEVELOPMENT PTE. LTD.
+LTA000ETT17300077,2017-12-13,Engineering Consultancy Services for the Design of Cycling Routes,Land Transport Authority,2901742.8,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,ENERGY RESOURCING SINGAPORE PTE. LTD.
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,ITCAN PTE. LIMITED
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,PEOPLE ADVANTAGE PTE. LTD.
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,QUEST GLOBAL SERVICES PTE. LTD.
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,RMA CONTRACTS PTE. LTD.
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,TECHCOM SOLUTIONS PTE. LTD.
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,Total eBiz Solutions Pte Ltd
+LTA000ETT17300079,2017-09-18,Term Contracts for Provision of Technical Manpower Services,Land Transport Authority,1,Awarded by Items,ZENITH INFOTECH (S) PTE LTD.
+LTA000ETT17300080,2017-12-26,Upgrading of Woodlands Regional Bus Interchange,Land Transport Authority,21567800,Awarded to Suppliers,CCECC SINGAPORE PTE LTD
+LTA000ETT17300081,2017-08-25,Comprehensive Maintenance of the Bus Arrival Panels and Interfaces,Land Transport Authority,1187560,Awarded to Suppliers,GLOBOTRON (S) PTE. LTD.
+LTA000ETT17300083,2017-11-30,Engineering Services for Central Expressway (CTE) Tunnel,Land Transport Authority,2905830,Awarded to Suppliers,FONG CONSULT PTE. LTD.
+LTA000ETT17300085,2017-10-06,Procurement of Diesel Hybrid Buses (DHB),Land Transport Authority,28491400,Awarded to Suppliers,Volvo East Asia (Pte) Ltd
+LTA000ETT17300087,2017-08-31,Procurement of 2 Specialised Vans for Testing Purposes,Land Transport Authority,397118,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT17300089,2017-09-04,"Provision of Projection System, Workstation, Mechanical and Electrical Infrastructure",Land Transport Authority,2180688,Awarded to Suppliers,ST ELECTRONICS (INFO-COMM SYSTEMS) PTE. LTD.
+LTA000ETT17300090,2017-10-16,Implementation of Noise Barriers at Rail Viaduct Phase 2 (Package A),Land Transport Authority,27800000,Awarded to Suppliers,PBT ENGINEERING PTE LTD
+LTA000ETT17300091,2017-10-16,Implementation of Noise Barriers at Rail Viaduct Phase 2 (Package B),Land Transport Authority,28700000,Awarded to Suppliers,PBT ENGINEERING PTE LTD
+LTA000ETT17300093,2017-11-24,"Supply, Installation and Monitoring of Instruments for Contract 882 and Contract 883",Land Transport Authority,8054089.65,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT17300094,2017-09-14,Addition and Alteration Works for Bukit Panjang Light Rail Transit Power Supply,Land Transport Authority,218000,Awarded to Suppliers,LITEWELL ENGINEERING PTE LTD
+LTA000ETT17300096,2017-07-28,Provision of LTA Parking Warden Services,Land Transport Authority,6552000,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+LTA000ETT17300097,2017-11-01,Implementation of SMS Gateway Service,Land Transport Authority,723630,Awarded to Suppliers,MAVEN LAB PRIVATE LIMITED
+LTA000ETT17300098,2017-11-08,Appointment of Qualified Person (Supervision) for Contract 885 and Contract 886,Land Transport Authority,19961900,Awarded to Suppliers,RONNIE & KOH CONSULTANTS PTE. LTD.
+LTA000ETT17300099,2017-12-08,Construction of cut and cover and bored tunnels for NEL extension,Land Transport Authority,79000000,Awarded to Suppliers,CHINA STATE CONSTRUCTION ENGINEERING CORPORATION LIMITED (SINGAPORE BRANCH)
+LTA000ETT17300100,2017-12-22,Design and Construction of Bus Interchange and its Associated Works at Jurong Gateway Road,Land Transport Authority,20890250,Awarded to Suppliers,Kim Seng Heng Engineering Construction (Pte) Ltd
+LTA000ETT17300101,2017-10-31,Building Information Modelling And Conversion of 2D Infrastructure Plans to BIM Format,Land Transport Authority,515574.37,Awarded to Suppliers,ACEPLP.COM PTE LTD
+LTA000ETT17300102,2017-11-01,Automatic Vehicle Inspection (AVI) System,Land Transport Authority,3732300,Awarded to Suppliers,"TANGSHAN BAICHUAN INTELLIGENT MACHINE CO.,LTD"
+LTA000ETT17300103,2017-11-24,"Supply, Installation and Monitoring of Instruments for Contract 885 and Contract 886",Land Transport Authority,6507095.25,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+LTA000ETT17300104,2017-10-24,Comprehensive Maintenance of Traffic Collection System,Land Transport Authority,1388900,Awarded to Suppliers,AVON TECHNOLOGIES PTE LTD
+LTA000ETT17300105,2017-10-16,"Supply, Installation and Monitoring of Instruments for Contract 821A",Land Transport Authority,4480780,Awarded to Suppliers,Cast Laboratories Pte Ltd
+LTA000ETT17300106,2017-08-30,City Direct Bus Services,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT17300107,2017-11-09,Provision of Traction Batteries for Locomotives for Downtown Line,Land Transport Authority,1734972,Awarded to Suppliers,"CRRC ZHUZHOU LOCOMOTIVE CO., LTD."
+LTA000ETT17300108,2017-11-13,Term Contract for Event Management Services,Land Transport Authority,1,Awarded by Items,AUX MEDIA GROUP PTE. LTD.
+LTA000ETT17300108,2017-11-13,Term Contract for Event Management Services,Land Transport Authority,1,Awarded by Items,COMMUNIQUE LIVE ASIA PTE. LTD.
+LTA000ETT17300108,2017-11-13,Term Contract for Event Management Services,Land Transport Authority,1,Awarded by Items,MACRO EVENTS PTE LTD
+LTA000ETT17300108,2017-11-13,Term Contract for Event Management Services,Land Transport Authority,1,Awarded by Items,SENSES MARKETING COMMUNICATIONS & DESIGN PTE LTD
+LTA000ETT17300108,2017-11-13,Term Contract for Event Management Services,Land Transport Authority,1,Awarded by Items,THE EVENTS CLUB SG PTE. LTD.
+LTA000ETT17300109,2017-11-20,Senja / Kranji Expressway (KJE) Interchange,Land Transport Authority,113000000,Awarded to Suppliers,QUEK & QUEK CIVIL ENGINEERING PTE LTD
+LTA000ETT17300112,2017-10-02,PCI-DSS Certification and Compliance,Land Transport Authority,307000,Awarded to Suppliers,VECTRA INFORMATION SECURITY PTE LTD
+LTA000ETT17300116,2017-11-20,Financial Framework and Assessment,Land Transport Authority,1200000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+LTA000ETT17300119,2017-08-30,Procurement of Hardware and Software Maintenance Services for ICT Systems,Land Transport Authority,2734983,Awarded to Suppliers,JARDINE ONESOLUTION (2001) PTE LTD
+LTA000ETT17300123,2017-11-16,"Accredited Checker Services for Contracts 8127, 1363A & 1363B",Land Transport Authority,32560,Awarded to Suppliers,CKM CONSULTANTS PTE LTD
+LTA000ETT17300124,2017-11-07,Appointment of Accredited Checker for the Advance Works,Land Transport Authority,0,Awarded to No Suppliers,na
+LTA000ETT17300125,2017-12-15,Advance Effluent Outfall Pipe and Water Pipe Diversions,Land Transport Authority,54750000,Awarded to Suppliers,KTC CIVIL ENGINEERING & CONSTRUCTION PTE LTD
+LTA000ETT17300126,2017-11-15,Appointment of Accredited Checker Services for Contract ER507,Land Transport Authority,117152.5,Awarded to Suppliers,ECAS CONSULTANTS PTE. LTD.
+LTA000ETT17300132,2017-10-27,Provision of Organisational Advisory Services,Land Transport Authority,5000000,Awarded to Suppliers,THE BOSTON CONSULTING GROUP PTE. LTD.
+LTA000ETT17300133,2017-12-26,Proposed Lift Shafts to Existing Pedestrian Overhead Bridges & Associated Commuter Infrastructure,Land Transport Authority,23220000,Awarded to Suppliers,PAL-LINK CONSTRUCTION PTE. LTD.
+LTA000ETT17300134,2017-12-26,Proposed Lift Shafts to Existing Pedestrian Overhead Bridges & Associated Commuter Infrastructure,Land Transport Authority,15614695,Awarded to Suppliers,HONG SHIN BUILDERS PTE LTD
+LTA000ETT17300136,2017-11-03,Work Injury Compensation/Employer's Liability Insurances for the Proposed North-South Corridor Project,Land Transport Authority,612810,Awarded to Suppliers,LIBERTY INTERNATIONAL UNDERWRITERS PTE. LTD.
+LTA000ETT17300138,2017-12-14,"Demolition, Pile Extraction and Advance Earthworks",Land Transport Authority,9445540,Awarded to Suppliers,CHYE JOO CONSTRUCTION PTE LTD
+LTA000ETT17300142,2017-12-13,Provision of Parking Warden Services,Land Transport Authority,82860347.4,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+LTA000ETT17300143,2017-12-13,Training Provider(s) for Safe Riding Programme,Land Transport Authority,1,Awarded by Items,ASIAN DETOURS PTE. LTD.
+LTA000ETT17300143,2017-12-13,Training Provider(s) for Safe Riding Programme,Land Transport Authority,1,Awarded by Items,UNIQUE SPEED PTE. LTD.
+LTA000ETT17300145,2017-12-15,Appointment of Qualified Person (Supervision) for Contract 715,Land Transport Authority,5296034,Awarded to Suppliers,RCY PTE. LTD.
+LTA000ETT17300146,2017-12-15,"Supply, Installation and Monitoring of Instruments for Contract 715",Land Transport Authority,2370670,Awarded to Suppliers,GROUND INSTRUMENTATION & ENGINEERING PTE. LTD.
+LTA000ETT17300147,2017-10-17,High Voltage Cable Diversion Works at MRT Viaduct,Land Transport Authority,158669,Awarded to Suppliers,SARATHI ELECTRONICS PTE. LTD.
+LTA000ETT17300148,2017-12-22,Enhancement of Cyber Security Monitoring System,Land Transport Authority,3186826.21,Awarded to Suppliers,ST ELECTRONICS (INFO-SECURITY) PTE. LTD.
+LTA000ETT17300149,2017-12-20,"Qualified Person (Supervision) for Contracts 8127, 1363A & 1363B",Land Transport Authority,3139800,Awarded to Suppliers,RONNIE & KOH CONSULTANTS PTE. LTD.
+LTA000ETT17300154,2017-10-13,Contract to Engage Events Organiser and Customisation of Gifts,Land Transport Authority,162704,Awarded to Suppliers,EUREKA! CAMPAIGN ASSOCIATES PTE. LTD.
+LTA000ETT17300155,2017-12-18,A&A Works to Enhance Ventilation in Rail Depots,Land Transport Authority,1694840,Awarded to Suppliers,Bintai Kindenko Pte Ltd
+LTA000ETT17300159,2017-12-15,"Design, Supply and Installation of Fixed Water-Based Fire-Fighting System",Land Transport Authority,103670516.42,Awarded to Suppliers,GUTHRIE ENGINEERING (S) PTE LTD
+LTA000ETT17300160,2017-12-18,Security Services for Thomson-East Coast Line (Package 1),Land Transport Authority,2612296.78,Awarded to Suppliers,AETOS GUARD SERVICES PTE. LTD.
+LTA000ETT17300182,2017-12-15,Procurement of Software License Maintenance,Land Transport Authority,2288019.26,Awarded by Items,ESRI SINGAPORE PTE. LTD.
+LTA000ETT17300182,2017-12-15,Procurement of Software License Maintenance,Land Transport Authority,4730520,Awarded by Items,NCS PTE. LTD.
+LTA000ETT17300182,2017-12-15,Procurement of Software License Maintenance,Land Transport Authority,1426471,Awarded by Items,TECH MAHINDRA LIMITED (SINGAPORE BRANCH)
+LTA000ETT17300194,2017-12-29,Rental and Servicing of Mobile Toilets at Bus Terminals,Land Transport Authority,118950,Awarded to Suppliers,V8 ENVIRONMENTAL PTE LTD

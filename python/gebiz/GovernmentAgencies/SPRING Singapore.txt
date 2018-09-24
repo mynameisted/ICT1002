@@ -1,0 +1,120 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+SPR000ETT14000030,2015-01-30,"For Office Space Planning & Design, with Option to Build",SPRING Singapore,1586097,Awarded to Suppliers,SCA DESIGN PTE. LTD.
+SPR000ETT14000034,2015-07-13,Audit of SPRING's Innovation and Capability Voucher Scheme (ICV),SPRING Singapore,1152000,Awarded to Suppliers,Geetha A & Associates
+SPR000ETT14000034,2015-07-13,Audit of SPRING's Innovation and Capability Voucher Scheme (ICV),SPRING Singapore,1152000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+SPR000ETT14000035,2015-02-09,Impact Study on the Local Enterprise and Association Development (LEAD) Programme,SPRING Singapore,710000,Awarded to Suppliers,IPSOS PTE. LTD.
+SPR000ETT14000039,2015-01-27,For Development of a Curriculum on a Self-Learning Platform for SPRINGs Business Capabilities Internal Coaching,SPRING Singapore,301250,Awarded to Suppliers,AMDON CONSULTING PTE LTD
+SPR000ETT14000040,2015-01-20,"Provision of venue, food & beverages and related logistics & support for the following events: A) BE Winners Sharing Conference 2015 B) 7th BE Global Conference 2015",SPRING Singapore,45100,Awarded to Suppliers,RESORTS WORLD AT SENTOSA PTE. LTD.
+SPR000ETT14000041,2015-05-07,For the Appointment of Video Production Company for SPRING Singapore,SPRING Singapore,60000,Awarded to Suppliers,DIFILM PIXEL WORKS
+SPR000ETT14000042,2015-03-23,Provision of services for a pilot group of Singapore retailers in efficient manpower deployment at the retail shop front,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT14000043,2015-03-26,For Impact Study of the SME Centres,SPRING Singapore,150000,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+SPR000ETT14000044,2015-06-15,Appointment of Panel of Creative Agencies for SPRING Singapore,SPRING Singapore,500000,Awarded to Suppliers,CUBIC COMMUNICATIONS PTE LTD
+SPR000ETT14000044,2015-06-15,Appointment of Panel of Creative Agencies for SPRING Singapore,SPRING Singapore,500000,Awarded to Suppliers,Gosh Advertising Pte Ltd
+SPR000ETT14000044,2015-06-15,Appointment of Panel of Creative Agencies for SPRING Singapore,SPRING Singapore,500000,Awarded to Suppliers,URBAN FOREST DESIGN PTE LTD
+SPR000ETT15000001,2015-06-22,Provision of Investigation related services for the Internal Audit Division (IAD) of SPRING Singapore,SPRING Singapore,3990160,Awarded to Suppliers,KORDAMENTHA PTE. LTD.
+SPR000ETT15000002,2015-04-23,Appointment of Venue Provider for Business Excellence Awards Dinner and Presentation Ceremony 2015,SPRING Singapore,99102,Awarded to Suppliers,RC HOTELS (PTE) LTD
+SPR000ETT15000003,2015-06-23,"Safety Testing of Children's products for SPRING Singapore, under Consumer Goods Safety Regulations",SPRING Singapore,247400,Awarded to Suppliers,SGS TESTING & CONTROL SERVICES SINGAPORE PTE LTD
+SPR000ETT15000003,2015-06-23,"Safety Testing of Children's products for SPRING Singapore, under Consumer Goods Safety Regulations",SPRING Singapore,115720,Awarded to Suppliers,TUV SUD PSB PTE. LTD.
+SPR000ETT15000005,2015-04-29,APPOINTMENT OF VENDOR FOR THE MANPOWER STUDY OF THE LOGISTICS INDUSTRY SECTOR,SPRING Singapore,395000,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+SPR000ETT15000007,2015-04-14,Appointment of Insurance Broker for SPRING Singapore,SPRING Singapore,200000,Awarded to Suppliers,Jardine Lloyd Thompson Private Limited
+SPR000ETT15000008,2015-04-14,"Provision Of Consultancy Services For Law Firms Lead Generation Mission To Yangon, Myanmar",SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT15000009,2015-04-23,Customized Report on Internet Retailing in Singapore and Other Countries,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT15000010,2015-07-13,Purchase of Data Analytics Software and Corresponding Training Services for SPRING Singapore,SPRING Singapore,43119,Awarded to Suppliers,ACL SERVICES (SINGAPORE) PTE. LTD.
+SPR000ETT15000011,2015-04-29,To Conduct Safety Testing of Children's Jewellery,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT15000012,2015-06-22,WayToGo.SG Portal Revamp,SPRING Singapore,622669,Awarded to Suppliers,Web Professional House Pte Ltd
+SPR000ETT15000013,2015-06-15,Accommodation and Meeting Venue for Asian Productivity Organisation Workshop Meeting 2015 (APO WSM 2015) for Heads of National Productivity Organisations (NPOs),SPRING Singapore,168135,Awarded to Suppliers,CONRAD CENTENNIAL SINGAPORE
+SPR000ETT15000014,2015-06-05,"Provision of Venue, Food & Beverages & Related Logistics Support for 7th BE Global Conference",SPRING Singapore,133100,Awarded to Suppliers,RESORTS WORLD AT SENTOSA PTE. LTD.
+SPR000ETT15000016,2015-07-14,Study of Productive Business Formats in the Food Services Sector,SPRING Singapore,790000,Awarded to Suppliers,"MCKINSEY & COMPANY SINGAPORE, PTE LTD"
+SPR000ETT15000017,2015-05-29,Feasibility Study on Optimising Contact Centre Services for Government Agencies,SPRING Singapore,68000,Awarded to Suppliers,ST ELECTRONICS (E-SERVICES) PTE. LTD.
+SPR000ETT15000018,2015-06-16,Productivity Benchmarking Project for the Singapore Food Manufacturing Sector,SPRING Singapore,895000,Awarded to Suppliers,"MCKINSEY & COMPANY SINGAPORE, PTE LTD"
+SPR000ETT15000021,2015-06-08,Digital and Social Media Consultancy Services for SPRING Singapore,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT15000022,2015-05-25,Provision of Venue for Training Courses by Singapore Accreditation Council (SAC) and Room Accommodations for Trainers,SPRING Singapore,60687,Awarded to Suppliers,VILLAGE HOTEL BUGIS
+SPR000ETT15000024,2015-05-25,Provision of Training Services for Singapore Accreditation Course (SAC),SPRING Singapore,69361,Awarded to Suppliers,IANZ NEW ZEALAND QUALITY COLLEGE
+SPR000ETT15000024,2015-05-25,Provision of Training Services for Singapore Accreditation Course (SAC),SPRING Singapore,10170.16,Awarded to Suppliers,SWEDAC
+SPR000ETT15000025,2015-06-16,"Exhibition Design, Fabrication, And Installation For Singapore50 Exhibition On Our Economic Story",SPRING Singapore,377230,Awarded to Suppliers,Pico Art International Pte Ltd
+SPR000ETT15000026,2015-10-19,Impact Study of the Centres of Innovation Programme,SPRING Singapore,274250,Awarded to Suppliers,EDEN STRATEGY INSTITUTE LLP
+SPR000ETT15000027,2015-08-24,Public Relations (PR) Services for SPRING Singapore - Industry Development Group (Food Manufacturing),SPRING Singapore,346720,Awarded to Suppliers,OGILVY & MATHER (SINGAPORE) PRIVATE LIMITED
+SPR000ETT15000028,2015-07-22,Scholars' Camp and New Staff Team Bonding Programme,SPRING Singapore,15000,Awarded to Suppliers,EXPLORA PTE. LTD.
+SPR000ETT15000028,2015-07-22,Scholars' Camp and New Staff Team Bonding Programme,SPRING Singapore,12000,Awarded to Suppliers,FOCUS ADVENTURE PTE. LTD.
+SPR000ETT15000029,2015-08-19,Public Relations (PR) Services for SPRING Singapore - Industry Development Group (Food Services),SPRING Singapore,35000,Awarded to Suppliers,NINEMER PUBLIC RELATIONS PTE. LTD.
+SPR000ETT15000030,2015-07-31,Provision of M&E and Environmental Services Management,SPRING Singapore,168771,Awarded to Suppliers,C&W SERVICES (S) PTE. LTD.
+SPR000ETT15000031,2015-08-03,Safety Testing of Children's Jewellery,SPRING Singapore,69500,Awarded to Suppliers,SGS TESTING & CONTROL SERVICES SINGAPORE PTE LTD
+SPR000ETT15000032,2015-10-20,(1+1)-Year Period Contract / Framework Agreement for Venue Services,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT15000033,2015-10-27,Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,82200,Awarded to Suppliers,ALIGN SMA PTE. LTD.
+SPR000ETT15000033,2015-10-27,Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,82200,Awarded to Suppliers,MADSTON BLACK SINGAPORE PTE. LTD.
+SPR000ETT15000034,2015-10-02,Digital and Social Media Consultancy Services for SPRING Singapore,SPRING Singapore,425824,Awarded to Suppliers,COMWERKS PTE. LTD.
+SPR000ETT15000035,2015-07-28,Event Organiser for SG50 Exhibition Launch,SPRING Singapore,259400,Awarded to Suppliers,Spark Planners Pte Ltd
+SPR000ETT15000036,2015-10-27,Appointment of Media Planning and Buying Agency for SPRING Singapore,SPRING Singapore,6000000,Awarded to Suppliers,PHD SINGAPORE PTE. LTD.
+SPR000ETT15000037,2015-12-22,1+3 Year Period Contract/ Framework Agreement for Event Management Services,SPRING Singapore,533333,Awarded to Suppliers,EUREKA! CAMPAIGN ASSOCIATES PTE. LTD.
+SPR000ETT15000037,2015-12-22,1+3 Year Period Contract/ Framework Agreement for Event Management Services,SPRING Singapore,533333,Awarded to Suppliers,ODYSSEY CONCEPTS PTE. LTD.
+SPR000ETT15000037,2015-12-22,1+3 Year Period Contract/ Framework Agreement for Event Management Services,SPRING Singapore,533333,Awarded to Suppliers,Spark Planners Pte Ltd
+SPR000ETT15000038,2015-09-16,Provision of Event Management Services for Business Excellence Awards Dinner 2015,SPRING Singapore,95895,Awarded to Suppliers,FREEMAN PTE. LTD.
+SPR000ETT15000039,2016-01-15,Application Development and Maintenance Services for Innovation & Capability Voucher (ICV) System for SPRING Singapore,SPRING Singapore,740786.11,Awarded to Suppliers,TECH MAHINDRA LIMITED (SINGAPORE BRANCH)
+SPR000ETT15000040,2015-10-13,Consultancy Services in Human Resource Capability for SME Centres and Satellite Centres,SPRING Singapore,95000,Awarded to Suppliers,ERNST & YOUNG SOLUTIONS LLP
+SPR000ETT15000041,2015-11-25,To Conduct Survey and In-Depth Interviews Related to Awareness of Standards & Conformance (S&C) and its Value Proposition,SPRING Singapore,125000,Awarded to Suppliers,FUTURE-MOVES GROUP PTE. LTD.
+SPR000ETT15000042,2015-10-14,Study on Challenges with B2B and B2G Trade Processes and the Solutions to Address these Challenges,SPRING Singapore,338000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS CONSULTING (SINGAPORE) PTE. LTD.
+SPR000ETT15000043,2015-10-12,Safety Testing of Bicycles for SPRING Singapore under Consumer Goods Safety Regulation,SPRING Singapore,72944,Awarded to Suppliers,TUV SUD PSB PTE. LTD.
+SPR000ETT15000044,2015-11-05,Performance Coaching for Heads Retreat 2015,SPRING Singapore,57000,Awarded to Suppliers,SEQUOIA GROUP PTE. LTD.
+SPR000ETT15000045,2015-11-20,SPRING Executive Development Scholarship Portal & Publicity Package,SPRING Singapore,49400,Awarded to Suppliers,CAREERBUILDER (SINGAPORE) PTE. LTD.
+SPR000ETT15000046,2015-11-25,Developing of SingPass CorpPass Service Provider Gateway for SPRING Singapore,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT15000047,2015-11-26,Safety Testing of Furniture for SPRING Singapore under the Consumer Goods Safety Regulations,SPRING Singapore,143000,Awarded to Suppliers,SGS TESTING & CONTROL SERVICES SINGAPORE PTE LTD
+SPR000ETT15000048,2016-01-05,Provision of Enforcement Services for the Conduct of Periodic Spot Checks,SPRING Singapore,605370,Awarded to Suppliers,CERTIS CISCO PROTECTION SERVICES PTE. LTD.
+SPR000ETT15000049,2016-05-31,Appointment of Market Research Agency for SPRING Singapore,SPRING Singapore,100000,Awarded to Suppliers,ANTZWORKZ CONSULTANTS PTE. LTD.
+SPR000ETT15000049,2016-05-31,Appointment of Market Research Agency for SPRING Singapore,SPRING Singapore,100000,Awarded to Suppliers,BEACON CONSULTING PTE LTD
+SPR000ETT15000049,2016-05-31,Appointment of Market Research Agency for SPRING Singapore,SPRING Singapore,200000,Awarded to Suppliers,BLACKBOX RESEARCH PTE LTD
+SPR000ETT15000050,2016-01-14,"Provision of Venue, Food & Beverages and Logistics Support for ACCSQ Meeting",SPRING Singapore,41668,Awarded to Suppliers,FURAMA RIVERFRONT SINGAPORE
+SPR000ETT15000051,2016-04-04,Provision of Integrated Facilities Management (IFM) Services to SPRING Singapore at Solaris and Innovis,SPRING Singapore,1292590,Awarded to Suppliers,CBM PTE. LTD.
+SPR000ETT15000052,2016-02-16,"Provision of Venue, Food & Beverages & Related Logistics Support for Business Excellence (BE) Winners Sharing, 8th Business Excellence Global Conference, Business Excellence (BE) Awards Dinner 2016",SPRING Singapore,86405,Awarded to Suppliers,RESORTS WORLD AT SENTOSA PTE. LTD.
+SPR000ETT15000053,2016-02-23,"Provision of Event Organiser for 2016 Business Excellence (BE) Awards Winners Sharing Conference, 8th Business Excellence (BE) Global Conference and Business Excellence (BE) Awards Dinner 2016",SPRING Singapore,136830,Awarded to Suppliers,Spark Planners Pte Ltd
+SPR000ETT15000054,2016-06-22,"For the Supply, Delivery, Installation and Commissioning of an Integrated Access Control Security System",SPRING Singapore,80050,Awarded to Suppliers,CERTIS TECHNOLOGY (SINGAPORE) PTE. LTD.
+SPR000ETT15000056,2016-04-08,Supply of SingPass CorpPass Service Provider subscription to SPRING Singapore,SPRING Singapore,352591,Awarded to Suppliers,NCS PTE. LTD.
+SPR000ETT15000057,2016-05-25,Appointment of Vendor for SPRING Singapore's Monthly Corporate Publication,SPRING Singapore,201800,Awarded to Suppliers,NEWBASE CONTENT PTE. LTD.
+SPR000ETT16000001,2016-03-29,Appointment of a Panel of Pre-qualified Auditors to verify claims of SPRING Singapore's Grant Schemes,SPRING Singapore,6600,Awarded to Suppliers,ECOVIS ASSURANCE LLP
+SPR000ETT16000001,2016-03-29,Appointment of a Panel of Pre-qualified Auditors to verify claims of SPRING Singapore's Grant Schemes,SPRING Singapore,6600,Awarded to Suppliers,FOO KON TAN LLP
+SPR000ETT16000001,2016-03-29,Appointment of a Panel of Pre-qualified Auditors to verify claims of SPRING Singapore's Grant Schemes,SPRING Singapore,6600,Awarded to Suppliers,Geetha A & Associates
+SPR000ETT16000001,2016-03-29,Appointment of a Panel of Pre-qualified Auditors to verify claims of SPRING Singapore's Grant Schemes,SPRING Singapore,6600,Awarded to Suppliers,MOORE STEPHENS LLP
+SPR000ETT16000002,2016-05-18,Provision of Audit Management Software,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT16000003,2016-05-10,Public Relations (PR) services for SPRING Singapore - Quality and Excellence group (Standards and Accreditation),SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT16000004,2016-04-25,Provision of Call Centre Services,SPRING Singapore,1414152,Awarded to Suppliers,TELEMARKETING ASIA (SINGAPORE) PTE LTD
+SPR000ETT16000005,2016-05-03,Assessment on Financial Management & Financing Needs of SMEs and Effectiveness of SPRINGs Financing Schemes,SPRING Singapore,193800,Awarded to Suppliers,DUN & BRADSTREET (SINGAPORE) PTE. LTD.
+SPR000ETT16000006,2016-03-28,Appointment of a Panel of Legal Advisors on a Retainer Basis to Provide Legal and Corporate Secretary Services,SPRING Singapore,215000,Awarded to Suppliers,INFINITUS LAW CORPORATION
+SPR000ETT16000006,2016-03-28,Appointment of a Panel of Legal Advisors on a Retainer Basis to Provide Legal and Corporate Secretary Services,SPRING Singapore,225160,Awarded to Suppliers,LEE & LEE
+SPR000ETT16000007,2016-05-30,"Appointment of vendor(s) to (part 1) design and create education workshops and its related resources on Standards & Conformance (S&C) and its value proposition; (Part 2) conceptualise, curate, copy write, develop content, design, fabricate and install exhibition on S&C",SPRING Singapore,231000,Awarded to Suppliers,HANDSONLEARNING STRATEGIES LLP
+SPR000ETT16000008,2016-12-16,Appointment of a Panel Professional Photographers for SPRING Singapore,SPRING Singapore,21500,Awarded to Suppliers,ONTHESTREETS PHOTOGRAPHY
+SPR000ETT16000008,2016-12-16,Appointment of a Panel Professional Photographers for SPRING Singapore,SPRING Singapore,21500,Awarded to Suppliers,SKYY CREATIVE CONSULTANT PTE. LTD.
+SPR000ETT16000009,2016-06-02,Provision of Training Services for Singapore Accreditation Council (SAC),SPRING Singapore,16457,Awarded to Suppliers,"PROFESSIONAL TESTING, INC."
+SPR000ETT16000010,2016-07-13,Period Contract for Safety Testing of Portable Power Banks,SPRING Singapore,143400,Awarded to Suppliers,TUV SUD PSB PTE. LTD.
+SPR000ETT16000011,2016-07-25,Appointment of Service Provider for Conducting Due Diligence of Proposals,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT16000012,2016-11-01,Provision of services to conduct a job redesign study and implementation for a pilot group of Singapore retailers.,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT16000013,2016-08-24,Review of Innovation & Capability Voucher (ICV),SPRING Singapore,232743,Awarded to Suppliers,EDEN STRATEGY INSTITUTE LLP
+SPR000ETT16000014,2016-11-03,Regulatory Review and Compliance Cost Study for the Singapore Food Manufacturing Sector,SPRING Singapore,294500,Awarded to Suppliers,IPSOS PTE. LTD.
+SPR000ETT16000015,2016-11-03,Provision of Application Maintenance and Support Services for SPRING's Systems on Microsoft SharePoint 2010 Platform,SPRING Singapore,316108,Awarded to Suppliers,NCS PTE. LTD.
+SPR000ETT16000016,2016-11-21,Provision of Receptionist Service for SPRING Singapore,SPRING Singapore,63360,Awarded to Suppliers,KELLY SERVICES (SINGAPORE) PTE. LTD.
+SPR000ETT16000017,2016-12-21,Study and Design of SPRING's Incentives Management System (SIMS),SPRING Singapore,405000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+SPR000ETT16000018,2017-05-12,Panel Of Team Building Providers For SPRING Singapore,SPRING Singapore,56250,Awarded to Suppliers,CENTRE FOR PERFORMANCE TRANSFORMATION (PTE.) LTD.
+SPR000ETT16000018,2017-05-12,Panel Of Team Building Providers For SPRING Singapore,SPRING Singapore,56250,Awarded to Suppliers,FOCUS ADVENTURE PTE. LTD.
+SPR000ETT16000018,2017-05-12,Panel Of Team Building Providers For SPRING Singapore,SPRING Singapore,56250,Awarded to Suppliers,RIGHT IMPACT TRAINING PTE. LTD.
+SPR000ETT16000018,2017-05-12,Panel Of Team Building Providers For SPRING Singapore,SPRING Singapore,56250,Awarded to Suppliers,TLG HOLDINGS PTE. LTD.
+SPR000ETT16000019,2017-02-15,Provision of Services to Produce Bi-annual Reports for Initiative Monitoring and Ready Meals Tracking,SPRING Singapore,186380,Awarded to Suppliers,THE NIELSEN COMPANY (SINGAPORE) PTE. LTD.
+SPR000ETT16000022,2017-01-16,Provision of Offsite Storage and Retrieval Services for SPRING Singapore,SPRING Singapore,113865,Awarded to Suppliers,Crown Worldwide Pte Ltd
+SPR000ETT16000023,2017-03-07,Project Implementation and Realisation Studies of Projects Completed under the LEAD Programme,SPRING Singapore,100000,Awarded to Suppliers,DELOITTE & TOUCHE ENTERPRISE RISK SERVICES PTE LTD
+SPR000ETT16000023,2017-03-07,Project Implementation and Realisation Studies of Projects Completed under the LEAD Programme,SPRING Singapore,100000,Awarded to Suppliers,FUTURE-MOVES GROUP PTE. LTD.
+SPR000ETT16000024,2017-03-30,Appointment of a Media Monitoring and Analysis Service Provider for SPRING Singapore,SPRING Singapore,114000,Awarded to Suppliers,ISENTIA BRANDTOLOGY PTE. LTD.
+SPR000ETT16000026,2017-03-02,Provision of Services to Conduct Job Redesign Implementation for a Pilot Group of Singapore Retailers,SPRING Singapore,850000,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+SPR000ETT16000027,2017-06-01,Appointment of a Social Media Agency for SPRING Singapore,SPRING Singapore,378800,Awarded to Suppliers,POSSIBLE WORLDWIDE PTE. LTD.
+SPR000ETT17000001,2017-05-25,International Benchmarking Study of the Singapore Retail Sector,SPRING Singapore,500000,Awarded to Suppliers,THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+SPR000ETT17000002,2017-04-06,Period Contract for the Design and Production of Business Excellence Plaques and Award Trophies,SPRING Singapore,0,Awarded to No Suppliers,na
+SPR000ETT17000003,2017-06-09,Provision of Services to Manage Public Relations and Events Targeted at Consumers Productive Business Formats Consumer Campaign,SPRING Singapore,688395,Awarded to Suppliers,EDELMAN PUBLIC RELATIONS WORLDWIDE PTE LTD
+SPR000ETT17000004,2017-08-15,Provision of Application Systems and IT Infrastructure Maintenance and Support Services for SPRING Singapore,SPRING Singapore,13348972.5,Awarded to Suppliers,NCS PTE. LTD.
+SPR000ETT17000005,2017-05-09,Provision of [1]360-degree Leadership Feedback Tool and/or [2]Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,37500,Awarded to Suppliers,AADVANTAGE CONSULTING GROUP PTE. LTD.
+SPR000ETT17000005,2017-05-09,Provision of [1]360-degree Leadership Feedback Tool and/or [2]Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,37500,Awarded to Suppliers,ALIGN SMA PTE. LTD.
+SPR000ETT17000005,2017-05-09,Provision of [1]360-degree Leadership Feedback Tool and/or [2]Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,52800,Awarded to Suppliers,MANAGEMENT CENTRE OF ASIA PTE. LTD.
+SPR000ETT17000005,2017-05-09,Provision of [1]360-degree Leadership Feedback Tool and/or [2]Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,37500,Awarded to Suppliers,Pacific Century Consulting Pte Ltd
+SPR000ETT17000005,2017-05-09,Provision of [1]360-degree Leadership Feedback Tool and/or [2]Panel of Executive Coaches for SPRING Singapore,SPRING Singapore,37500,Awarded to Suppliers,THE GALLUP ORGANIZATION (SINGAPORE) PTE LTD
+SPR000ETT17000006,2017-05-29,Provision of IT Advisory Services,SPRING Singapore,61000,Awarded to Suppliers,GARTNER ADVISORY (SINGAPORE) PTE LTD
+SPR000ETT17000007,2017-08-28,International Productivity Benchmarking Study for the Singapore Food Services Industry,SPRING Singapore,636800,Awarded to Suppliers,THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+SPR000ETT17000008,2017-05-26,Provision of Service to Conduct Customer Satisfaction Survey 2017,SPRING Singapore,19700,Awarded to Suppliers,FORBES RESEARCH PTE LTD
+SPR000ETT17000009,2017-06-21,Appointment of Tax Advisor to Provide Tax Advisory Services and Tax Training,SPRING Singapore,17000,Awarded to Suppliers,PRICEWATERHOUSECOOPERS SINGAPORE PTE. LTD.
+SPR000ETT17000010,2017-07-07,Provision of Training Services for The Singapore Accreditation Council (SAC),SPRING Singapore,73980,Awarded to Suppliers,IANZ NEW ZEALAND QUALITY COLLEGE
+SPR000ETT17000010,2017-07-07,Provision of Training Services for The Singapore Accreditation Council (SAC),SPRING Singapore,25200,Awarded to Suppliers,"PROFESSIONAL TESTING, INC."
+SPR000ETT17000012,2017-09-27,Addition & Alteration Works for Staff Lounge at SPRING Singapore,SPRING Singapore,0,Awarded to No Suppliers,na

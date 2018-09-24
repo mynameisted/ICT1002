@@ -1,0 +1,32 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+SSG000ETT16000001,2016-11-14,Provision of Advisory Services,SkillsFuture Singapore,10000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+SSG000ETT16000002,2016-12-15,Provision of consultancy services for conduct of wage study and development of the Skills Framework for Biopharmaceuticals Manufacturing,SkillsFuture Singapore,547550,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+SSG000ETT16000003,2017-01-26,Provision of Survey Management Services for the Skills and Learning Study,SkillsFuture Singapore,1180800,Awarded to Suppliers,ASCENTIQ PTE. LTD.
+SSG000ETT16000004,2017-02-27,Provision of Audit Services for Financial Statements,SkillsFuture Singapore,247600,Awarded to Suppliers,DELOITTE & TOUCHE LLP
+SSG000ETT16000005,2017-02-26,Proposed Renovation of IAL Office and Training Rooms at Lifelong Learning Institute,SkillsFuture Singapore,1320539.05,Awarded to Suppliers,D' PERCEPTION SINGAPORE PTE. LTD.
+SSG000ETT16000006,2017-03-02,Provision of Survey Management Services,SkillsFuture Singapore,270000,Awarded to Suppliers,NEXUS LINK PTE. LTD.
+SSG000ETT16000007,2017-03-01,Provision of consultancy services for conduct of wage study for Air Transport sector and development of the Skills Framework for Air Transport,SkillsFuture Singapore,303900,Awarded to Suppliers,WILLIS TOWERS WATSON CONSULTING (SINGAPORE) PTE. LTD.
+SSG000ETT17000001,2017-03-15,Provision of Corporate Rebranding Services for the Institute for Adult Learning,SkillsFuture Singapore,209000,Awarded to Suppliers,ACTIVISTE PTE. LTD.
+SSG000ETT17000004,2017-03-10,"MAINTENANCE FOR SAN STORAGE, SAN SWITCHES AND SERVERS FOR SKILLSFUTURE SINGAPORE AGENCY",SkillsFuture Singapore,164746.27,Awarded to Suppliers,NCS PTE. LTD.
+SSG000ETT17000005,2017-05-14,Provision of Consultancy Services for the Development of the Skills Framework for the Public Transport sector,SkillsFuture Singapore,403300,Awarded to Suppliers,ERNST & YOUNG SOLUTIONS LLP
+SSG000ETT17000006,2017-05-17,PROVISION OF CONSULTANCY SERVICES FOR THE DEVELOPMENT OF THE SKILLS FRAMEWORK FOR HEALTHCARE,SkillsFuture Singapore,453300,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+SSG000ETT17000007,2017-06-06,Provision of Consultancy Services for the Development of Skills Framework for Tourism,SkillsFuture Singapore,828300,Awarded to Suppliers,ERNST & YOUNG SOLUTIONS LLP
+SSG000ETT17000008,2017-06-22,Provision of Consultancy Services for the Development of the Skills Framework for Social Service,SkillsFuture Singapore,299150,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+SSG000ETT17000009,2017-05-25,Reinstatement Works at IAL Kay Siang Campus,SkillsFuture Singapore,103626.92,Awarded to Suppliers,I-LOGIC CONCEPTS PTE. LTD.
+SSG000ETT17000010,2017-05-29,"Provision of Industrial All Risk, Public Liability, Work Injury Compensation and Directors and Officers Insurance Coverage",SkillsFuture Singapore,92522.76,Awarded to Suppliers,HOWDEN INSURANCE BROKERS (S.) PTE. LIMITED
+SSG000ETT17000011,2017-08-11,CONSULTANCY SERVICES FOR THE DEVELOPMENT OF THE SKILLS FRAMEWORK FOR ENERGY AND POWER,SkillsFuture Singapore,407750,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+SSG000ETT17000012,2017-07-14,Provision of Professional Services to Conduct Job Evaluation Exercise,SkillsFuture Singapore,14550,Awarded to Suppliers,KORN FERRY HAY GROUP PTE. LTD.
+SSG000ETT17000013,2017-07-26,Provision of Consultancy services for the Conduct of Wage Study and Development of the Skills Framework (SF) for Human Resource,SkillsFuture Singapore,392400,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+SSG000ETT17000014,2017-08-01,Provision of Training Outcome Survey (TOS) 2017,SkillsFuture Singapore,217760,Awarded to Suppliers,XPRESSWORKS PTE LTD
+SSG000ETT17000015,2017-12-12,Implementation of Enterprise Content Management platform with an option for maintenance,SkillsFuture Singapore,890890,Awarded to Suppliers,OPEN TEXT (ASIA) PTE. LTD.
+SSG000ETT17000016,2017-11-02,Provision of Business Continuity Management (BCM) Consultancy Services,SkillsFuture Singapore,105300,Awarded to Suppliers,DELOITTE & TOUCHE ENTERPRISE RISK SERVICES PTE LTD
+SSG000ETT17000017,2017-12-21,Provision of consultancy services for the conduct of wage study for Wholesale Trade Sector and the development of the Skills Framework for Wholesale Trade,SkillsFuture Singapore,851200,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+SSG000ETT17000018,2017-11-09,APPOINTMENT OF SUPPORTING PARTNER TO RAMP UP SKILLSFUTURE EARN AND LEARN PROGRAMME (ELP) OUTREACH AND PLACEMENT,SkillsFuture Singapore,124290,Awarded to Suppliers,GLINTS INTERN PTE. LTD.
+SSG000ETT17000021,2017-12-15,Business and ICT Research & Advisory Services,SkillsFuture Singapore,143500,Awarded to Suppliers,GARTNER ADVISORY (SINGAPORE) PTE LTD
+SSG000ETT17000023,2017-11-28,Appointment of Service Provider(s) for Industry-Wide Course Fees Insurance Scheme,SkillsFuture Singapore,65,Awarded to Suppliers,LIBERTY INSURANCE PTE LTD
+SSG000ETT17000023,2017-11-28,Appointment of Service Provider(s) for Industry-Wide Course Fees Insurance Scheme,SkillsFuture Singapore,34,Awarded to Suppliers,LONPAC INSURANCE BHD
+SSG000ETT17000025,2017-12-26,Provision of consultancy services for development of the Skills Framework for Design,SkillsFuture Singapore,679890,Awarded to Suppliers,WILLIS TOWERS WATSON CONSULTING (SINGAPORE) PTE. LTD.
+WDA000ETT16000022,2016-10-03,Provision of consultancy services for development of the Skills Framework for Logistics,SkillsFuture Singapore,572500,Awarded to Suppliers,ERNST & YOUNG SOLUTIONS LLP
+WDA000ETT16000028,2016-11-05,Provision of Consultancy Services for Energy and Chemicals sector,SkillsFuture Singapore,378000,Awarded to Suppliers,SITE GROUP INTERNATIONAL PTE. LTD.
+WDA000ETT16000029,2016-10-21,Provision of Wireless@SG,SkillsFuture Singapore,42168.3,Awarded to Suppliers,M1 NET LTD.
+WDA000ETT16000030,2016-11-28,"Supply, Delivery, Installation, Testing and Commissioning of a Fully Operational Resource Booking System",SkillsFuture Singapore,200737,Awarded to Suppliers,ANACLE SYSTEMS LIMITED

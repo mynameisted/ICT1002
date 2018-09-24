@@ -1,0 +1,511 @@
+tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
+NEA000ETT14000101,2015-01-28,"SUPPY AND DELIVERY OF RADIOSONDES, OZONESONDES, WEATHER BALLOONS AND PARACHUTES",National Environment Agency,831726.79,Awarded to Suppliers,Aeradio Technology Pte Ltd
+NEA000ETT14000101,2015-01-28,"SUPPY AND DELIVERY OF RADIOSONDES, OZONESONDES, WEATHER BALLOONS AND PARACHUTES",National Environment Agency,185718.3,Awarded to Suppliers,TOTEX CORPORATION
+NEA000ETT14000117,2015-01-26,Supply and delivery of mechanical spare parts to Tuas Incineration Plant,National Environment Agency,712500,Awarded to Suppliers,L-META ENGINEERING PTE LTD
+NEA000ETT14000117,2015-01-26,Supply and delivery of mechanical spare parts to Tuas Incineration Plant,National Environment Agency,1041000,Awarded to Suppliers,M & M MECHANICAL ENGINEERING PTE LTD
+NEA000ETT14000119,2015-01-26,PROVISION OF CONSULTANCY SERVICES FOR MSS' BUSINESS CONTINUITY AND IT DISASTER RECOVERY PLANS,National Environment Agency,118000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+NEA000ETT14000130,2015-01-26,"The operation and maintenance of landfill equipment, vehicles and floating platform at Semakau Landfill",National Environment Agency,8333068,Awarded to Suppliers,QUEK & QUEK CIVIL ENGINEERING PTE LTD
+NEA000ETT14000134,2015-03-05,"TENDER FOR THE SUPPLY, COMMISSIONING AND DELIVERY OF FIELD SAMPLING EQUIPMENT FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE",National Environment Agency,22000,Awarded to Suppliers,APP SYSTEMS SERVICES PTE. LTD.
+NEA000ETT14000134,2015-03-05,"TENDER FOR THE SUPPLY, COMMISSIONING AND DELIVERY OF FIELD SAMPLING EQUIPMENT FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE",National Environment Agency,7970,Awarded to Suppliers,Chokim Scientific (S) Pte Ltd
+NEA000ETT14000134,2015-03-05,"TENDER FOR THE SUPPLY, COMMISSIONING AND DELIVERY OF FIELD SAMPLING EQUIPMENT FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE",National Environment Agency,110340,Awarded to Suppliers,IT TECHNOLOGIES PTE LTD
+NEA000ETT14000134,2015-03-05,"TENDER FOR THE SUPPLY, COMMISSIONING AND DELIVERY OF FIELD SAMPLING EQUIPMENT FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE",National Environment Agency,19000,Awarded to Suppliers,Lee Hung Scientific Pte Ltd
+NEA000ETT14000134,2015-03-05,"TENDER FOR THE SUPPLY, COMMISSIONING AND DELIVERY OF FIELD SAMPLING EQUIPMENT FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE",National Environment Agency,71240,Awarded to Suppliers,NANEUM LIMITED
+NEA000ETT14000136,2015-01-29,Supply and Installation of Variable Speed Drive Units at Tuas Incineration Plant,National Environment Agency,193300,Awarded to Suppliers,ABB PTE. LTD.
+NEA000ETT14000139,2015-01-29,TENDER FOR THE PROVISION OF VARIOUS CLASSES OF GENERAL INSURANCE COVERAGE FOR THE NATIONAL ENVIRONMENT AGENCY FOR A PERIOD OF TWO (2) YEARS WITH AN OPTION TO EXTEND FOR A FURTHER PERIOD OF ONE (1) YEAR,National Environment Agency,1351090.68,Awarded to Suppliers,AXA INSURANCE SINGAPORE PTE LTD
+NEA000ETT14000141,2015-02-25,Supply and installation of pumps at Tuas Incineration Plant,National Environment Agency,820670,Awarded to Suppliers,SANLI M&E ENGINEERING PTE. LTD.
+NEA000ETT14000142,2015-02-12,The Upgrading of the Electrical Generation and Distribution System at Semakau Landfill,National Environment Agency,1067700,Awarded to Suppliers,MEMIONTEC PTE LTD
+NEA000ETT14000144,2015-01-09,Refurbishment of Refractory Tiles at Tuas South Incineration Plant,National Environment Agency,11392328,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT14000145,2015-06-08,PROVISION OF APPLICATION SOFTWARE MAINTENANCE AND SUPPORT SERVICES FOR RADIATION PROTECTION AND LABORATORY MANAGEMENT SYSTEM (RPLMS),National Environment Agency,161224,Awarded to Suppliers,DXC TECHNOLOGY SINGAPORE PTE. LTD.
+NEA000ETT14000146,2015-01-20,"THE DESIGN OF LAYOUT AND PUBLICATION OF RECRUITMENT ADVERTISEMENTS IN LOCAL PAPERS (E.g THE STRAITS TIMES, LIANHE ZAOBAO, BERITA HARIAN, TAMIL MURASU AND/OR TODAY)",National Environment Agency,890000,Awarded to Suppliers,LINS ADVERTISING & MARKETING PTE LTD
+NEA000ETT14000147,2015-01-07,Provision of Consultancy Services for an Energy Efficiency Benchmarking Study of Food Manufacturing Plants,National Environment Agency,480000,Awarded to Suppliers,LJ ENERGY PTE. LTD.
+NEA000ETT14000149,2015-05-08,INVITATION TO TENDER FOR THE SUPPLY AND DELIVERY OF GAS DETECTION TUBES FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,52,Awarded to Suppliers,ANSAC TECHNOLOGY (S) PTE LTD
+NEA000ETT14000149,2015-05-08,INVITATION TO TENDER FOR THE SUPPLY AND DELIVERY OF GAS DETECTION TUBES FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,46000,Awarded to Suppliers,JOHNSON SCIENTIFIC EQUIPMENT COMPANY
+NEA000ETT14000149,2015-05-08,INVITATION TO TENDER FOR THE SUPPLY AND DELIVERY OF GAS DETECTION TUBES FOR INDOOR ENVIRONMENTAL QUALITY TO THE ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,30475,Awarded to Suppliers,SKC ASIA HSE SAMPLING TECHNOLOGIES PTE. LTD.
+NEA000ETT14000150,2015-01-12,"Tender for the Supply, Delivery, Installation and Commissioning of Air Monitoring Station and Equipment",National Environment Agency,275953,Awarded to Suppliers,FYH INTEGRATED PTE. LTD.
+NEA000ETT14000151,2015-01-30,Provision of auxiliary police officers (APOs) and enforcement officers (EOs) for operation against vehicle emission related offences,National Environment Agency,2795475,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+NEA000ETT14000155,2015-06-03,MANAGEMENT OF NEW HAWKER CENTRE (HOUGANG CI YUAN),National Environment Agency,2688000,Awarded to Suppliers,FEI SIONG FOOD MANAGEMENT PTE. LTD.
+NEA000ETT14000157,2015-01-06,Maintenance Of the Telemetric Air Quality Monitoring and Management System,National Environment Agency,629800,Awarded to Suppliers,WINSYS TECHNOLOGY PTE LTD
+NEA000ETT14000158,2015-01-29,The Maintenance of Mechanical Equipment at Tuas Incineration Plant,National Environment Agency,2040000,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT14000160,2015-01-29,SUPPLY OF A LITTER BIN MANAGEMENT SYSTEM,National Environment Agency,1492474,Awarded to Suppliers,MOBIQUEST SOLUTIONS PTE. LTD.
+NEA000ETT14000161,2015-01-29,"The Transportation of Ash, Fly Ash and Scrap Metal for Tuas and Tuas South Incineration Plants",National Environment Agency,2839200,Awarded to Suppliers,G & C GENERAL CONTRACTORS PTE LTD
+NEA000ETT14000162,2015-05-07,"THE DESIGN, MANUFACTURE, SUPPLY, DELIVERY, INSTALLATION, INTEGRATION, TESTING, OPTIMIZING, COMMISSIONING AND COMPREHENSIVE MAINTENANCE OF A DUAL POLARIZATION C-BAND METEOROLOGICAL DOPPLER WEATHER RADAR SYSTEM.",National Environment Agency,8495035,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT14000163,2015-02-25,INVITATION TO TENDER FOR THE PROVISION OF RENOVATION WORKS AT ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,393000,Awarded to Suppliers,ACROMEC ENGINEERS PTE LTD
+NEA000ETT14000164,2015-04-10,"Tender for the supply, delivery, installation, testing, commissioning and maintenance of (1) one 3D scanning doppler wind lidar and (1) one 3D scanning Raman aerosol lidar for Meteorological Service Singapore",National Environment Agency,2891892,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT14000165,2015-03-11,The Replacement of Control Systems at Tuas Incineration Plant,National Environment Agency,208335,Awarded to Suppliers,AZBIL SINGAPORE PTE. LTD.
+NEA000ETT14000167,2015-04-10,Supply and Delivery of Motor to Tuas Incineration Plant,National Environment Agency,195000,Awarded to Suppliers,PIRTEK ASIA PTE LTD
+NEA000ETT14000168,2015-02-06,TENDER FOR PRODUCTION AND DELIVERY OF CUSTOMISED EDUCATIONAL COLLATERALS FOR 2015,National Environment Agency,34598,Awarded to Suppliers,BEXOURCE PTE. LTD.
+NEA000ETT14000168,2015-02-06,TENDER FOR PRODUCTION AND DELIVERY OF CUSTOMISED EDUCATIONAL COLLATERALS FOR 2015,National Environment Agency,51780,Awarded to Suppliers,IDERIKT FISSION PTE. LTD.
+NEA000ETT14000168,2015-02-06,TENDER FOR PRODUCTION AND DELIVERY OF CUSTOMISED EDUCATIONAL COLLATERALS FOR 2015,National Environment Agency,24080,Awarded to Suppliers,PRESTIGE PREMIUMS PTE. LTD.
+NEA000ETT14000169,2015-07-14,"THE SUPPLY, DESIGN, DEVELOPMENT, DELIVERY, INSTALLATION, TESTING, TRAINING AND COMMISSIONING OF A TRAINING MANAGEMENT SYSTEM (TMS) WITH OPTIONS FOR (1) MAINTENANCE & SUPPORT SERVICES, (2) ENHANCEMENTS, (3) SYSTEM INTEGRATION AND (4) TRAINING",National Environment Agency,935000,Awarded to Suppliers,HIEND SOFTWARE PTE. LTD.
+NEA000ETT14000170,2015-04-06,Supply of Quantitative Risk Assessment (QRA) modelling software,National Environment Agency,65300,Awarded to Suppliers,TNO
+NEA000ETT14000171,2015-02-27,Tender for the Provision of Laboratory Analytical Services and Sampling for Coastal Water Quality Assessment,National Environment Agency,85000,Awarded to Suppliers,TUV SUD PSB PTE. LTD.
+NEA000ETT15000001,2015-03-17,THE OPERATION AND MAINTENANCE OF THE LEACHATE TREATMENT PLANT AT THE CLOSED TAMPINES DUMPING GROUND,National Environment Agency,343680,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT15000002,2015-05-28,PROVISION OF LOGISTICS SERVICES FOR OIL SPILL CLEAN-UP,National Environment Agency,11735915.5,Awarded to Suppliers,ST Logistics Pte. Ltd.
+NEA000ETT15000003,2015-04-15,CONTRACT FOR CLEANING SERVICES,National Environment Agency,14200,Awarded to Suppliers,CHYE THIAM MAINTENANCE PTE LTD
+NEA000ETT15000004,2015-04-10,2nd National Climate Change Study on Impacts Due To Climate Change,National Environment Agency,294000,Awarded to Suppliers,MOTT MACDONALD SINGAPORE PTE LIMITED
+NEA000ETT15000005,2015-04-28,Consultancy Study on Emission Inventory for Air Pollutants in Singapore,National Environment Agency,492000,Awarded to Suppliers,ENVIROSOLUTIONS & CONSULTING PTE. LTD.
+NEA000ETT15000010,2015-08-03,PROVISION OF CONSULTANCY SERVICES,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000011,2015-07-15,PROPOSED ERECTION OF A 4 STOREY BUILDING COMPRISING 2 STOREY HAWKER CENTRE AND 2 STOREY CAR PARK AT PASIR RIS CENTRAL,National Environment Agency,16800000,Awarded to Suppliers,LBD ENGINEERING PTE. LTD.
+NEA000ETT15000012,2015-04-02,Maintenance and operation of volatile organic compounds analyser systems,National Environment Agency,1925520,Awarded to Suppliers,PerkinElmer Singapore Pte Ltd
+NEA000ETT15000013,2015-04-24,RENTAL AND MAINTENANCE OF AIR-CONDITIONED OFFICE CONTAINERS WITH WORKSTATIONS (2 NOS),National Environment Agency,43600,Awarded to Suppliers,NEXUS CONSULTANCY SERVICES PTE LTD
+NEA000ETT15000014,2015-04-28,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,14380,Awarded to Suppliers,ACRE ENGINEERING PTE LTD
+NEA000ETT15000014,2015-04-28,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,105400,Awarded to Suppliers,SciMed (Asia) Pte Ltd
+NEA000ETT15000014,2015-04-28,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,9204,Awarded to Suppliers,VWR SINGAPORE PTE. LTD.
+NEA000ETT15000015,2015-10-26,SUPPLY AND DELIVERY OF FLUORESCENCE RESONANCE ENERGY TRANSFER PROBES AND TAQMAN HYDROLYSIS PROBES TO THE ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,149184,Awarded to Suppliers,GENE-ETHICS (ASIA) PTE. LTD.
+NEA000ETT15000015,2015-10-26,SUPPLY AND DELIVERY OF FLUORESCENCE RESONANCE ENERGY TRANSFER PROBES AND TAQMAN HYDROLYSIS PROBES TO THE ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,42073.2,Awarded to Suppliers,LIFE TECHNOLOGIES HOLDINGS PTE. LTD.
+NEA000ETT15000015,2015-10-26,SUPPLY AND DELIVERY OF FLUORESCENCE RESONANCE ENERGY TRANSFER PROBES AND TAQMAN HYDROLYSIS PROBES TO THE ENVIRONMENTAL HEALTH INSTITUTE,National Environment Agency,66600,Awarded to Suppliers,Roche Diagnostics Asia Pacific Pte Ltd
+NEA000ETT15000017,2015-03-13,PROVISION OF EVENT MANAGEMENT AND RELATED SERVICES FOR THE ECOFRIEND AWARDS CEREMONY 2015,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000018,2015-06-22,Refurbishment of Hopper Jacket Systems at Tuas South Incineration Plant,National Environment Agency,12345600,Awarded to Suppliers,YAMATO TECHNOLOGIES PTE. LTD.
+NEA000ETT15000020,2015-04-24,Event Planning and Management for the National Energy Efficiency Conference,National Environment Agency,307950,Awarded to Suppliers,TWIST MEDIA PTE. LTD.
+NEA000ETT15000021,2015-04-29,SUPPLY AND DELIVERY OF MOSQUITO GLUE BOARDS,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000023,2015-04-29,SUPPLY AND DELIVERY OF MOSQUITO TRAPS,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000024,2015-05-14,Tender for Servicing and Maintenance of Air-Conditioning Systems at NEA Incineration Plants,National Environment Agency,362000,Awarded to Suppliers,INNOFLEX PTE. LTD.
+NEA000ETT15000025,2015-05-07,"The Operation of refuse, bulky waste, ash and scrap handling system at Tuas South Incineration Plant",National Environment Agency,7399000,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT15000026,2015-06-16,Development of Reference Manuals for the Singapore Certified Energy Manager (SCEM)(Professional Level) Training Programme,National Environment Agency,140000,Awarded to Suppliers,"Institution of Engineers Singapore, The"
+NEA000ETT15000027,2015-09-29,TENDER FOR DESIGN AND BUILD OFFICE AND HALL,National Environment Agency,1406100,Awarded to Suppliers,CALVARY CONSTRUCTION PTE. LTD.
+NEA000ETT15000028,2015-06-30,Tender for Servicing and Maintenance of Weighbridges and Accessories at National Environment Agency Incineration Plants,National Environment Agency,425000,Awarded to Suppliers,S.A.C. (PTE) LTD
+NEA000ETT15000028,2015-06-30,Tender for Servicing and Maintenance of Weighbridges and Accessories at National Environment Agency Incineration Plants,National Environment Agency,69000,Awarded to Suppliers,WEIGHMAN PTE LTD
+NEA000ETT15000029,2015-08-03,SUPPLY AND DELIVERY OF CRANE SYSTEMS SPARE PARTS TO TUAS SOUTH INCINERATION PLANT,National Environment Agency,1397848.4,Awarded to Suppliers,NSK HEAT EXCHANGERS PTE. LTD.
+NEA000ETT15000030,2015-06-12,PROVISION OF SEQUENCING SERVICES,National Environment Agency,820500,Awarded to Suppliers,AXIL SCIENTIFIC PTE. LTD.
+NEA000ETT15000031,2015-06-08,PROVISION OF PUBLICITY AND ENGAGEMENT INITIATIVES FOR DENGUE PREVENTION CAMPAIGN,National Environment Agency,3880796.67,Awarded to Suppliers,DDB Worldwide Pte Ltd
+NEA000ETT15000032,2015-04-28,MEDIA MONITORING SERVICES FOR THE NATIONAL ENVIRONMENT AGENCY FOR A PERIOD OF ONE YEAR AND WITH THE OPTION TO RENEW FOR ANOTHER ONE YEAR,National Environment Agency,134400,Awarded to Suppliers,IMPACT! MEDIA MONITORING LLP
+NEA000ETT15000033,2015-04-13,THE APPOINTMENT OF AN INSURANCE BROKER FOR A PERIOD OF TWO YEARS WITH AN OPTION TO EXTEND FOR A FURTHER PERIOD OF ONE YEAR,National Environment Agency,55000,Awarded to Suppliers,WILLIS TOWERS WATSON BROKERS (SINGAPORE) PTE. LTD.
+NEA000ETT15000034,2015-05-22,CONSULTANCY STUDY ON ASSESSMENT OF SECONDARY IMPACTS OF THE USE OF WOLBACHIA TECHNOLOGY TO SUPPRESS AEDES AEGYPTI POPULATION,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000035,2015-05-28,The Supply and Delivery of Hydrated Lime Powder to Incineration Plants,National Environment Agency,17280000,Awarded to Suppliers,LHOIST SINGAPORE PRIVATE LIMITED
+NEA000ETT15000035,2015-05-28,The Supply and Delivery of Hydrated Lime Powder to Incineration Plants,National Environment Agency,2092500,Awarded to Suppliers,Taiko Marketing (S) Pte Ltd
+NEA000ETT15000037,2015-06-08,PROVISION OF MEDIA PLANNING AND BUYING INITIATIVES FOR NEA'S PUBLIC EDUCATION AND COMMUNICATIONS CAMPAIGNS,National Environment Agency,6987826.66,Awarded to Suppliers,STARCOM MEDIA WORLDWIDE
+NEA000ETT15000038,2015-06-10,Upgrading and Servicing of Low and Medium Voltage Equipment at Tuas South Incineration Plant,National Environment Agency,848760,Awarded to Suppliers,ABB PTE. LTD.
+NEA000ETT15000039,2015-06-15,CLEANING INDUSTRY MANPOWER STUDY,National Environment Agency,248000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+NEA000ETT15000042,2015-06-09,Supply of Audit Services,National Environment Agency,711646,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+NEA000ETT15000043,2015-07-30,PROVISION OF PUBLICITY AND ENGAGEMENT INITIATIVES FOR FOOD WASTE REDUCTION CAMPAIGN,National Environment Agency,1336923.5,Awarded to Suppliers,3-SIXTY BRAND COMMUNICATIONS PTE. LTD.
+NEA000ETT15000044,2015-06-23,PROVISION OF COMPREHENSIVE MAINTENANCE FOR A DUAL POLARIZATION S-BAND METEOROLOGICAL DOPPLER WEATHER RADAR SYSTEM,National Environment Agency,3228886,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT15000046,2015-06-08,SUPPLY AND DELIVERY OF PIRIMIPHOS-METHYL INSECTICIDES,National Environment Agency,286000,Awarded to Suppliers,Agro Technic Pte Ltd
+NEA000ETT15000047,2015-07-03,PROVISION OF SOCIAL MEDIA PLANNING AND ENGAGEMENT INITIATIVES FOR NEA'S PUBLIC EDUCATION COMMUNICATION CAMPAIGNS,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000048,2015-07-13,Servicing and Maintenance of Motors and Magnetic Separators at Tuas Incineration Plant and Tuas South Incineration Plant,National Environment Agency,1520000,Awarded to Suppliers,Synchron Electrical Services Pte Ltd
+NEA000ETT15000050,2015-08-19,Maintenance of Mechanical Equipment at Tuas South Incineration Plant,National Environment Agency,4325000,Awarded to Suppliers,BRYAN BOILER ENGINEERING PTE LTD
+NEA000ETT15000051,2015-08-26,FOOD WASTE MANAGEMENT IN MARKETS/HAWKER CENTRES,National Environment Agency,142500,Awarded to Suppliers,ECO-WIZ (SG) PTE. LTD.
+NEA000ETT15000051,2015-08-26,FOOD WASTE MANAGEMENT IN MARKETS/HAWKER CENTRES,National Environment Agency,115000,Awarded to Suppliers,VRM OPERATIONS (SINGAPORE) PTE. LTD.
+NEA000ETT15000052,2015-10-01,The supply and delivery of equipment and software for measurement of radiation levels,National Environment Agency,142800,Awarded to Suppliers,Analytical Technologies Pte Ltd
+NEA000ETT15000052,2015-10-01,The supply and delivery of equipment and software for measurement of radiation levels,National Environment Agency,87400,Awarded to Suppliers,O'Connor's Singapore Pte Ltd
+NEA000ETT15000052,2015-10-01,The supply and delivery of equipment and software for measurement of radiation levels,National Environment Agency,25000,Awarded to Suppliers,QT Instruments (S) Pte Ltd
+NEA000ETT15000054,2015-07-08,MAINTENANCE OF CREMATORS AT MANDAI CREMATORIUM AND CHOA CHU KANG CREMATORIUM,National Environment Agency,1000000,Awarded to Suppliers,"TAIYO CHIKURO INDUSTRIES CO, LTD. (SINGAPORE BRANCH)"
+NEA000ETT15000055,2015-08-18,The refurbishment of soot-blower system at Tuas Incineration Plant,National Environment Agency,2780000,Awarded to Suppliers,ASIA PROJECTS ENGINEERING PRIVATE LIMITED
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,4950,Awarded to Suppliers,ALLEN & GLEDHILL LLP
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,4680,Awarded to Suppliers,CENTRAL CHAMBERS LAW CORPORATION
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,6450,Awarded to Suppliers,COLIN NG & PARTNERS LLP
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,4650,Awarded to Suppliers,EVERSHEDS HARRY ELIAS LLP
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,4200,Awarded to Suppliers,INFINITUS LAW CORPORATION
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,7260,Awarded to Suppliers,RAJAH & TANN SINGAPORE LLP
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,6150,Awarded to Suppliers,RHTLAW TAYLOR WESSING LLP
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,5400,Awarded to Suppliers,WONGPARTNERSHIP LLP
+NEA000ETT15000056,2015-08-30,PROVISION OF LEGAL SERVICES TO THE NATIONAL ENVIRONMENT AGENCY,National Environment Agency,29570,Awarded to Suppliers,YEO-LEONG & PEH LLC
+NEA000ETT15000057,2015-07-14,"TENDER FOR THE CONCEPTUALISATION, DESIGN, PRODUCTION AND DELIVERY OF PRE-SCHOOL EDUCATIONAL MATERIALS",National Environment Agency,60000,Awarded to Suppliers,Graphic Masters & Advertising Pte Ltd
+NEA000ETT15000058,2015-08-28,"COMPLETION CONTRACT FOR THE PROPOSED REDEVELOPMENT OF CHOA CHU KANG CEMETERY (BLOCK N-1-10, BLOCK N-1-13 and BLOCK C-2-6)",National Environment Agency,7800000,Awarded to Suppliers,PRECISE DEVELOPMENT PTE. LTD.
+NEA000ETT15000059,2015-09-18,PROPOSED COMMERCIAL DEVELOPMENT COMPRISING ONE BLOCK OF TWO-STOREY MARKET / HAWKER CENTRE BUILDING WITH A BASEMENT AND FIRST STOREY CAR PARK ON LOT 04129K MK06 AT JURONG WEST STREET 61,National Environment Agency,12300000,Awarded to Suppliers,LBD ENGINEERING PTE. LTD.
+NEA000ETT15000060,2015-12-02,"THE SUPPLY, INSTALLATION AND THE PROVISION OF MAINTENANCE SERVICE FOR THE SPECTROPHOTOMETER",National Environment Agency,459500,Awarded to Suppliers,KIPP & ZONEN ASIA PACIFIC PTE. LTD.
+NEA000ETT15000061,2015-08-12,PROVISION OF VIDEO ANALYTIC AND SURVEILANCE SERVICES AGAINST HIGH RISE LTTERING,National Environment Agency,4257360,Awarded to Suppliers,ONEBERRY TECHNOLOGIES PTE. LTD.
+NEA000ETT15000062,2015-08-26,SUPPLY AND DELIVERY OF MOSQUITO TRAPS AND GLUE BOARDS,National Environment Agency,128700,Awarded to Suppliers,BENTZ JAZ SINGAPORE PTE LTD
+NEA000ETT15000062,2015-08-26,SUPPLY AND DELIVERY OF MOSQUITO TRAPS AND GLUE BOARDS,National Environment Agency,308100,Awarded to Suppliers,PERMACARE ASSOCIATE
+NEA000ETT15000063,2015-10-23,PROPOSED DEVELOPMENT COMPRISING ONE BLOCK OF ONE-STOREY HAWKER CENTRE WITH THE OPTION FOR EITHER ONE STOREY OR TWO STOREY OF CARPARK AT MK19-01873T AT YISHUN AVENUE 11,National Environment Agency,11564873,Awarded to Suppliers,H P CONSTRUCTION & ENGINEERING PTE LTD
+NEA000ETT15000064,2015-07-21,SUPPLY AND INSTALLATION OF AUTOGATE MECHANISM,National Environment Agency,82900,Awarded to Suppliers,FYH INTEGRATED PTE. LTD.
+NEA000ETT15000065,2016-01-19,Tender for the Replacement and Relocation of Server System for the Telemetric Air Quality Monitoring and Management System,National Environment Agency,249900,Awarded to Suppliers,WINSYS TECHNOLOGY PTE LTD
+NEA000ETT15000066,2015-11-02,PROVISION OF MEDICAL EXAMINATION SERVICES FOR VECTOR CONTROL OFFICERS,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000067,2015-11-05,Supply and Delivery of Electrical and Electronic Components to Tuas South Incineration Plant,National Environment Agency,280721,Awarded to Suppliers,ADVANCED CAE PTE. LTD.
+NEA000ETT15000067,2015-11-05,Supply and Delivery of Electrical and Electronic Components to Tuas South Incineration Plant,National Environment Agency,145061,Awarded to Suppliers,MECHANTRONIC ENGINEERING PTE LTD
+NEA000ETT15000067,2015-11-05,Supply and Delivery of Electrical and Electronic Components to Tuas South Incineration Plant,National Environment Agency,45590,Awarded to Suppliers,RANK TECHNOLOGIES PTE. LTD.
+NEA000ETT15000067,2015-11-05,Supply and Delivery of Electrical and Electronic Components to Tuas South Incineration Plant,National Environment Agency,214109,Awarded to Suppliers,SICK PTE. LTD.
+NEA000ETT15000068,2015-09-21,Supply and Installation of Fire Fighting Equipment at Tuas South Incineration Plant.,National Environment Agency,181800,Awarded to Suppliers,PRO-ACE POWER & CONTROL PTE LTD
+NEA000ETT15000069,2015-09-04,Provision of earthworks at Semakau Landfill,National Environment Agency,3177000,Awarded to Suppliers,OUNG CONSTRUCTION (S) PTE LTD
+NEA000ETT15000070,2015-08-31,Tender for the Refractory Repair And Relining Works At Tuas Incineration Plant,National Environment Agency,1485000,Awarded to Suppliers,Echelon Engineering Pte. Ltd.
+NEA000ETT15000071,2015-09-21,CONSULTANCY STUDY ON ASSESSMENT OF SECONDARY IMPACTS OF THE USE OF WOLBACHIA TECHNOLOGY TO SUPPRESS AEDES AEGYPTI POPULATION,National Environment Agency,220000,Awarded to Suppliers,IPSOS PTE. LTD.
+NEA000ETT15000072,2015-09-09,"The Provision of Transport Services for Tuas South Incineration Plant, Tuas Marine Transfer Station and Tuas Incineration Plant",National Environment Agency,481920,Awarded to Suppliers,TONG TAR TRANSPORT SERVICE PTE LTD
+NEA000ETT15000074,2015-08-28,PROVISION OF RODENT SURVEILLANCE SERVICES FOR PUBLIC AREAS IN SINGAPORE,National Environment Agency,6291000,Awarded to Suppliers,STAR PEST CONTROL PTE LTD
+NEA000ETT15000075,2015-10-23,"SECURITY SERVICES AT SEMAKAU LANDFILL, TUAS MARINE TRANSFER STATION, TUAS SOUTH INCINERATION PLANT & TUAS INCINERATION PLANT",National Environment Agency,1791600,Awarded to Suppliers,New-E Security Pte Ltd
+NEA000ETT15000077,2015-10-14,Relining of Refuse Discharge Chutes and Resurfacing of Epoxy Flooring at Tuas South Incineration Plant,National Environment Agency,99000,Awarded to Suppliers,CASUARINA SERVICES PTE. LTD.
+NEA000ETT15000078,2015-09-02,"1. LANDSCAPING AND HORTICULTURAL WORKS AT CHOA CHU KANG CEMETERIES, CHOA CHU KANG COLUMBARIUM AND CHOA CHU KANG CREMATORIUM; 2. GRASS CUTTING AND TREE MAINTENANCE AT SELECTED CEMETERIES AND OTHER INSTALLATIONS",National Environment Agency,2517800,Awarded to Suppliers,KIM BOCK CONTRACTOR PRIVATE LIMITED
+NEA000ETT15000079,2015-10-30,PROVISION OF ARREARS MANAGEMENT SERVICES FOR HAWKER STALLS,National Environment Agency,933800,Awarded to Suppliers,Credit Management Consultancy (asia) Pte Ltd
+NEA000ETT15000082,2015-09-25,The Provision of Area Cleaning Works at Tuas and Tuas South Incineration Plants,National Environment Agency,1561208,Awarded to Suppliers,MULTITASK DEVELOPMENT PTE. LTD.
+NEA000ETT15000083,2015-09-14,Supply and delivery of vehicles,National Environment Agency,8800,Awarded to Suppliers,AGRICULTURAL TRACTORS SPARES PTE LTD
+NEA000ETT15000083,2015-09-14,Supply and delivery of vehicles,National Environment Agency,92000,Awarded to Suppliers,WBL ENGINEERING & DISTRIBUTION PTE. LTD.
+NEA000ETT15000084,2015-11-17,PROVISION OF REPAIRS AND REFURBISHMENT (R & R) WORKS,National Environment Agency,2641971,Awarded to Suppliers,ISO-TEAM CORPORATION PTE LTD
+NEA000ETT15000084,2015-11-17,PROVISION OF REPAIRS AND REFURBISHMENT (R & R) WORKS,National Environment Agency,1848380,Awarded to Suppliers,TAY HAO PAINT WORKS PTE LTD
+NEA000ETT15000085,2016-01-12,Maintenance of the Telemetric Air Quality Monitoring & Management System.,National Environment Agency,1767069,Awarded to Suppliers,FYH INTEGRATED PTE. LTD.
+NEA000ETT15000086,2015-11-03,TENDER FOR PROVISION OF PUBLICITY AND ENGAGEMENT INITIATIVES FOR KEEP SINGAPORE CLEAN CAMPAIGN,National Environment Agency,936920,Awarded to Suppliers,ATOMZ I! PTE. LTD.
+NEA000ETT15000087,2015-09-23,TENDER FOR APPOINTMENT OF EXTERNAL AUDITOR FOR PROCESS AUDIT,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000088,2015-12-08,Repairs and Redecoration Works at Tuas Marine Transfer Station,National Environment Agency,144400,Awarded to Suppliers,TSL Builders Pte Ltd
+NEA000ETT15000089,2015-12-21,Maintenance of Wharf Fenders at both Tuas Marine Transfer Station and Semakau Landfill,National Environment Agency,468000,Awarded to Suppliers,YAMATO TECHNOLOGIES PTE. LTD.
+NEA000ETT15000090,2015-10-19,MAINTENANCE OF WATER QUALITY MONITORING SYSTEM,National Environment Agency,929200,Awarded to Suppliers,WINSYS TECHNOLOGY PTE LTD
+NEA000ETT15000091,2015-11-04,TENDER FOR THE SUPPLY AND DELIVERY OF SPARE PARTS FOR LANDFILL EQUIPMENT,National Environment Agency,63750,Awarded to Suppliers,TATEOT 28 PROJECT & TRADING PTE LTD
+NEA000ETT15000091,2015-11-04,TENDER FOR THE SUPPLY AND DELIVERY OF SPARE PARTS FOR LANDFILL EQUIPMENT,National Environment Agency,99559,Awarded to Suppliers,UMW EQUIPMENT & ENGINEERING PTE LTD
+NEA000ETT15000091,2015-11-04,TENDER FOR THE SUPPLY AND DELIVERY OF SPARE PARTS FOR LANDFILL EQUIPMENT,National Environment Agency,28900,Awarded to Suppliers,Volvo East Asia (Pte) Ltd
+NEA000ETT15000092,2015-12-09,"Supply, Delivery, Installation and Commissioning of Air Monitoring Equipment",National Environment Agency,127667,Awarded to Suppliers,ANSAC TECHNOLOGY (S) PTE LTD
+NEA000ETT15000092,2015-12-09,"Supply, Delivery, Installation and Commissioning of Air Monitoring Equipment",National Environment Agency,142800,Awarded to Suppliers,Conexor Singapore Pte Ltd
+NEA000ETT15000092,2015-12-09,"Supply, Delivery, Installation and Commissioning of Air Monitoring Equipment",National Environment Agency,102240,Awarded to Suppliers,FYH INTEGRATED PTE. LTD.
+NEA000ETT15000093,2015-10-09,"TENDER FOR MULTI-DISCIPLINARY CONSULTANCY SERVICES (ARCHITECTURAL, CIVIL & STRUCTURAL ENGINEERING, MECHANICAL & ELECTRICAL ENGINEERING AND QUANTITY SURVEYING) FOR RENOVATION WORKS TO EXISTING MARKETS/FOOD CENTRES AT BLK 347 JURONG EAST AVENUE 1 AND BLK 453A ANG MO KIO AVENUE 10",National Environment Agency,1998000,Awarded to Suppliers,BHATCH ARCHITECTS
+NEA000ETT15000094,2015-11-02,"Refurbishment of refuse, ash and scrap cranes at Tuas Incineration Plant & Tuas South Incineration Plant",National Environment Agency,1768000,Awarded to Suppliers,YAMATO TECHNOLOGIES PTE. LTD.
+NEA000ETT15000095,2015-10-07,MULTI-DISCPLINARY CONSULTANCY SERVICES FOR THE PROPOSED ROAD ACCESS DEVELOPMENT AT TUAS VIEW BASIN,National Environment Agency,3218000,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+NEA000ETT15000096,2015-10-27,"THE DESIGN, SUPPLY, DELIVERY, INSTALLATION, TESTING, COMMISSIONING AND COMPREHENSIVE MAINTENANCE OF A SATELLITE DATA RECEPTION AND PROCESSING SYSTEM.",National Environment Agency,954634.66,Awarded to Suppliers,ESS WEATHERTECH PTY LTD
+NEA000ETT15000097,2015-10-27,Refurbishment of air compressor system at Tuas Incineration Plant,National Environment Agency,658278,Awarded to Suppliers,INGERSOLL-RAND SOUTH EAST ASIA (PRIVATE) LIMITED
+NEA000ETT15000098,2015-12-11,Collection and Transportation of Food Waste for Co-digestion,National Environment Agency,770220,Awarded to Suppliers,VEOLIA ES SINGAPORE PTE. LTD.
+NEA000ETT15000099,2015-11-25,PROVISION OF SERVICES TO CARRY OUT A SURVEY OF AIR-CONDITIONER USAGE PATTERNS OF SINGAPORE HOUSEHOLDS,National Environment Agency,498000,Awarded to Suppliers,INTRAIX PTE. LTD.
+NEA000ETT15000100,2015-12-29,Supply and Installation of Flue Gas Flow Meters at Tuas Incineration Plant,National Environment Agency,214680,Awarded to Suppliers,SICK PTE. LTD.
+NEA000ETT15000101,2015-12-01,TENDER FOR MANAGING AGENT SERVICE AND OFFICE MAINTENANCE SERVICES FOR SINGAPORE ENVIRONMENT INSTITUTE,National Environment Agency,238384,Awarded to Suppliers,RAMKY CLEANTECH SERVICES PTE. LTD.
+NEA000ETT15000103,2015-11-03,The Maintenance Work At The Closed Tampines Dumping Ground,National Environment Agency,353900,Awarded to Suppliers,FELICITY ENGINEERING PTE LTD
+NEA000ETT15000106,2015-11-13,Supply and Delivery of Air-Cooled Condenser Fan Gear Boxes to Tuas South Incineration Plant,National Environment Agency,362880,Awarded to Suppliers,MECHANTRONIC ENGINEERING PTE LTD
+NEA000ETT15000107,2015-10-27,Supply and Maintenance of Refuse Disposal Management System (RDMS) at Tuas Incineration Plant and Tuas South Incineration Plant,National Environment Agency,431000,Awarded to Suppliers,ALC TECHNOLOGIES PTE LTD
+NEA000ETT15000108,2016-01-06,"To supply and maintenance support for mobile devices with mobile broadband plan, mobile printers and accessories for Integrated Field Operations System (iFOS)",National Environment Agency,5540128,Awarded to Suppliers,M1 LIMITED
+NEA000ETT15000109,2016-04-18,Supply and Delivery Of Laboratory Reagents To The Environmental Health Institute,National Environment Agency,5200,Awarded to Suppliers,Bio Laboratories Pte Ltd
+NEA000ETT15000109,2016-04-18,Supply and Delivery Of Laboratory Reagents To The Environmental Health Institute,National Environment Agency,225204.2,Awarded to Suppliers,QIAGEN SINGAPORE PTE. LTD.
+NEA000ETT15000109,2016-04-18,Supply and Delivery Of Laboratory Reagents To The Environmental Health Institute,National Environment Agency,49012.75,Awarded to Suppliers,Research Instruments Pte Ltd
+NEA000ETT15000110,2016-03-07,"Consultancy Services for a Feasibility Study on the Collection, Recycling and Management of E-Waste",National Environment Agency,198680,Awarded to Suppliers,REVERSE LOGISTICS GMBH
+NEA000ETT15000111,2015-12-28,Proposed Erection of a Five-Storey Commercial Development Comprising Hawker Centre/Supermarket/Shops and Multi-Storey Car Park on Lots 04109P-PT & 06187L-PT MK 13 at Woodlands Street 12,National Environment Agency,26857000,Awarded to Suppliers,CONINT PTE. LTD.
+NEA000ETT15000112,2015-10-30,Tender for Supply and Delivery of Insect Repellent for Outreach Programme on Dengue Prevention,National Environment Agency,512000,Awarded to Suppliers,S.C. JOHNSON & SON PRIVATE LIM ITED
+NEA000ETT15000113,2016-01-20,Tender for cleaning services at offices of Meteorological Service Singapore,National Environment Agency,240767.97,Awarded to Suppliers,CHYE THIAM MAINTENANCE PTE LTD
+NEA000ETT15000114,2015-12-17,Provision of Services to Conduct a Survey to Characterise Energy Consumption in Singapore Households,National Environment Agency,537000,Awarded to Suppliers,CONSULTING GROUP - ASIA INSIGHT PTE. LTD.
+NEA000ETT15000115,2015-11-16,Tender for The Provision of Market Research Services on Public Waste Collection Scheme,National Environment Agency,213300,Awarded to Suppliers,CONSULTING GROUP - ASIA INSIGHT PTE. LTD.
+NEA000ETT15000116,2016-01-14,Tender for the Refurbishment of Air-Cooled Condenser Fans at Tuas Incineration Plant,National Environment Agency,1873000,Awarded to Suppliers,ASIA PROJECTS ENGINEERING PRIVATE LIMITED
+NEA000ETT15000117,2015-10-16,Comprehensive Maintenance for the Seismic System,National Environment Agency,397260,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT15000120,2016-02-25,"Tender for Project Management Consultancy Services for Renovation Works to Existing Markets/Food Centres at Block 69 Geylang Bahru, Block 163 Bukit Merah Central and Block 84 Marine Parade Central, Singapore",National Environment Agency,302800,Awarded to Suppliers,INTERCONSULTANTS PTE LTD
+NEA000ETT15000121,2015-12-09,Provision of Services for Energy Performance Testing of Home Appliances,National Environment Agency,326350,Awarded to Suppliers,TUV SUD PSB PTE. LTD.
+NEA000ETT15000124,2016-05-04,The Overhaul of Geared Variable Speed Coupling at Tuas Incineration Plant,National Environment Agency,600000,Awarded to Suppliers,VOITH TURBO PTE. LTD.
+NEA000ETT15000125,2015-11-13,Appointment of external auditor for process audit,National Environment Agency,108000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+NEA000ETT15000126,2016-01-28,The overhaul of refuse feeder system at Tuas Incineration Plant,National Environment Agency,5800000,Awarded to Suppliers,YAMATO TECHNOLOGIES PTE. LTD.
+NEA000ETT15000127,2016-02-24,FEASIBILITY STUDIES FOR THE IMPLEMENTATION OF DISTRICT PNEUMATIC WASTE CONVEYANCE SYSTEM,National Environment Agency,600000,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+NEA000ETT15000131,2016-01-28,Maintenance and Repair of Furnace Refractories at Tuas South Incineration Plant,National Environment Agency,1215000,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT15000132,2016-01-26,Supply and Installation of Fire Fighting Equipment at Tuas South Incineration Plant,National Environment Agency,426000,Awarded to Suppliers,FEDERAL FIRE ENGINEERING PTE LTD
+NEA000ETT15000133,2016-02-02,"Provision of Warehousing, Transportation & Labour Services for Exhibitions and Collateral with Option to Extend for Two Years",National Environment Agency,410245.5,Awarded to Suppliers,ST Logistics Pte. Ltd.
+NEA000ETT15000134,2016-01-14,"Proposed Redevelopment of Choa Chu Kang Cemetery (Landscaping, Amenities and Block C-3-3 Grave Plots)",National Environment Agency,19837000,Awarded to Suppliers,TOH KIM BOCK C-E CONTRACTOR PTE LTD
+NEA000ETT15000136,2016-05-23,Provision of Training Services to Facilitate and Conduct In-House Courses for Nea Employees,National Environment Agency,203829,Awarded to Suppliers,Life Skills Centre
+NEA000ETT15000138,2016-01-28,Operation and Maintenance of Mechanical & Electrical Equipment at Tuas Marine Transfer Station and Semakau Landfill,National Environment Agency,7233526.8,Awarded to Suppliers,Bintai Kindenko Pte Ltd
+NEA000ETT15000141,2016-02-15,Tender for the Supply of Personal Protective Equipment(PPE) for Hazmat Response,National Environment Agency,58400,Awarded to Suppliers,AVEC CHEM ASIA PACIFIC PTE. LTD.
+NEA000ETT15000141,2016-02-15,Tender for the Supply of Personal Protective Equipment(PPE) for Hazmat Response,National Environment Agency,311880,Awarded to Suppliers,CO-OPERATIVE OF SCDF EMPLOYEES LTD
+NEA000ETT15000141,2016-02-15,Tender for the Supply of Personal Protective Equipment(PPE) for Hazmat Response,National Environment Agency,31405,Awarded to Suppliers,SECUREDGE PTE. LTD.
+NEA000ETT15000141,2016-02-15,Tender for the Supply of Personal Protective Equipment(PPE) for Hazmat Response,National Environment Agency,6600,Awarded to Suppliers,Unicorn International Pte Limited
+NEA000ETT15000142,2016-01-26,"Multi-Disciplinary of Architectural, Civil & Structural Engineering, Mechanical & Electrical Engineering and Quantity Surveying Consultancy Services for Renovation Works to Existing Market/Food Centre at Blk 69 Geylang Bahru",National Environment Agency,299000,Awarded to Suppliers,SQFT ARCHITECTS PTE. LTD.
+NEA000ETT15000143,2016-03-03,"The supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,280567,Awarded to Suppliers,PerkinElmer Singapore Pte Ltd
+NEA000ETT15000143,2016-03-03,"The supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,1766599,Awarded to Suppliers,SECOM (SINGAPORE) PTE LTD
+NEA000ETT15000144,2016-03-08,The Refurbishment of Ash Hoppers at Tuas Incineration Plant,National Environment Agency,845000,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT15000145,2016-02-17,Waste Management Industry Manpower Study,National Environment Agency,266000,Awarded to Suppliers,MERCER (SINGAPORE) PTE. LTD.
+NEA000ETT15000146,2016-02-24,Relining of Refuse Discharge Chutes at Tuas South Incineration Plant,National Environment Agency,573150,Awarded to Suppliers,ALNIFF INDUSTRIES PTE LTD
+NEA000ETT15000147,2016-04-22,The Provision Of Application Maintenance & Support Services And Middleware Administration & Support Services (AMS) For National Environment Agency,National Environment Agency,8534086,Awarded to Suppliers,DXC TECHNOLOGY SINGAPORE PTE. LTD.
+NEA000ETT15000148,2016-04-20,Supply and Installation of Industrial Water Control System at Tuas Incineration Plant,National Environment Agency,137320,Awarded to Suppliers,NKH BUILDING SERVICES PTE. LTD.
+NEA000ETT15000149,2016-02-03,Provision of Valuation Services,National Environment Agency,549737.5,Awarded to Suppliers,ASSOCIATED PROPERTY CONSULTANTS PTE. LTD.
+NEA000ETT15000149,2016-02-03,Provision of Valuation Services,National Environment Agency,428376,Awarded to Suppliers,ESTATE EXCHANGE CONSULTING
+NEA000ETT15000149,2016-02-03,Provision of Valuation Services,National Environment Agency,760900,Awarded to Suppliers,GSK GLOBAL PTE. LTD.
+NEA000ETT15000152,2016-03-15,Supply of Litter Bins,National Environment Agency,575900,Awarded to Suppliers,PETER'S ENVIRONMENTAL PRODUCTS & SERVICES PTE LTD
+NEA000ETT15000153,2016-02-16,Development of a Training Programme for NEA officers,National Environment Agency,236250,Awarded to Suppliers,NTUC LEARNINGHUB PTE. LTD.
+NEA000ETT15000154,2016-06-02,Upgrading of Process Control System at Tuas Incineration Plan,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000155,2016-05-27,Design and Build of Road Access at Tuas View Basin,National Environment Agency,84164300,Awarded to Suppliers,McConnell Dowell S.E.A. Pte Ltd
+NEA000ETT15000156,2016-02-12,Maintenance and repair of heavy plant,National Environment Agency,1249245,Awarded to Suppliers,INDECO ENGINEERS (PTE) LTD
+NEA000ETT15000157,2016-03-31,Provision of Social Media Planning and Engagement Initiatives for NEA's Public Education Communication Campaigns,National Environment Agency,246220,Awarded to Suppliers,WS GROUP PTE. LTD.
+NEA000ETT15000158,2016-01-18,TENDER FOR SUPPLY AND DELIVERY OF INSECT REPELLENTS,National Environment Agency,82830,Awarded to Suppliers,GREEN TROPIC PRODUCTS PTE LTD
+NEA000ETT15000159,2016-02-19,Provision of Services to Conduct Waste Audits,National Environment Agency,137500,Awarded to Suppliers,PRICEWATERHOUSECOOPERS LLP
+NEA000ETT15000160,2016-03-14,Provision of general cleaning services in Sarimbun Recycling Park and closed Lim Chu Kang Dumping Ground,National Environment Agency,136000,Awarded to Suppliers,CLEANMAGE PTE. LTD.
+NEA000ETT15000161,2016-05-09,Tender for Deployment and Maintenance of Mosquito Traps,National Environment Agency,9604991.3,Awarded to Suppliers,PEOPLE ADVANTAGE PTE. LTD.
+NEA000ETT15000162,2016-03-22,Tender for the Provision of Laboratory Analytical Services and Sampling for Coastal Water Quality Assessment,National Environment Agency,79000,Awarded to Suppliers,MARCHWOOD LABORATORY SERVICES PTE. LTD.
+NEA000ETT15000165,2016-03-14,Tender for the maintenance and repair of general purpose vehicles,National Environment Agency,781944,Awarded to Suppliers,COMFORTDELGRO ENGINEERING PTE. LTD.
+NEA000ETT15000167,2016-03-29,Upgrading of Integrated Control and Monitoring System of 0.4kV Switchgear at Tuas South Incineration Plant,National Environment Agency,3280000,Awarded to Suppliers,EPD SINGAPORE SERVICES PTE. LTD.
+NEA000ETT15000169,2016-04-22,Supply and Delivery of Vector Control Toolkits,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000170,2016-04-26,Supply and Delivery of Insecticide Aerosol Sprayers,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT15000171,2016-05-12,TENDER FOR SUPPLY AND DELIVERY OF EQUIPMENT AND SOFTWARE FOR MEASUREMENT OF RADIATION LEVELS,National Environment Agency,73225,Awarded to Suppliers,Lee Hung Scientific Pte Ltd
+NEA000ETT15000171,2016-05-12,TENDER FOR SUPPLY AND DELIVERY OF EQUIPMENT AND SOFTWARE FOR MEASUREMENT OF RADIATION LEVELS,National Environment Agency,49840,Awarded to Suppliers,PRECISION TECHNOLOGIES PTE LTD
+NEA000ETT15000171,2016-05-12,TENDER FOR SUPPLY AND DELIVERY OF EQUIPMENT AND SOFTWARE FOR MEASUREMENT OF RADIATION LEVELS,National Environment Agency,36090.38,Awarded to Suppliers,ROHDE & SCHWARZ REGIONAL HEADQUARTERS SINGAPORE PTE. LTD.
+NEA000ETT16000001,2016-04-06,Supply and Delivery of Liner Plates to Tuas South Incineration Plant,National Environment Agency,703000,Awarded to Suppliers,LIMRA ENGINEERING PTE. LTD.
+NEA000ETT16000002,2016-04-05,Maintenance of Boiler and Auxiliary Equipment at Tuas South Incineration Plant,National Environment Agency,6240000,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT16000003,2016-04-20,Provision of Laboratory Analytical Services and Sampling for Environmental Quality Assessment,National Environment Agency,1782000,Awarded to Suppliers,Setsco Services Pte Ltd
+NEA000ETT16000004,2016-04-26,Residential Heat Pump Water Heater Project,National Environment Agency,238800,Awarded to Suppliers,NATIONAL UNIVERSITY OF SINGAPORE
+NEA000ETT16000005,2016-09-09,Management Of New Hawker Centre (Our Tampines Hub) For A Period Of Three (3) Years With Option To Extend For A Further Period Not Exceeding Three (3) Years,National Environment Agency,7200,Awarded to Suppliers,OTMH PTE. LTD.
+NEA000ETT16000006,2016-07-28,"Supply and Replacement of Cab-Tyre Cables, Electrical and Mechanical Parts for Refuse Cranes at Tuas South Incineration Plant",National Environment Agency,4262000,Awarded to Suppliers,ASIA PROJECTS ENGINEERING PRIVATE LIMITED
+NEA000ETT16000007,2016-05-20,Relocation of Air Monitoring Station,National Environment Agency,85000,Awarded to Suppliers,ML INTERNATIONAL TRADING PTE. LTD.
+NEA000ETT16000008,2016-06-02,Vector Control Services in South-Eastern Singapore Zone 1,National Environment Agency,5988400,Awarded to Suppliers,ABJ PTE LTD
+NEA000ETT16000009,2016-04-11,Tender For Provision of Portable Toilets at Designated Locations,National Environment Agency,487836,Awarded to Suppliers,ISS FACILITY SERVICES PRIVATE LIMITED
+NEA000ETT16000010,2016-05-13,Provision of Repairs and Refurbishment (R&R) works,National Environment Agency,2231000,Awarded to Suppliers,Aik San Construction Pte Ltd
+NEA000ETT16000010,2016-05-13,Provision of Repairs and Refurbishment (R&R) works,National Environment Agency,1335923,Awarded to Suppliers,FULL HOUSE BUILDING CONSTRUCTION PTE. LTD.
+NEA000ETT16000011,2016-03-24,Tender For Consultancy Services To Conduct The Environmental And Service Satisfaction Survey (ESSS) 2016,National Environment Agency,136840,Awarded to Suppliers,NEXUS LINK PTE. LTD.
+NEA000ETT16000012,2016-04-04,Tender for Maintenance of Water Quality Monitoring System,National Environment Agency,931234.72,Awarded to Suppliers,HYDROINFORMATICS INSTITUTE PTE. LTD.
+NEA000ETT16000013,2016-04-26,Provision of Capacity Building Workshop for Project Buddy Clean,National Environment Agency,314400,Awarded to Suppliers,CANACT PTE. LTD.
+NEA000ETT16000014,2016-05-10,"Provision of Services for Research, Development of Brand, Communications & Implementation Plan and Advertising Strategy for Clean and Green Singapore",National Environment Agency,897800,Awarded to Suppliers,DENTSU SINGAPORE PTE LTD
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,12200,Awarded to Suppliers,ABSOLUTE INSTRUMENT SYSTEMS (PTE.) LTD.
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,90780,Awarded to Suppliers,DKSH SINGAPORE PTE. LTD.
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,56500,Awarded to Suppliers,FISHER SCIENTIFIC PTE LTD
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,3030,Awarded to Suppliers,GAIA SCIENCE PTE. LTD.
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,18760,Awarded to Suppliers,ITS Science & Medical Pte Ltd
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,15454,Awarded to Suppliers,LIFE TECHNOLOGIES HOLDINGS PTE. LTD.
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,1900,Awarded to Suppliers,OLYMPUS SINGAPORE PTE LTD
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,42000,Awarded to Suppliers,PRACTICAL MEDISCIENCE PTE LTD
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,30050,Awarded to Suppliers,SARTORIUS SINGAPORE PTE. LTD.
+NEA000ETT16000015,2016-05-05,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,3800,Awarded to Suppliers,VWR SINGAPORE PTE. LTD.
+NEA000ETT16000016,2016-04-13,Proposed Renovation Works to Markets/Food Centres at: (I) Blk 347 Jurong East Avenue 1 and (II) Blk 453A Ang Mo Kio Avenue 10,National Environment Agency,1596899,Awarded to Suppliers,RAYMOND CONSTRUCTION PTE LTD
+NEA000ETT16000020,2016-06-06,Tender for Soil Investigation at Proposed Development at Mandai,National Environment Agency,111285,Awarded to Suppliers,GROUND INSTRUMENTATION & ENGINEERING PTE. LTD.
+NEA000ETT16000021,2016-07-18,Services Detection at Proposed Development at Mandai,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT16000022,2016-07-22,Tender for Supply and Delivery of Mosquito Traps and Glue Boards,National Environment Agency,1382080,Awarded to Suppliers,AQUA-TERRA OILFIELD EQUIPMENT & SERVICES PTE. LTD.
+NEA000ETT16000022,2016-07-22,Tender for Supply and Delivery of Mosquito Traps and Glue Boards,National Environment Agency,214600,Awarded to Suppliers,BENTZ JAZ SINGAPORE PTE LTD
+NEA000ETT16000024,2016-07-05,ACCREDITED CHECKING ORGANISTAION SERVICES FOR DESIGN AND BUILD OF ROAD ACCESS AT TUAS VIEW BASIN,National Environment Agency,154000,Awarded to Suppliers,ECAS CONSULTANTS PTE. LTD.
+NEA000ETT16000029,2016-05-10,The Provision of Workplace Safety and Health Services at the installations of Waste & Resource Management Department,National Environment Agency,681300,Awarded to Suppliers,DYNAMIC SAFETY PTE. LTD.
+NEA000ETT16000032,2016-05-24,Supplementary Ad Hoc Flushing of Public Drains,National Environment Agency,4758000,Awarded to Suppliers,LIAN SHING CONSTRUCTION CO PTE LTD
+NEA000ETT16000033,2016-06-02,Tender for Supply and Delivery of Personnel Protective Equipment (PPEs) and Accessories,National Environment Agency,29030.4,Awarded to Suppliers,AVEC CHEM ASIA PACIFIC PTE. LTD.
+NEA000ETT16000033,2016-06-02,Tender for Supply and Delivery of Personnel Protective Equipment (PPEs) and Accessories,National Environment Agency,252,Awarded to Suppliers,KOMA INDUSTRIAL GLOVES PRIVATE LIMITED
+NEA000ETT16000033,2016-06-02,Tender for Supply and Delivery of Personnel Protective Equipment (PPEs) and Accessories,National Environment Agency,36989.57,Awarded to Suppliers,PRECISION TECHNOLOGIES PTE LTD
+NEA000ETT16000033,2016-06-02,Tender for Supply and Delivery of Personnel Protective Equipment (PPEs) and Accessories,National Environment Agency,355082,Awarded to Suppliers,Unicorn International Pte Limited
+NEA000ETT16000034,2016-06-15,PROVISION OF MICROSOFT PRODUCT LICENSES FOR NEA,National Environment Agency,639946.6,Awarded to Suppliers,UIC Asian Computer Services Pte Ltd
+NEA000ETT16000035,2016-08-03,TENDER FOR DEMONSTRATION OF TREATMENT OF INCINERATION FLY ASH (IFA),National Environment Agency,20000,Awarded to Suppliers,NSL Chemicals Ltd
+NEA000ETT16000035,2016-08-03,TENDER FOR DEMONSTRATION OF TREATMENT OF INCINERATION FLY ASH (IFA),National Environment Agency,1,Awarded to Suppliers,REMEX MINERALS SINGAPORE PTE. LTD.
+NEA000ETT16000035,2016-08-03,TENDER FOR DEMONSTRATION OF TREATMENT OF INCINERATION FLY ASH (IFA),National Environment Agency,19000,Awarded to Suppliers,ZEROWASTE ASIA PTE. LTD.
+NEA000ETT16000036,2016-05-24,Provision of Content Delivery Network (CDN) and Distributed Denial of Service Mitigation Services (DMS) for NEA websites,National Environment Agency,3187120.96,Awarded to Suppliers,SINGAPORE TELECOMMUNICATIONS LIMITED
+NEA000ETT16000037,2016-06-16,"Knowledge, Attitudes and Practices (KAP) Survey 2016",National Environment Agency,77000,Awarded to Suppliers,BLACKBOX RESEARCH PTE LTD
+NEA000ETT16000038,2016-06-08,"Multi-Disciplinary Consultancy Services (Architectural, Civil & Structural Engineering, Mechanical & Electrical Engineering and Quantity Surveying) For Proposed Hawker Centre At Senja Road, Singapore",National Environment Agency,712000,Awarded to Suppliers,TAN + TSAKONAS ARCHITECTS
+NEA000ETT16000039,2016-07-22,MAINTENANCE SERVICE FOR A NETWORK OF AUTOMATED WEATHER STATIONS,National Environment Agency,1492080,Awarded to Suppliers,ATT SYSTEMS (S'PORE) PTE LTD
+NEA000ETT16000041,2016-07-04,Provision of SMS Gateway Services for Dissemination Of Weather Alerts,National Environment Agency,238100,Awarded to Suppliers,Asiatel(S) Pte Ltd
+NEA000ETT16000043,2016-07-21,Supply and Installation of Grating Systems at Tuas South Incineration Plant,National Environment Agency,589500,Awarded to Suppliers,WIN CHENG CONSTRUCTION PTE. LTD.
+NEA000ETT16000045,2016-08-18,"Dismantling, Supply, Installation and Commissioning of Escalators in Geylang Serai Market",National Environment Agency,345600,Awarded to Suppliers,SCHINDLER LIFTS (SINGAPORE) PTE. LTD.
+NEA000ETT16000046,2016-07-19,Development of Measurement and Reporting (M&R) Requirements for Greenhouse Gas (GHG) Emissions under the Energy Conservation Act (ECA),National Environment Agency,629999.8,Awarded to Suppliers,ERNST & YOUNG LLP
+NEA000ETT16000047,2016-09-27,Provision of Repairs and Redecoration (R&R) Works,National Environment Agency,2259527,Awarded to Suppliers,ISO-TEAM CORPORATION PTE LTD
+NEA000ETT16000047,2016-09-27,Provision of Repairs and Redecoration (R&R) Works,National Environment Agency,632800,Awarded to Suppliers,SOLELY CONSTRUCTION PTE LTD
+NEA000ETT16000048,2016-09-15,Replacement of Fence Intrusion Detection System at Tuas Incineration Plant,National Environment Agency,184400,Awarded to Suppliers,CERTIS TECHNOLOGY (SINGAPORE) PTE. LTD.
+NEA000ETT16000049,2016-07-29,Supply And Delivery Of Insect Repellent For Outreach Programme On Dengue Prevention,National Environment Agency,705500,Awarded to Suppliers,GREEN TROPIC PRODUCTS PTE LTD
+NEA000ETT16000050,2016-08-31,Conceptualisation and Delivery of Community Outreach Skits,National Environment Agency,257300,Awarded to Suppliers,PLAYINC PTE. LTD.
+NEA000ETT16000051,2016-07-20,Tender for the Provision of Consultancy Services on the Energy efficiency of common industrial equipment and systems in Singapore,National Environment Agency,455000,Awarded to Suppliers,DNV GL SINGAPORE PTE. LTD.
+NEA000ETT16000052,2016-06-21,PROVISION OF MICROSOFT PRODUCT LICENSES FOR NEA (MGLP SELECT PLUS AGREEMENT NUMBER 6255037),National Environment Agency,1681486,Awarded to Suppliers,UIC Asian Computer Services Pte Ltd
+NEA000ETT16000053,2016-08-30,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,52640,Awarded to Suppliers,ITS Science & Medical Pte Ltd
+NEA000ETT16000053,2016-08-30,"Supply, Delivery and Commissioning of Laboratory Equipment at Environmental Health Institute",National Environment Agency,3294,Awarded to Suppliers,Palico Biotech Pte Ltd
+NEA000ETT16000056,2016-07-27,Perception Survey of Hawker Centre Patrons 2016,National Environment Agency,54000,Awarded to Suppliers,BLACKBOX RESEARCH PTE LTD
+NEA000ETT16000057,2016-07-18,TENDER FOR PROVISION OF UNARMED AUXILIARY POLICE OFFICERS (APOs) AND ENFORCEMENT OFFICERS (EOs) FOR OPERATIONS AGAINST VEHICULAR EMISSIONS-RELATED OFFENCES,National Environment Agency,3923937.5,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+NEA000ETT16000061,2016-08-22,Provision Of Event Management Services For Clean And Green Singapore Carnival And Launch Ceremony,National Environment Agency,2164140,Awarded to Suppliers,Pico Art International Pte Ltd
+NEA000ETT16000062,2016-09-09,Provision of staff placement services,National Environment Agency,45000,Awarded to Suppliers,Business Edge Personnel Services Pte Ltd
+NEA000ETT16000062,2016-09-09,Provision of staff placement services,National Environment Agency,69660,Awarded to Suppliers,IRTISH CONSULTING PTE. LTD.
+NEA000ETT16000062,2016-09-09,Provision of staff placement services,National Environment Agency,79300,Awarded to Suppliers,NSEARCH GLOBAL PTE. LTD.
+NEA000ETT16000062,2016-09-09,Provision of staff placement services,National Environment Agency,61000,Awarded to Suppliers,RMA CONSULTANTS PTE LTD
+NEA000ETT16000062,2016-09-09,Provision of staff placement services,National Environment Agency,61000,Awarded to Suppliers,SKILLSFORCE MANAGEMENT CONSULTANCY PTE LTD
+NEA000ETT16000065,2017-06-27,Supply and Delivery of Kits for the Detection of Dengue Antibodies,National Environment Agency,263728,Awarded to Suppliers,ALL EIGHTS (SINGAPORE) PRIVATE LIMITED
+NEA000ETT16000066,2016-09-16,Refurbishment of conveying and reaction product discharge system for flue gas treatment plant at Tuas Incineration Plant,National Environment Agency,1637062,Awarded to Suppliers,BRYAN BOILER ENGINEERING PTE LTD
+NEA000ETT16000067,2017-01-16,Provision of Medical Examination Services for Vector Control Officers,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT16000068,2016-08-10,TENDER FOR THE PROVISION OF MOBILE DEVICE WITH VOICE + DATA PLAN,National Environment Agency,206050.47,Awarded to Suppliers,SINGAPORE TELECOMMUNICATIONS LIMITED
+NEA000ETT16000069,2016-08-04,Supply and Delivery of Gearboxes for Crane Systems to Tuas South Incineration Plant,National Environment Agency,1193300,Awarded to Suppliers,ALLIED TRANSMISSIONS (S.E.A.) PTE LTD
+NEA000ETT16000070,2016-09-27,Tender for Provision of Services for Inspection of Fumigation Activities and Public Toilets in Singapore,National Environment Agency,438883.36,Awarded to Suppliers,CERTIS CISCO AUXILIARY POLICE FORCE PTE. LTD.
+NEA000ETT16000071,2016-09-05,Supply and delivery of two (2) units of Articulated Dump Trucks to Semakau Landfill,National Environment Agency,970000,Awarded to Suppliers,Volvo East Asia (Pte) Ltd
+NEA000ETT16000072,2016-08-25,Tender for the Provision of Medical Services,National Environment Agency,547200,Awarded to Suppliers,RAFFLES MEDICAL GROUP LTD
+NEA000ETT16000073,2016-11-11,Tender for Consultancy Services for a Resource Efficiency Study for the co-located Integrated Waste Management Facility (IWMF) and Tuas Water Reclamation Plant (TWRP),National Environment Agency,599000,Awarded to Suppliers,MOTT MACDONALD SINGAPORE PTE LIMITED
+NEA000ETT16000074,2016-08-31,Supply Of Daily Logistic Services For Banner Deployment With Option To Extend,National Environment Agency,950400,Awarded to Suppliers,ST Logistics Pte. Ltd.
+NEA000ETT16000077,2017-04-20,Supply and Delivery of Body Worn Camera System,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT16000078,2017-04-27,"Supply, Delivery, Installation, Commissioning and Maintenance of Equipment for Ambient Radiation Monitoring",National Environment Agency,27778872,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT16000079,2016-10-05,Supply and Delivery of Vector Control Toolkits,National Environment Agency,91200,Awarded to Suppliers,Agro Technic Pte Ltd
+NEA000ETT16000080,2016-08-23,"SEI Publication Design, Printing, and Advertising Sales Services",National Environment Agency,213420,Awarded to Suppliers,MULTININE CORPORATION PTE. LTD.
+NEA000ETT16000081,2016-10-18,Servicing of Boiler Field Instruments at Tuas Incineration Plant,National Environment Agency,163350,Awarded to Suppliers,AZBIL SINGAPORE PTE. LTD.
+NEA000ETT16000081,2016-10-18,Servicing of Boiler Field Instruments at Tuas Incineration Plant,National Environment Agency,136800,Awarded to Suppliers,CONSEN ENGINEERING PTE. LTD.
+NEA000ETT16000082,2016-11-16,General Repair and Redecoration Works at Tuas South Incineration Plant,National Environment Agency,1090000,Awarded to Suppliers,CKR PAINTS & COATING SPECIALIST PTE. LTD.
+NEA000ETT16000083,2016-12-05,Supply and Installation of Auxiliary Hoist for Refuse Crane at Tuas South Incineration Plant,National Environment Agency,252012,Awarded to Suppliers,MHE-DEMAG (S) PTE LTD
+NEA000ETT16000084,2017-02-01,Supply and Delivery of Anti-Mosquito Oil (Ordinary),National Environment Agency,147000,Awarded to Suppliers,INNOCO OIL PTE LTD
+NEA000ETT16000085,2016-09-06,TENDER FOR THE DESIGN & PRODUCTION OF SEI YEARBOOK,National Environment Agency,48400,Awarded to Suppliers,VERZTEC CONSULTING PTE. LTD.
+NEA000ETT16000086,2016-09-22,"(l) Daily Conservancy of Mandai Columbarium, Mount Vernon Complex and Yishun Columbarium (ll) Conservancy of Mandai Columbarium, Mount Vernon Complex and Yishun Columbarium during Special Festivals",National Environment Agency,2201220,Awarded to Suppliers,CSP MAINTENANCE PTE LTD
+NEA000ETT16000087,2016-10-17,TENDER FOR THE SUPPLY OF DECONTAMINATION EQUIPMENT FOR HAZMAT RESPONSE,National Environment Agency,752000,Awarded to Suppliers,Zenith Engineering Pte Ltd
+NEA000ETT16000088,2016-09-26,THE PROVISION OF CLEANING SERVICES FOR OFFICES,National Environment Agency,168150,Awarded to Suppliers,CLEANMAGE PTE. LTD.
+NEA000ETT16000089,2016-10-24,GROUND INSTRUMENTATION AND MONITORING WORKS FOR DESIGN AND BUILD ROAD ACCESS AT TUAS VIEW BASIN,National Environment Agency,911460,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+NEA000ETT16000090,2016-11-10,"THE DESIGN, SUPPLY, DELIVERY, INSTALLATION, COMMISSIONING AND COMPREHENSIVE MAINTENANCE OF A NETWORK OF AUTOMATIC WEATHER STATIONS",National Environment Agency,1787420,Awarded to Suppliers,Willowglen Services Pte Ltd
+NEA000ETT16000091,2016-11-25,"Supply, Delivery, Installation and Commissioning of Air Monitoring Station and Equipment",National Environment Agency,59000,Awarded to Suppliers,Conexor Singapore Pte Ltd
+NEA000ETT16000091,2016-11-25,"Supply, Delivery, Installation and Commissioning of Air Monitoring Station and Equipment",National Environment Agency,274695,Awarded to Suppliers,FYH INTEGRATED PTE. LTD.
+NEA000ETT16000092,2016-09-28,"Multi-Disciplinary Architectural, Civil & Structural Engineering, Mechanical & Electrical Engineering and Quantity Surveying Consultancy Services for the Proposed Redevelopment of Choa Chu Kang Cemetery (Phase 3)",National Environment Agency,2505100,Awarded to Suppliers,SURBANA JURONG CONSULTANTS PTE. LTD.
+NEA000ETT16000093,2016-11-09,"TENDER FOR SUPPLY, TAILOR AND DELIVERY OF UNIFORMS FOR NATIONAL ENVIRONMENT AGENCY",National Environment Agency,756348.2,Awarded to Suppliers,ESTA PTE. LTD.
+NEA000ETT16000097,2017-02-08,"Supply, Delivery, Installation and Commissioning of a Climate Data Management System",National Environment Agency,2783200,Awarded to Suppliers,WINSYS TECHNOLOGY PTE LTD
+NEA000ETT16000099,2016-11-29,"PROVISION OF FACILITY MANAGEMENT SERVICES FOR IT SYSTEMS,APPLICATIONS AND INFRASTRUCTURE FOR METEOROLOGICAL SERVICE SINGAPORE",National Environment Agency,7499988,Awarded to Suppliers,CTC GLOBAL PTE. LTD.
+NEA000ETT16000100,2016-09-26,Comprehensive Maintenance for Weather and Environmental Satellite Reception and Processing Systems,National Environment Agency,522800,Awarded to Suppliers,LEXICAL TECHNOLOGY PTE LTD
+NEA000ETT16000102,2016-11-11,PROVISION OF CALIBRATION AND MAINTENANCE SERVICES FOR HAZMAT DETECTION AND MONITORING EQUIPMENT,National Environment Agency,852202.5,Awarded to Suppliers,PRECISION TECHNOLOGIES PTE LTD
+NEA000ETT16000103,2017-02-17,MAINTENANCE AND OPERATION OF VOLATILE ORGANIC COMPOUNDS ANALYSER SYSTEMS,National Environment Agency,2219924,Awarded to Suppliers,PerkinElmer Singapore Pte Ltd
+NEA000ETT16000105,2016-12-02,Supply and Delivery of Pirimiphos-Methyl Insecticide,National Environment Agency,572000,Awarded to Suppliers,Agro Technic Pte Ltd
+NEA000ETT16000107,2016-10-18,Production and Delivery of Customised Collateral,National Environment Agency,16800,Awarded to Suppliers,Axxel Marketing Pte Ltd
+NEA000ETT16000107,2016-10-18,Production and Delivery of Customised Collateral,National Environment Agency,70540,Awarded to Suppliers,BEXOURCE PTE. LTD.
+NEA000ETT16000107,2016-10-18,Production and Delivery of Customised Collateral,National Environment Agency,494600,Awarded to Suppliers,HAI-OU CO. (S) PTE. LTD.
+NEA000ETT16000107,2016-10-18,Production and Delivery of Customised Collateral,National Environment Agency,36960,Awarded to Suppliers,JUST SIMPLY GIFTS PTE. LTD.
+NEA000ETT16000107,2016-10-18,Production and Delivery of Customised Collateral,National Environment Agency,61182,Awarded to Suppliers,LATITUDE EXPERIENCE PTE. LIMITED
+NEA000ETT16000108,2016-12-02,Replacement of Pneumatic Valves at Tuas Incineration Plant,National Environment Agency,101880,Awarded to Suppliers,CONSEN INTERNATIONAL OPERATIONS PTE. LTD.
+NEA000ETT16000109,2016-10-07,Consultancy Study for Life Cycle Assessment of Common Disposable Packaging Used in Singapore,National Environment Agency,43163,Awarded to Suppliers,KUA HARN WEI
+NEA000ETT16000111,2016-11-17,Supply and Delivery of Spare Parts for Landfill Equipment to Semakau Landfill,National Environment Agency,2100,Awarded to Suppliers,TATEOT 28 PROJECT & TRADING PTE LTD
+NEA000ETT16000111,2016-11-17,Supply and Delivery of Spare Parts for Landfill Equipment to Semakau Landfill,National Environment Agency,150142,Awarded to Suppliers,UMW EQUIPMENT & ENGINEERING PTE LTD
+NEA000ETT16000111,2016-11-17,Supply and Delivery of Spare Parts for Landfill Equipment to Semakau Landfill,National Environment Agency,40210,Awarded to Suppliers,Volvo East Asia (Pte) Ltd
+NEA000ETT16000112,2016-11-22,Microbiological Testing of Food and Beverage Samples,National Environment Agency,1561865,Awarded to Suppliers,TUV SUD PSB PTE. LTD.
+NEA000ETT16000113,2017-01-17,Upgrading of Air-Conditioning System at Tuas South Incineration Plant,National Environment Agency,1580000,Awarded to Suppliers,LITTLE SWAN AIR-CONDITIONING & ENGINEERING PTE. LTD.
+NEA000ETT16000114,2016-12-21,Provision of General Electrical Maintenance Services at Tuas Incineration Plant,National Environment Agency,413410,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT16000115,2016-12-06,Tender for the Provision of Lubricants and Operating Fluids,National Environment Agency,314210,Awarded to Suppliers,BARRELS N LITRES PTE. LTD.
+NEA000ETT16000115,2016-12-06,Tender for the Provision of Lubricants and Operating Fluids,National Environment Agency,265300.5,Awarded to Suppliers,U&P PTE. LTD.
+NEA000ETT16000115,2016-12-06,Tender for the Provision of Lubricants and Operating Fluids,National Environment Agency,12373,Awarded to Suppliers,UNI-PORT SERVICES PTE. LTD.
+NEA000ETT16000115,2016-12-06,Tender for the Provision of Lubricants and Operating Fluids,National Environment Agency,65395,Awarded to Suppliers,UNIGRADE TRADING PTE LTD
+NEA000ETT16000115,2016-12-06,Tender for the Provision of Lubricants and Operating Fluids,National Environment Agency,46200,Awarded to Suppliers,Victor Enterprises Pte Ltd
+NEA000ETT16000116,2016-10-06,Tender for Waste Characteristics Study,National Environment Agency,2000,Awarded to Suppliers,ADMATERIALS TECHNOLOGIES PTE. LTD.
+NEA000ETT16000116,2016-10-06,Tender for Waste Characteristics Study,National Environment Agency,46000,Awarded to Suppliers,ENSURE ENGINEERING PTE LTD
+NEA000ETT16000117,2016-12-29,Supply and Delivery of cranes spare parts to Tuas Incineration Plant,National Environment Agency,312400,Awarded to Suppliers,RYOSEI ENGINEERING PTE LTD
+NEA000ETT16000117,2016-12-29,Supply and Delivery of cranes spare parts to Tuas Incineration Plant,National Environment Agency,17652,Awarded to Suppliers,Siemens Pte Ltd
+NEA000ETT16000117,2016-12-29,Supply and Delivery of cranes spare parts to Tuas Incineration Plant,National Environment Agency,910500,Awarded to Suppliers,TOKYO SANGYO SINGAPORE PTE. LTD.
+NEA000ETT16000118,2016-11-01,Process Audit Services,National Environment Agency,99000,Awarded to Suppliers,ERNST & YOUNG ADVISORY PTE. LTD.
+NEA000ETT16000119,2017-01-03,Replacement of Boiler Tubes at Tuas South Incineration Plant,National Environment Agency,2650000,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT16000120,2017-03-06,Supply and installation of catalytic bag filters at Tuas Incineration Plant,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT16000121,2017-01-26,Supply and Installation of Incense Paper Burners at Mandai Columbarium,National Environment Agency,236000,Awarded to Suppliers,DAI-EAST INCINERATORS SINGAPORE
+NEA000ETT16000123,2016-12-29,TENDER FOR INTEGRATED FACILITIES MANAGEMENT SERVICES FOR THREE YEARS WITH AN OPTION TO EXTEND ANNUALLY FOR UP TO TWO YEARS,National Environment Agency,8992430,Awarded to Suppliers,FONDA GLOBAL ENGINEERING PTE. LTD.
+NEA000ETT16000124,2017-04-26,Services Detection at Proposed Development at Mandai,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT16000126,2017-02-02,Proposed Renovation Works To Market/Food Centre At Blk 69 Geylang Bahru,National Environment Agency,4480000,Awarded to Suppliers,ANMANI GENERAL CONSTRUCTION PTE. LTD.
+NEA000ETT16000127,2017-04-03,PROVISION FOR CENTRAL LOG MANAGEMENT SYSTEM,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT16000128,2017-02-01,Supply and Delivery of One Rough Terrain Telescopic Handler,National Environment Agency,154000,Awarded to Suppliers,MANITOU ASIA PTE LTD
+NEA000ETT16000129,2017-02-09,Supply and delivery of stoker and feeder systems spare part to Tuas South and Tuas Incineration Plant,National Environment Agency,27225000,Awarded to Suppliers,EFFEKTIV SYSTEMS SOLUTION PTE LTD
+NEA000ETT16000130,2017-01-17,Supply and Replacement of Tube Bundles for Steam Air Heater (SAH) System at Tuas South Incineration Plant,National Environment Agency,1585000,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT16000131,2017-01-25,Social Media Management Services,National Environment Agency,314000,Awarded to Suppliers,METIA PTE. LTD.
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,55505,Awarded to Suppliers,ABSOLUTE INSTRUMENT SYSTEMS (PTE.) LTD.
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,2985,Awarded to Suppliers,Achema Pte Ltd
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,1950,Awarded to Suppliers,BIOMERIEUX SINGAPORE PTE. LTD.
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,6120,Awarded to Suppliers,Chokim Scientific (S) Pte Ltd
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,900,Awarded to Suppliers,JOHNSON SCIENTIFIC EQUIPMENT COMPANY
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,1277.5,Awarded to Suppliers,SARTORIUS SINGAPORE PTE. LTD.
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,4740,Awarded to Suppliers,SILICON INSTRUMENTATION PTE LTD
+NEA000ETT16000132,2017-03-15,"Tender for the Supply, Delivery, Commissioning and Calibration of Field Equipment to the Environmental Health Institute",National Environment Agency,4215.1,Awarded to Suppliers,SKC ASIA HSE SAMPLING TECHNOLOGIES PTE. LTD.
+NEA000ETT16000133,2017-02-08,"SUPPLY, INSTALLATION AND MAINTENANCE OF CCTV AND SECURITY SYSTEMS",National Environment Agency,119417,Awarded to Suppliers,ARROWCREST TECHNOLOGIES PTE LTD
+NEA000ETT16000133,2017-02-08,"SUPPLY, INSTALLATION AND MAINTENANCE OF CCTV AND SECURITY SYSTEMS",National Environment Agency,126716,Awarded to Suppliers,CA M&E ENGINEERING PTE. LTD.
+NEA000ETT16000133,2017-02-08,"SUPPLY, INSTALLATION AND MAINTENANCE OF CCTV AND SECURITY SYSTEMS",National Environment Agency,81890.88,Awarded to Suppliers,FLAT WORLD TECHNOLOGIES INTERNATIONAL PTE. LTD.
+NEA000ETT16000134,2017-04-25,Supply and installation of lead acid batteries at Tuas Incineration Plant,National Environment Agency,261484,Awarded to Suppliers,AEG POWER SOLUTIONS PTE. LTD.
+NEA000ETT16000136,2017-01-17,Tender for the Provision of Motor Insurance Policy,National Environment Agency,132229.5,Awarded to Suppliers,MS FIRST CAPITAL INSURANCE LIMITED
+NEA000ETT16000137,2017-09-19,Provision of Rodent Surveillance Services,National Environment Agency,1600800,Awarded to Suppliers,PEST-PRO MANAGEMENT PTE. LTD.
+NEA000ETT16000139,2017-02-08,Supply and delivery of vehicles,National Environment Agency,49000,Awarded to Suppliers,TAN CHONG MOTOR SALES PTE LTD
+NEA000ETT16000139,2017-02-08,Supply and delivery of vehicles,National Environment Agency,192652,Awarded to Suppliers,Triangle Auto Pte Ltd
+NEA000ETT16000140,2017-04-18,PROVISION OF MECHANICAL SPARE PARTS FOR INCINERATION PLANTS,National Environment Agency,15192,Awarded to Suppliers,ALTONA (S) PTE. LTD.
+NEA000ETT16000140,2017-04-18,PROVISION OF MECHANICAL SPARE PARTS FOR INCINERATION PLANTS,National Environment Agency,258680,Awarded to Suppliers,Arena International Pte Ltd
+NEA000ETT16000140,2017-04-18,PROVISION OF MECHANICAL SPARE PARTS FOR INCINERATION PLANTS,National Environment Agency,1132430,Awarded to Suppliers,EFFEKTIV SYSTEMS SOLUTION PTE LTD
+NEA000ETT16000140,2017-04-18,PROVISION OF MECHANICAL SPARE PARTS FOR INCINERATION PLANTS,National Environment Agency,57372,Awarded to Suppliers,SANLI M&E ENGINEERING PTE. LTD.
+NEA000ETT16000140,2017-04-18,PROVISION OF MECHANICAL SPARE PARTS FOR INCINERATION PLANTS,National Environment Agency,109890,Awarded to Suppliers,TOSHIO (S) PTE LTD
+NEA000ETT16000140,2017-04-18,PROVISION OF MECHANICAL SPARE PARTS FOR INCINERATION PLANTS,National Environment Agency,37906,Awarded to Suppliers,VALUE VALVES PTE. LTD
+NEA000ETT16000141,2017-02-08,TENDER FOR INSPECTION OF TREES AT NEA MANAGED PREMISES,National Environment Agency,36000,Awarded to Suppliers,CSK LANDSCAPE SERVICES (S) PTE. LTD.
+NEA000ETT16000142,2017-05-19,"Tender for design, supply, installation, commissioning and maintenance of a building energy management data acquisition system",National Environment Agency,3621883,Awarded to Suppliers,CONNEXX ENERGY INC
+NEA000ETT16000143,2017-03-31,Refurbishment of Undergrate Sifting System at TSIP,National Environment Agency,9942000,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,341605,Awarded to Suppliers,ABB PTE. LTD.
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,110668.4,Awarded to Suppliers,CEE TECHNOLOGIES PTE. LTD.
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,390655,Awarded to Suppliers,CONGRUENCE INTERNATIONAL SYSTEMS PTE LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,160569,Awarded to Suppliers,EETARP ENGINEERING PTE LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,37281,Awarded to Suppliers,ELSHIN INTERNATIONAL PTE LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,43740,Awarded to Suppliers,KOREA TECH. SERVICE(S) PTE. LTD.
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,118848,Awarded to Suppliers,LEPS LOADLINK OFFSHORE PTE. LTD.
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,71033,Awarded to Suppliers,MECHANTRONIC ENGINEERING PTE LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,14782,Awarded to Suppliers,Power Automation Pte Ltd
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,134020,Awarded to Suppliers,RYOSEI ENGINEERING PTE LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,6900,Awarded to Suppliers,S.A.C. (PTE) LTD
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,5488,Awarded to Suppliers,Siemens Pte Ltd
+NEA000ETT16000144,2017-05-31,SUPPLY AND DELIVERY OF SPARE PARTS AND ACCESSORIES FOR ELECTRICAL EQUIPMENT,National Environment Agency,23675,Awarded to Suppliers,TATEOT 28 PROJECT & TRADING PTE LTD
+NEA000ETT16000145,2017-02-06,"Conceptualisation, Design And Production Of Educational Materials & Provision Of Event Management Services For Foreign Worker Roadshows",National Environment Agency,1702406,Awarded to Suppliers,FIRST WAVE PTE. LTD.
+NEA000ETT16000146,2017-02-17,Proposed Renovation to Food Centre and Repair & Redecoration to Car Park including Rectification of Sanitary Lines at Blk 163 Bukit Merah Central,National Environment Agency,2980300,Awarded to Suppliers,KOON SENG CONSTRUCTION PTE LTD
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,32605,Awarded to Suppliers,Achema Pte Ltd
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,68000,Awarded to Suppliers,Analytical Technologies Pte Ltd
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,700,Awarded to Suppliers,Chokim Scientific (S) Pte Ltd
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,7720,Awarded to Suppliers,DKSH TECHNOLOGY PTE. LTD.
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,25018,Awarded to Suppliers,FISHER SCIENTIFIC PTE LTD
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,18500,Awarded to Suppliers,ITS Science & Medical Pte Ltd
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,22000,Awarded to Suppliers,LMS TECHNOLOGIES PTE LTD
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,3207.9,Awarded to Suppliers,MULTI-FLOW ENGINEERING SERVICES PTE LTD
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,36310,Awarded to Suppliers,SARTORIUS SINGAPORE PTE. LTD.
+NEA000ETT16000147,2017-03-27,"Tender for the supply, delivery, installation and commissioning of laboratory equipment",National Environment Agency,82137,Awarded to Suppliers,Scientific Resources Pte Ltd
+NEA000ETT16000148,2017-02-03,Lease of Food Waste Recycling Machines and Training Services in Schools,National Environment Agency,234930,Awarded to Suppliers,BOON POH REFUSE DISPOSAL PTE. LTD.
+NEA000ETT16000150,2017-04-11,Vector Control Services in South-Eastern Singapore Zone 2,National Environment Agency,3659173.06,Awarded to Suppliers,PEST-PRO MANAGEMENT PTE. LTD.
+NEA000ETT16000154,2017-02-07,Tender for Supply and Delivery of Vehicle,National Environment Agency,60000,Awarded to Suppliers,BESTLINK AUTO PTE LTD
+NEA000ETT16000155,2017-04-27,Comprehensive Maintenance of X/L Band Environmental Satellite Reception Ground Station,National Environment Agency,792800,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT16000156,2017-05-12,Tender for Relocation of Columbarium Niches,National Environment Agency,1377180,Awarded to Suppliers,SLS 518 PTE. LTD.
+NEA000ETT17000003,2017-03-14,Tender for Provision of Traffic Management Services,National Environment Agency,249469.5,Awarded to Suppliers,STANDARD SECURITY & INVESTIGATION SERVICES PTE LTD
+NEA000ETT17000004,2017-03-16,The Design of Layout And Publication Of Recruitment Advertisements In Local Papers,National Environment Agency,223020,Awarded to Suppliers,LINS ADVERTISING & MARKETING PTE LTD
+NEA000ETT17000007,2017-06-06,"To Supply, Install, Configure, Test, Implement And Maintain Enterprise Assets Management System (EAMS)",National Environment Agency,487847,Awarded to Suppliers,MYASSET PTE. LTD.
+NEA000ETT17000008,2017-06-19,"Tender for Design, Supply and Installation of Cremators and Automated Guided Vehicles at Mandai Crematoria",National Environment Agency,16288000,Awarded to Suppliers,"TAIYO CHIKURO INDUSTRIES CO, LTD. (SINGAPORE BRANCH)"
+NEA000ETT17000009,2017-04-05,Tender For The Operation And Maintenance Of The Leachate Treatment Plant At The Closed Tampines Dumping Ground,National Environment Agency,491245,Awarded to Suppliers,ADVANT ENGINEERING PTE. LTD.
+NEA000ETT17000011,2017-04-26,Trial Of Odour Measuring Instruments For Cooking Exhaust,National Environment Agency,178000,Awarded to Suppliers,Crosstek Pte. Ltd.
+NEA000ETT17000012,2017-07-24,Supply and Replacement of Rails for Crane Systems at Tuas South Incineration Plant,National Environment Agency,6877000,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT17000013,2017-06-02,Exhumation of Choa Chu Kang Cemetery Phase 5,National Environment Agency,1337077,Awarded to Suppliers,HOE ANN GRANITE INDUSTRIAL CONSTRUCTION
+NEA000ETT17000015,2017-07-09,"Proposed Redevelopment of Choa Chu Kang Cemetery (N-1-17A, N-1-17B (1), N-1-19A and N-1-19B)",National Environment Agency,18000000,Awarded to Suppliers,CHYE JOO CONSTRUCTION PTE LTD
+NEA000ETT17000016,2017-04-20,Tender for Counter Services,National Environment Agency,995700,Awarded to Suppliers,SINGAPORE POST LIMITED
+NEA000ETT17000018,2017-06-02,Provision Of Survey Services,National Environment Agency,160650,Awarded to Suppliers,KT BUSINESS (R) PTE. LTD.
+NEA000ETT17000020,2017-07-11,Supply and Delivery of Bacillus Thuringiensis Israelensis (BTI),National Environment Agency,135000,Awarded to Suppliers,BEST CHEMICAL CO (S) PTE LTD
+NEA000ETT17000020,2017-07-11,Supply and Delivery of Bacillus Thuringiensis Israelensis (BTI),National Environment Agency,100500,Awarded to Suppliers,SUMITOMO CHEMICAL ASIA PTE. LTD.
+NEA000ETT17000021,2017-06-09,Management of New Hawker Centre (Yishun),National Environment Agency,7629800.04,Awarded to Suppliers,TIMBRE GROUP PTE. LTD.
+NEA000ETT17000022,2017-06-27,Provision of Integrated Cleaning Works,National Environment Agency,30329036.52,Awarded to Suppliers,CHANG SENG SERVICES PTE LTD
+NEA000ETT17000022,2017-06-27,Provision of Integrated Cleaning Works,National Environment Agency,48854711.8,Awarded to Suppliers,CLEAN SOLUTIONS PTE LTD
+NEA000ETT17000023,2017-06-06,Provision of Laboratory Analytical Services and Sampling for Coastal Water Quality Assessment,National Environment Agency,80600,Awarded to Suppliers,MARCHWOOD LABORATORY SERVICES PTE. LTD.
+NEA000ETT17000024,2017-05-29,Supply and Installation of Parking Systems,National Environment Agency,361700,Awarded to Suppliers,SUN SINGAPORE SYSTEMS PTE. LTD.
+NEA000ETT17000026,2017-09-25,Replacement of Flue Gas Analysers at Tuas Incineration Plant,National Environment Agency,647020,Awarded to Suppliers,Procems Asia-Pacific Pte Ltd
+NEA000ETT17000027,2017-05-03,Event Planning and Management for the National Energy Efficiency Conference 2017,National Environment Agency,295150,Awarded to Suppliers,TWIST MEDIA PTE. LTD.
+NEA000ETT17000028,2017-06-08,Relocation of Cremators,National Environment Agency,2173750,Awarded to Suppliers,Echelon Engineering Pte. Ltd.
+NEA000ETT17000029,2017-04-24,Media Monitoring Services for a Period of One Year and with the Option to Renew for Another One Year,National Environment Agency,141000,Awarded to Suppliers,IMPACT! MEDIA MONITORING LLP
+NEA000ETT17000030,2017-07-20,Management Of New Hawker Centre (Jurong West),National Environment Agency,3335580,Awarded to Suppliers,HAWKER MANAGEMENT PTE. LTD.
+NEA000ETT17000031,2017-11-10,"To supply, Implement and Maintain Audit Workflow Management System (AWMS)",National Environment Agency,126300,Awarded to Suppliers,AUDITIME PTE. LTD.
+NEA000ETT17000032,2017-07-17,Subscription To Two Internet Links For Meteorological Service Singapore,National Environment Agency,264747,Awarded to Suppliers,SINGAPORE TELECOMMUNICATIONS LIMITED
+NEA000ETT17000033,2017-07-04,Servicing and Maintenance of Air-Conditioning Systems at Tuas Incineration Plant and Tuas South Incineration Plant,National Environment Agency,595800,Awarded to Suppliers,INNOFLEX PTE. LTD.
+NEA000ETT17000034,2017-07-27,Provision of Repairs & Redecoration (R&R) Works,National Environment Agency,486500,Awarded to Suppliers,GIMI INTERNATIONAL PTE. LTD.
+NEA000ETT17000034,2017-07-27,Provision of Repairs & Redecoration (R&R) Works,National Environment Agency,638900,Awarded to Suppliers,SUCCESS FOREVER CONSTRUCTION & MAINTENANCE PTE LTD
+NEA000ETT17000037,2017-05-23,Tender for Event Management Services for Packaging Conference and Awards Ceremony,National Environment Agency,87715,Awarded to Suppliers,FIRST WAVE PTE. LTD.
+NEA000ETT17000038,2017-05-30,Tender For Supply And Delivery Of Personnel Protective Equipment (PPES) And Accessories,National Environment Agency,17304,Awarded to Suppliers,AVEC CHEM ASIA PACIFIC PTE. LTD.
+NEA000ETT17000038,2017-05-30,Tender For Supply And Delivery Of Personnel Protective Equipment (PPES) And Accessories,National Environment Agency,200200,Awarded to Suppliers,Unicorn International Pte Limited
+NEA000ETT17000039,2017-08-08,Vector Control Services in Central Singapore Zone 2,National Environment Agency,6174600,Awarded to Suppliers,VERMINATOR PTE. LTD.
+NEA000ETT17000040,2017-09-27,Vector Control Services in North-Western Singapore,National Environment Agency,4307575,Awarded to Suppliers,STAR PEST CONTROL PTE LTD
+NEA000ETT17000040,2017-09-27,Vector Control Services in North-Western Singapore,National Environment Agency,3223200,Awarded to Suppliers,VERMINATOR PTE. LTD.
+NEA000ETT17000041,2017-05-24,Provision of Characterisation and Leaching Services,National Environment Agency,293100,Awarded to Suppliers,MARCHWOOD LABORATORY SERVICES PTE. LTD.
+NEA000ETT17000044,2017-11-08,"The Provision of Application Development, Maintenance And Support Services for an Environmental Enforcement Management System Revamp for National Environment Agency",National Environment Agency,6584081.39,Awarded to Suppliers,NEC ASIA PACIFIC PTE. LTD.
+NEA000ETT17000045,2017-12-11,"Provision Of Application Development, Maintenance And Support Services For A Waste And Resource Management Application System For National Environment Agency",National Environment Agency,11592562,Awarded to Suppliers,ECQUARIA TECHNOLOGIES PTE LTD
+NEA000ETT17000047,2017-05-25,Maintenance and Repair of Water Quality Monitoring System,National Environment Agency,119085,Awarded to Suppliers,WINSYS TECHNOLOGY PTE LTD
+NEA000ETT17000048,2017-11-24,Contract for Cleaning Services,National Environment Agency,582800,Awarded to Suppliers,CHYE THIAM MAINTENANCE PTE LTD
+NEA000ETT17000049,2017-08-08,Vector Control Services in North-Eastern Singapore,National Environment Agency,3547440,Awarded to Suppliers,KILLEM PEST PTE LTD
+NEA000ETT17000050,2017-08-18,Vector Control Services in South-Western Singapore,National Environment Agency,4330100,Awarded to Suppliers,KILLEM PEST PTE LTD
+NEA000ETT17000051,2017-08-23,"Supply, Delivery, Installation and Commissioning of Water Monitoring Equipment",National Environment Agency,495844,Awarded to Suppliers,ECO FIELD SERVICES PTE. LTD.
+NEA000ETT17000052,2017-09-22,Provision Of Document Digitisation Services,National Environment Agency,65765,Awarded to Suppliers,RMA CONTRACTS PTE. LTD.
+NEA000ETT17000054,2017-08-17,Radiofrequency Baseline Measurement,National Environment Agency,374000,Awarded to Suppliers,ROHDE & SCHWARZ REGIONAL HEADQUARTERS SINGAPORE PTE. LTD.
+NEA000ETT17000055,2017-11-02,"Multi-Disciplinary Consultancy Services (Civil & Structural, Mechanical & Electrical And Quantity Surveying) For The Development Of The Integrated Waste Management Facility",National Environment Agency,103888000,Awarded to Suppliers,BLACK & VEATCH (SEA) PTE. LTD.
+NEA000ETT17000057,2017-07-25,"Grass-cutting, Horticulture and Landscaping Services for NEA",National Environment Agency,1976605.5,Awarded to Suppliers,KIM BOCK CONTRACTOR PRIVATE LIMITED
+NEA000ETT17000057,2017-07-25,"Grass-cutting, Horticulture and Landscaping Services for NEA",National Environment Agency,623520,Awarded to Suppliers,PRINCE'S LANDSCAPE AND CONSTRUCTION PTE LTD
+NEA000ETT17000057,2017-07-25,"Grass-cutting, Horticulture and Landscaping Services for NEA",National Environment Agency,581175,Awarded to Suppliers,YONG AIK CONSTRUCTION PTE LTD
+NEA000ETT17000058,2017-08-29,Geo-Environmental and Geo-Technical Study for Sarimbun Recycling Park,National Environment Agency,558850,Awarded to Suppliers,AECOM SINGAPORE PTE. LTD.
+NEA000ETT17000060,2017-09-21,Vector Control Services in Central Singapore Zone 1,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT17000062,2017-08-07,Supply and Delivery of Hydrated Lime Powder / Sodium Bicarbonate to Incineration Plants.,National Environment Agency,16250000,Awarded to Suppliers,LHOIST SG PTE. LTD.
+NEA000ETT17000063,2017-09-21,Tender for provision of flue gas treatment system at Tuas Incineration Plant,National Environment Agency,4894848,Awarded to Suppliers,W.L. GORE & ASSOCIATES (PACIFIC) PTE LTD
+NEA000ETT17000064,2017-08-08,Supplementary Ad Hoc Flushing of Public Drains,National Environment Agency,986565,Awarded to Suppliers,NEO LIAN POH CONSTRUCTION PTE LTD
+NEA000ETT17000065,2017-09-28,Tender for the supply of decontamination equipment and detection equipment for hazmat response,National Environment Agency,68200,Awarded to Suppliers,NDT INSTRUMENTS PTE LTD
+NEA000ETT17000065,2017-09-28,Tender for the supply of decontamination equipment and detection equipment for hazmat response,National Environment Agency,56240,Awarded to Suppliers,O'Connor's Singapore Pte Ltd
+NEA000ETT17000065,2017-09-28,Tender for the supply of decontamination equipment and detection equipment for hazmat response,National Environment Agency,154620,Awarded to Suppliers,PRECISION TECHNOLOGIES PTE LTD
+NEA000ETT17000065,2017-09-28,Tender for the supply of decontamination equipment and detection equipment for hazmat response,National Environment Agency,30980,Awarded to Suppliers,QT Instruments (S) Pte Ltd
+NEA000ETT17000065,2017-09-28,Tender for the supply of decontamination equipment and detection equipment for hazmat response,National Environment Agency,68480,Awarded to Suppliers,SECOM (SINGAPORE) PTE LTD
+NEA000ETT17000065,2017-09-28,Tender for the supply of decontamination equipment and detection equipment for hazmat response,National Environment Agency,65000,Awarded to Suppliers,Zenith Engineering Pte Ltd
+NEA000ETT17000067,2017-12-11,"Provision Of Application Development, Maintenance And Support Service For National Environment Agency (NEA) OneStopService Portal (EPORTAL)",National Environment Agency,6521069.35,Awarded to Suppliers,XTREMAX PTE. LTD.
+NEA000ETT17000073,2017-09-22,Advance Package for Proposed Development at Mandai,National Environment Agency,6970000,Awarded to Suppliers,PAL-LINK CONSTRUCTION PTE. LTD.
+NEA000ETT17000075,2017-10-25,Tender for Instrumentation and Monitoring Works for Proposed Development at Mandai,National Environment Agency,389083,Awarded to Suppliers,RYOBI GEOTECHNIQUE INTERNATIONAL PTE. LTD.
+NEA000ETT17000076,2017-08-11,Content Rewriting & Copy Editing and Search Engine Optimisation (SEO) Keyword Research & Recommendation Services for NEA Corporate Website & Haze Microsite,National Environment Agency,43800,Awarded to Suppliers,INKSPIRE GROUP LLP
+NEA000ETT17000078,2017-12-11,"For Provision of Upgrade, Development, Delivery, Installation, Testing, Commissioning and Maintenance of Customer Relationship Management System for National Environment Agency",National Environment Agency,6899172,Awarded to Suppliers,HCL SINGAPORE PTE. LTD.
+NEA000ETT17000079,2017-10-05,Supply and delivery of landfill equipment to Semakau Landfill,National Environment Agency,279980,Awarded to Suppliers,JPN INDUSTRIAL TRADING PTE LTD
+NEA000ETT17000079,2017-10-05,Supply and delivery of landfill equipment to Semakau Landfill,National Environment Agency,758000,Awarded to Suppliers,Tractors Singapore Limited
+NEA000ETT17000083,2017-07-31,Minor Alteration Works at Office Premises,National Environment Agency,69995,Awarded to Suppliers,ATHENA CONCEPTS PTE. LTD.
+NEA000ETT17000086,2017-09-19,IBM Software Subscription For Analytics Research Platform,National Environment Agency,261895.44,Awarded to Suppliers,S & I Systems Pte Ltd
+NEA000ETT17000087,2017-08-29,Tender for supply and delivery of twin cab lorry,National Environment Agency,0,Awarded to No Suppliers,na
+NEA000ETT17000089,2017-11-16,Tender for financial consultancy services to support the Integrated Waste Management Facility project,National Environment Agency,308000,Awarded to Suppliers,ERNST & YOUNG SOLUTIONS LLP
+NEA000ETT17000090,2017-09-14,"Provision Of Transport Services For Tuas South Incineration Plant, Tuas Marine Transfer Station And Tuas Incineration Plant",National Environment Agency,333312,Awarded to Suppliers,SUN-GEE TRAVEL PTE LTD
+NEA000ETT17000091,2017-08-28,PROVISION OF FINANCIAL CONSULTANCY SERVICES FOR THE DEVELOPMENT OF A PROPOSED DISTRICT PNEUMATIC WASTE CONVEYANCE SYSTEM,National Environment Agency,118000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+NEA000ETT17000092,2017-11-06,Soil investigation study and assessment of specific plot Of land,National Environment Agency,142800,Awarded to Suppliers,WITTEVEEN+BOS SOUTH-EAST ASIA PTE. LTD.
+NEA000ETT17300001,2017-11-08,Refurbishment of Ash Discharge Systems at Tuas Incineration Plant,National Environment Agency,5427205,Awarded to Suppliers,BRYAN BOILER ENGINEERING PTE LTD
+NEA000ETT17300002,2017-11-07,Provision of hardware maintenance for network equipment for National Environment Agency,National Environment Agency,263690.4,Awarded to Suppliers,NEC ASIA PACIFIC PTE. LTD.
+NEA000ETT17300006,2017-11-17,Supply and delivery of spare parts for landfill equipment to Semakau Landfill,National Environment Agency,124887,Awarded by Items,MECHANTRONIC ENGINEERING PTE LTD
+NEA000ETT17300006,2017-11-17,Supply and delivery of spare parts for landfill equipment to Semakau Landfill,National Environment Agency,133520,Awarded by Items,UMW EQUIPMENT & ENGINEERING PTE LTD
+NEA000ETT17300006,2017-11-17,Supply and delivery of spare parts for landfill equipment to Semakau Landfill,National Environment Agency,130100,Awarded by Items,Volvo East Asia (Pte) Ltd
+NEA000ETT17300007,2017-10-27,Provision of General Electrical Maintenance Services to Tuas South Incineration Plant,National Environment Agency,588050,Awarded to Suppliers,Digo Corporation Pte Ltd
+NEA000ETT17300012,2017-11-21,Supply and Installation of Bus Duct System at Tuas South Incineration Plant,National Environment Agency,1238000,Awarded to Suppliers,KOYO ENGINEERING (S.E. ASIA) PTE. LTD.
+NEA000ETT17300013,2017-10-10,Supply and Delivery of Liquefied Petroleum Gas,National Environment Agency,821522.2,Awarded to Suppliers,WLPG
+NEA000ETT17300014,2017-11-16,Servicing and Testing of High and Medium Voltage Switchgears and Transformers at Tuas South Incineration Plant,National Environment Agency,2123275,Awarded to Suppliers,ABB PTE. LTD.
+NEA000ETT17300016,2017-10-17,Comprehensive Maintenance for the Seismic System,National Environment Agency,273600,Awarded to Suppliers,SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED
+NEA000ETT17300017,2017-11-29,Maintenance of Boilers and Auxiliary Equipment at Tuas Incineration Plant,National Environment Agency,4800000,Awarded to Suppliers,JEL MAINTENANCE PTE LTD
+NEA000ETT17300019,2017-12-12,"Knowledge, Attitudes and Practices (KAP) Survey 2018",National Environment Agency,89250,Awarded to Suppliers,Q RESEARCH CONSULTING LLP
+NEA000ETT17300020,2017-11-21,Tender for Provision of Renovation Works at Neythal Facility,National Environment Agency,142255,Awarded to Suppliers,LUFT ENV TECHNOLOGIES PTE. LTD.
+NEA000ETT17300022,2017-12-13,Renovation of new office space,National Environment Agency,721485.98,Awarded to Suppliers,D' PERCEPTION SINGAPORE PTE. LTD.
+NEA000ETT17300023,2017-10-27,Provision Of System Software Support And Maintenance Services For NEA,National Environment Agency,323698,Awarded to Suppliers,ATOS INFORMATION TECHNOLOGY (SINGAPORE) PTE. LTD.
+NEA000ETT17300027,2017-12-05,Development of Third-Party Verification and Accreditation (V&A) Requirements to Support The Implementation of Singapore's Carbon Pricing Scheme,National Environment Agency,148850,Awarded to Suppliers,PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD.
+NEA000ETT17300028,2017-11-09,"Supply, Delivery, Installation and Commissioning of Air Monitoring Equipment",National Environment Agency,177182,Awarded by Items,ANSAC TECHNOLOGY (S) PTE LTD
+NEA000ETT17300028,2017-11-09,"Supply, Delivery, Installation and Commissioning of Air Monitoring Equipment",National Environment Agency,320910,Awarded by Items,FYH INTEGRATED PTE. LTD.
+NEA000ETT17300029,2017-12-22,Provision Of Various Classes Of General Insurance Coverage For The National Environment Agency For A Period Of Two (2) Years With An Option To Extend For A Further Period Of Two (2) Years,National Environment Agency,1351671.61,Awarded by Items,AXA INSURANCE PTE. LTD.
+NEA000ETT17300029,2017-12-22,Provision Of Various Classes Of General Insurance Coverage For The National Environment Agency For A Period Of Two (2) Years With An Option To Extend For A Further Period Of Two (2) Years,National Environment Agency,204817.34,Awarded by Items,MS FIRST CAPITAL INSURANCE LIMITED
+NEA000ETT17300030,2017-11-15,"Security Services at Semakau Landfill, Tuas Marine Transfer Station, Tuas South Incineration Plant & Tuas Incineration Plant",National Environment Agency,3139200,Awarded to Suppliers,New-E Security Pte Ltd
+NEA000ETT17300031,2017-11-28,(l) Daily Conservancy of Choa Chu Kang Columbarium and Choa Chu Kang Crematorium (ll) Conservancy of Choa Chu Kang Cemeteries and Choa Chu Kang Columbarium during Special Festivals,National Environment Agency,3117600,Awarded to Suppliers,CSP MAINTENANCE PTE LTD
+NEA000ETT17300032,2017-12-08,Proposed Mechanical Ventilation Works to Food Centre at Blocks 79 and 79A Circuit Road,National Environment Agency,634000,Awarded to Suppliers,LITTLE SWAN AIR-CONDITIONING & ENGINEERING PTE. LTD.
+NEA000ETT17300033,2017-12-18,Production and Delivery of Collateral,National Environment Agency,60400,Awarded by Items,BIZLINK CENTRE SINGAPORE LTD
+NEA000ETT17300033,2017-12-18,Production and Delivery of Collateral,National Environment Agency,121200,Awarded by Items,CINDI CLASSIQUE PTE LTD
+NEA000ETT17300033,2017-12-18,Production and Delivery of Collateral,National Environment Agency,68000,Awarded by Items,FG CONCEPTS PRIVATE LIMITED
+NEA000ETT17300033,2017-12-18,Production and Delivery of Collateral,National Environment Agency,8400,Awarded by Items,HAI-OU CO. (S) PTE. LTD.
+NEA000ETT17300033,2017-12-18,Production and Delivery of Collateral,National Environment Agency,46000,Awarded by Items,IDERIKT FISSION PTE. LTD.
+NEA000ETT17300033,2017-12-18,Production and Delivery of Collateral,National Environment Agency,14700,Awarded by Items,LATITUDE EXPERIENCE PTE. LIMITED
+NEA000ETT17300034,2017-11-17,"Supply, Delivery, Installation and Commissioning of Air Monitoring Station",National Environment Agency,112000,Awarded to Suppliers,FYH INTEGRATED PTE. LTD.
+NEA000ETT17300037,2017-12-19,Tender for Repainting Works at National Environment Agency's Installations,National Environment Agency,138800,Awarded to Suppliers,LHW CONSTRUCTION PTE. LTD.
+NEA000ETT17300040,2017-12-11,Process Audit Services,National Environment Agency,67000,Awarded to Suppliers,KPMG SERVICES PTE. LTD.
+NEA000ETT17300041,2017-12-18,Provision of Characterisation and Leaching Services for Materials,National Environment Agency,1800,Awarded by Items,ALS TECHNICHEM (SINGAPORE) PTE LTD
+NEA000ETT17300041,2017-12-18,Provision of Characterisation and Leaching Services for Materials,National Environment Agency,355200,Awarded by Items,MARCHWOOD LABORATORY SERVICES PTE. LTD.
+NEA000ETT17300049,2017-12-19,The Maintenance Work At The Closed Tampines Dumping Ground,National Environment Agency,205930,Awarded to Suppliers,FELICITY ENGINEERING PTE LTD
