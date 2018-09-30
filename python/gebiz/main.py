@@ -85,28 +85,42 @@ def main():
             errorDialog(self)
 
         def f3sortData(order):
+
             f3sortedData = function3.sortTotalAward(order)
             sortDataWindow = Tk()
-            sortDataFrame = newFrame(sortDataWindow,2,2)
-            sortDataFrame.rowconfigure(0, weight=1)
-            sortDataFrame.columnconfigure(0, weight=1)
-            sortDataFrame.columnconfigure(1, weight=1)
+            #sortDataFrame = newFrame(sortDataWindow,2,2)
+            def create_treeview(parent):
+                f = newFrame(sortDataWindow,2,2)
+                f.pack(side=TOP, fill=BOTH, expand=Y)
+                
+                # create the tree and scrollbars
+                dataCols = ('Agency', 'Total Spending')        
+                tree = ttk.Treeview(f,columns=dataCols,show = 'headings',selectmode='none')
+                
+                ysb = ttk.Scrollbar(f,orient=VERTICAL, command= tree.yview)
+                tree['yscroll'] = ysb.set
+                
+                # add tree and scrollbars to frame
+                tree.grid(row=0, column=0, sticky=NSEW)
+                ysb.grid(row=0, column=1, sticky=NS)
+                
+                # set frame resize priorities
+                f.rowconfigure(0, weight=1)
+                f.columnconfigure(0, weight=1)
 
-            data = Listbox(sortDataFrame)
-            scrollbar = Scrollbar(data, orient=VERTICAL)
-            for i in range(len(f3sortedData)):
-                row = "%-80s | %10.2f" % (f3sortedData[i][0], float(f3sortedData[i][1]))
-                print row
-                data.insert(END,row)
-            data.config(yscrollcommand=scrollbar.set)
-            scrollbar.config(command=data.yview)
+                # configure column headings
+                for c in dataCols:
+                    tree.heading(c, text=c.title())            
+                    
+                # add data to the tree 
+                for item in f3sortedData: 
+                    tree.insert('', 'end', values=item)
+            
+            popup = create_treeview(sortDataWindow)
+            sortDataWindow.protocol("WM_DELETE_WINDOW", sortDataWindow.destroy)
 
-            #Use tkGrid
-            data.grid(row=0, column=0,columnspan=2, sticky=N+E+S+W)
-            data.columnconfigure(0, weight=1)
-            data.rowconfigure(0,weight=1)
-            #Use TkGrid
-            scrollbar.grid(row=0,column=2, sticky=N+S)
+            sortDataWindow.mainloop()
+
 
 
             '''
@@ -121,7 +135,6 @@ def main():
             scrollbar.config(command=listbox.yview)
             '''
 
-            sortDataFrame.mainloop()
         
 
         landingFrame.destroy()

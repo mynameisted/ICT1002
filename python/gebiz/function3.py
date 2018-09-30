@@ -14,7 +14,7 @@ def sortTotalAward(sortOrder="asc"):
 			#Add each awarded amount to get the cumulative total spending for the agency
 			totalSpending += float(generalFunctions.gebizData[agency][row]['awarded_amt'])
 		#Format total spending to 2 decimal point precision and append into dictionary
-		agencyTotalSpending[agency] = format(totalSpending, '.2f')
+		agencyTotalSpending[agency] = float(format(totalSpending, '.2f'))
 	#Do a 1 time sort of the dictionary into a list of tuples.
 	sortedSpending = sorted(agencyTotalSpending.items(), key=lambda k:k[1])
 	if sortOrder == 'asc':
