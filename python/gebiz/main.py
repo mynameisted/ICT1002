@@ -83,18 +83,63 @@ def main():
             f2splitAgencies = function2.sortGovAgency(generalFunctions.selectedFile['path'])
         except:
             errorDialog(self)
+
+        def f3sortData(order):
+            f3sortedData = function3.sortTotalAward(order)
+            sortDataWindow = Tk()
+            sortDataFrame = newFrame(sortDataWindow,2,2)
+            sortDataFrame.rowconfigure(0, weight=1)
+            sortDataFrame.columnconfigure(0, weight=1)
+            sortDataFrame.columnconfigure(1, weight=1)
+
+            data = Listbox(sortDataFrame)
+            scrollbar = Scrollbar(data, orient=VERTICAL)
+            for i in range(len(f3sortedData)):
+                row = "%-80s | %10.2f" % (f3sortedData[i][0], float(f3sortedData[i][1]))
+                print row
+                data.insert(END,row)
+            data.config(yscrollcommand=scrollbar.set)
+            scrollbar.config(command=data.yview)
+
+            #Use tkGrid
+            data.grid(row=0, column=0,columnspan=2, sticky=N+E+S+W)
+            data.columnconfigure(0, weight=1)
+            data.rowconfigure(0,weight=1)
+            #Use TkGrid
+            scrollbar.grid(row=0,column=2, sticky=N+S)
+
+
+            '''
+            scrollbar = Scrollbar(sortDataFrame)
+            scrollbar.grid(sortDataFrame,row=0,column=1,rowspan=2)
+            listbox = Listbox(sortDataFrame)
+            listbox.grid(sortDataFrame,row=0,column=0,rowspan=2)
+            for i in range(len(f3sortedData)):
+                listbox.insert(END,f3sortedData[i])
+            # bind listbox to scrollbar
+            listbox.config(yscrollcommand=scrollbar.set)
+            scrollbar.config(command=listbox.yview)
+            '''
+
+            sortDataFrame.mainloop()
+        
+
         landingFrame.destroy()
         frame2 = newFrame(tkWindow,2,2)
         frame2.grid_columnconfigure(0, weight=1)
-        frame2.grid_columnconfigure(1, weight=1)
+        frame2.grid_columnconfigure(3, weight=1)
+#        frame2.grid_columnconfigure(2, weight=1)
         #dataSet = tkLabel(frame2,"Total Agencies: "+str(len(f2splitAgencies['agencies'])))
         #tkGrid(dataSet,0,0,3)
         headerMsg = tkLabel(frame2,"View spending by Agency")
-        tkGrid(headerMsg,0,0,2)
+        tkGrid(headerMsg,0,0)
         sortAsc = tkLabel(frame2,"Sort Ascending",'blue')
-        tkGrid(sortAsc,1,0)
+        tkGrid(sortAsc,0,1)
+        sortAsc.bind("<Button-1>", lambda x: f3sortData("asc"))
         sortDsc = tkLabel(frame2,"Sort Descending",'blue')
-        tkGrid(sortDsc,1,1)
+        tkGrid(sortDsc,0,2)
+        sortDsc.bind("<Button-1>", lambda x: f3sortData("desc"))
+
 
     tkWindow = Tk()
     landingFrame = newFrame(tkWindow,2,2)
