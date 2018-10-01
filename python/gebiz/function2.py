@@ -39,4 +39,3 @@ def sortGovAgency(path):
     gFile.close()
     oFile.close()
     return {'dir': newFolder, 'agencies': dAgency, 'filetype': fType}
-
