@@ -27,6 +27,3 @@ def elfish(str1,e=False,l=False,f=False):
             f = True
         return str1[0] + elfish(str1[1:],e,l,f)
 print elfish(passedValue)
-
-
-
