@@ -48,22 +48,23 @@ def tkGrid(target,r,c=None,cs=None,padx="5",pady="5",ipadx="10",ipady="5",sticky
     else:
         target.grid(row=r,column=c,columnspan=cs,padx=padx,pady=pady,ipadx=ipadx,ipady=ipady)
 
+#Error Popup Window
+def errorDialog(self):
+    tkError = Tk()
+    error_window = newFrame(tkError,5,5)
+    error_window.grid_columnconfigure(0, weight=1)
+    error_window.grid_rowconfigure(0, weight=1)
+    error_window.grid_rowconfigure(1, weight=1)
+    errorMsg = tkLabel(error_window,"Unexpected Error Encountered!\nPlease try again later!")
+    tkGrid(errorMsg,0,0)
+    exitBtn = tkLabel(error_window,"Exit Program","red")
+    tkGrid(exitBtn,1,0)
+    exitBtn.bind("<Button-1>", generalFunctions.quit)
+    tkError.protocol("WM_DELETE_WINDOW", generalFunctions.quit)
+    error_window.mainloop()
 #Main Window
 def main():
-    #Error Popup Window
-    def errorDialog(self):
-        tkError = Tk()
-        error_window = newFrame(tkError,5,5)
-        error_window.grid_columnconfigure(0, weight=1)
-        error_window.grid_rowconfigure(0, weight=1)
-        error_window.grid_rowconfigure(1, weight=1)
-        errorMsg = tkLabel(error_window,"Unexpected Error Encountered!\nPlease try again later!")
-        tkGrid(errorMsg,0,0)
-        exitBtn = tkLabel(error_window,"Exit Program","red")
-        tkGrid(exitBtn,1,0)
-        exitBtn.bind("<Button-1>", generalFunctions.quit)
-        tkError.protocol("WM_DELETE_WINDOW", generalFunctions.quit)
-        error_window.mainloop()
+    
 
     def f1chooseCSV(self):
         f1chosenFile = function1.selectFile()
@@ -78,80 +79,56 @@ def main():
             processFileBtn = tkLabel(landingFrame,"Process File","blue")
             processFileBtn.bind("<Button-1>", f2processCSV)
             tkGrid(processFileBtn,r=3,c=1,sticky="EW")
+        return f1chosenFile
     def f2processCSV(self):
         try:
             f2splitAgencies = function2.sortGovAgency(generalFunctions.selectedFile['path'])
+            landingFrame.destroy()
+            frame2 = newFrame(tkWindow,2,2)
+            frame2.grid_columnconfigure(0, weight=1)
+            frame2.grid_columnconfigure(3, weight=1)
+    #        frame2.grid_columnconfigure(2, weight=1)
+            #dataSet = tkLabel(frame2,"Total Agencies: "+str(len(f2splitAgencies['agencies'])))
+            #tkGrid(dataSet,0,0,3)
+            headerMsg = tkLabel(frame2,"View spending by Agency")
+            tkGrid(headerMsg,0,0, pady=(20,0))
+            sortAsc = tkLabel(frame2,"Sort Ascending",'blue')
+            tkGrid(sortAsc,0,1,pady=(20,0))
+            sortAsc.bind("<Button-1>", lambda x: f3sortData(generalFunctions.gebizData,"asc"))
+            sortDsc = tkLabel(frame2,"Sort Descending",'blue')
+            tkGrid(sortDsc,0,2,pady=(20,0))
+            sortDsc.bind("<Button-1>", lambda x: f3sortData(generalFunctions.gebizData,"desc"))
         except:
             errorDialog(self)
 
-        def f3sortData(order):
-
-            f3sortedData = function3.sortTotalAward(order)
-            sortDataWindow = Tk()
-            #sortDataFrame = newFrame(sortDataWindow,2,2)
-            def create_treeview(parent):
-                f = newFrame(sortDataWindow,2,2)
-                f.pack(side=TOP, fill=BOTH, expand=Y)
-                
-                # create the tree and scrollbars
-                dataCols = ('Agency', 'Total Spending')        
-                tree = ttk.Treeview(f,columns=dataCols,show = 'headings',selectmode='none')
-                
-                ysb = ttk.Scrollbar(f,orient=VERTICAL, command= tree.yview)
-                tree['yscroll'] = ysb.set
-                
-                # add tree and scrollbars to frame
-                tree.grid(row=0, column=0, sticky=NSEW)
-                ysb.grid(row=0, column=1, sticky=NS)
-                
-                # set frame resize priorities
-                f.rowconfigure(0, weight=1)
-                f.columnconfigure(0, weight=1)
-
-                # configure column headings
-                for c in dataCols:
-                    tree.heading(c, text=c.title())            
-                    
-                # add data to the tree 
-                for item in f3sortedData: 
-                    tree.insert('', 'end', values=item)
-            
-            popup = create_treeview(sortDataWindow)
-            sortDataWindow.protocol("WM_DELETE_WINDOW", sortDataWindow.destroy)
-
-            sortDataWindow.mainloop()
-
-
-
-            '''
-            scrollbar = Scrollbar(sortDataFrame)
-            scrollbar.grid(sortDataFrame,row=0,column=1,rowspan=2)
-            listbox = Listbox(sortDataFrame)
-            listbox.grid(sortDataFrame,row=0,column=0,rowspan=2)
-            for i in range(len(f3sortedData)):
-                listbox.insert(END,f3sortedData[i])
-            # bind listbox to scrollbar
-            listbox.config(yscrollcommand=scrollbar.set)
-            scrollbar.config(command=listbox.yview)
-            '''
-
+    def f3sortData(path,order):
+        f3sortedData = function3.sortTotalAward(path,order)
+        sortDataWindow = Tk()
+        treeFrame = newFrame(sortDataWindow,2,2)
+        treeFrame.pack(side=TOP, fill=BOTH, expand=Y)
+        treeFrame.rowconfigure(0, weight=1)
+        treeFrame.columnconfigure(0, weight=1)
+        sortDataWindow.protocol("WM_DELETE_WINDOW", sortDataWindow.destroy)
+        # create the tree and scrollbars
+        treeHeaders = ('Agency', 'Total Spending')        
+        tree = ttk.Treeview(treeFrame,columns=treeHeaders,show = 'headings',selectmode='none')
+        ysb = ttk.Scrollbar(treeFrame,orient=VERTICAL, command= tree.yview)
+        tree['yscroll'] = ysb.set
+        # add tree and scrollbars to frame
+        tree.grid(row=0, column=0, sticky=NSEW)
+        ysb.grid(row=0, column=1, sticky=NS)
+        # configure column headings
+        for header in treeHeaders:
+            tree.heading(header, text=header.title())            
+        # add data to the tree 
+        for row in f3sortedData:
+            tree.insert('', 'end', values=row, tags="row")
+        tree.tag_configure('row',background=colors['darkblue'], foreground="white")
+        treeFrame.configure(background=colors['darkblue'])
+        sortDataWindow.mainloop()
         
 
-        landingFrame.destroy()
-        frame2 = newFrame(tkWindow,2,2)
-        frame2.grid_columnconfigure(0, weight=1)
-        frame2.grid_columnconfigure(3, weight=1)
-#        frame2.grid_columnconfigure(2, weight=1)
-        #dataSet = tkLabel(frame2,"Total Agencies: "+str(len(f2splitAgencies['agencies'])))
-        #tkGrid(dataSet,0,0,3)
-        headerMsg = tkLabel(frame2,"View spending by Agency")
-        tkGrid(headerMsg,0,0)
-        sortAsc = tkLabel(frame2,"Sort Ascending",'blue')
-        tkGrid(sortAsc,0,1)
-        sortAsc.bind("<Button-1>", lambda x: f3sortData("asc"))
-        sortDsc = tkLabel(frame2,"Sort Descending",'blue')
-        tkGrid(sortDsc,0,2)
-        sortDsc.bind("<Button-1>", lambda x: f3sortData("desc"))
+        
 
 
     tkWindow = Tk()

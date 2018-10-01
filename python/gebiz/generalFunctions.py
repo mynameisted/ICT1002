@@ -10,3 +10,4 @@ sortedSpending = []
 #Functions
 def quit(reason="Error Occured. Please try again."):
     sys.exit(reason)
+

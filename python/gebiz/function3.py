@@ -4,15 +4,15 @@ import generalFunctions
 agencyTotalSpending = {}
 
 #Define the function, set default argument to 'asc' if not given
-def sortTotalAward(sortOrder="asc"):
+def sortTotalAward(data,sortOrder="asc"):
 	#Loop through each agency in the full list of agencies
-	for agency in generalFunctions.gebizKeys:
+	for agency in data:
 		#Reset variable to 0
 		totalSpending = 0
 		#Looping through every record for current agency
-		for row in range(len(generalFunctions.gebizData[agency])):
+		for row in range(len(data[agency])):
 			#Add each awarded amount to get the cumulative total spending for the agency
-			totalSpending += float(generalFunctions.gebizData[agency][row]['awarded_amt'])
+			totalSpending += float(data[agency][row]['awarded_amt'])
 		#Format total spending to 2 decimal point precision and append into dictionary
 		agencyTotalSpending[agency] = float(format(totalSpending, '.2f'))
 	#Do a 1 time sort of the dictionary into a list of tuples.
