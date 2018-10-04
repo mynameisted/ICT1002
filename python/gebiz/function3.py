@@ -1,5 +1,3 @@
-import generalFunctions
-
 #Dictionary variable creation
 agencyTotalSpending = {}
 
@@ -23,7 +21,4 @@ def sortTotalAward(data,sortOrder="asc"):
 	elif sortOrder == 'desc':
 		#Reverse the list of tuples
 		sortedSpending.reverse()
-	else:
-		generalFunctions.quit("Invalid argument passed for Function 3.")
-	generalFunctions.sortedSpending = sortedSpending
-	return (sortedSpending)
+	return sortedSpending

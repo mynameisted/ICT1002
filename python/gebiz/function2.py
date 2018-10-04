@@ -1,7 +1,8 @@
 import csv
 import os
 from itertools import groupby
-import generalFunctions
+
+gebizDataDict ={}
 
 def createFolder(directory):
     try:
@@ -29,13 +30,12 @@ def sortGovAgency(path):
         oFile = open(strPath, 'w')
         newList = list(v)
         dAgency.append(k)                  #Store all Agency names into list: dAgency
-        generalFunctions.gebizData[k] = newList
+        gebizDataDict[k] = newList
         keys = newList[0].keys()
         dict_writer = csv.DictWriter(oFile, keys)
         dict_writer.writeheader()
         dict_writer.writerows(newList)
     print"Data extracted!"
-    generalFunctions.gebizKeys = dAgency
     gFile.close()
     oFile.close()
-    return {'dir': newFolder, 'agencies': dAgency, 'filetype': fType}
+    return gebizDataDict
