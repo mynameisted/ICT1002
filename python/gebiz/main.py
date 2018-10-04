@@ -1,6 +1,8 @@
 import function1
 import function2
 import function3
+import function4
+import function4new
 from Tkinter import *
 import ttk
 import sys
@@ -124,6 +126,8 @@ def main():
 			#Bind Function 2 to button
 			processFileBtn.bind("<Button-1>", lambda x: f2processCSV())
 
+
+
 	#Function 2 - Process CSV. This exports the data into individual txt files by agency. 
 	def f2processCSV():
 		try:
@@ -150,6 +154,8 @@ def main():
 		except:
 			#If Error, trigger errorDialog popup GUI.
 			errorDialog("Error processing the Gebiz Procurement CSV file. \nPlease select the correct file.")
+
+
 
 	#Function 3 - Sort Total Spending. This calculates the total spending of each agency, and sorts the data. 
 	def f3sortData(data,order):
