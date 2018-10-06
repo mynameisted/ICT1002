@@ -38,4 +38,4 @@ def sortGovAgency(path):
     print"Data extracted!"
     gFile.close()
     oFile.close()
-    return gebizDataDict
+    return {"gebizData":gebizDataDict, "directory":newFolder}

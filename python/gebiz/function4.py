@@ -1,44 +1,52 @@
 import csv
-'''(get master contract data AND registered contract data first), get master award data'''
 
 
-def get_contractor_data(regconfilepath):
-    mastercontdata = []  # blank list to store dicts of master contractor data
-    with open('regconfilepath','rU') as f:  # read one line at a time from registered-contractors.csv
-        reader = csv.DictReader(f)  # dictionary initialized
-        for row in reader:  # for every row in reader
-            row['company_name'] = row['company_name'].replace('.', '').replace('  ', ' ').upper()
-            mastercontdata.append(row)
-    return mastercontdata
+def initializeexceldata(awardfilepath, regconfilepath):
+    # initialize master data, name lists
+        masterawarddata = []  # blank list for dictionaries of award data
+        mastercontdata = []  # blank list for dictionaries of contractor data
+
+        regcontnames = []  # blank list for registered contractor names
+        regcontnamesawarded = []  # blank list for awarded registered contractor names
+        contnames_awarded_notreg = []  # blank list for awarded, but not registered contractor names
+
+        dictregcontractors_awarded = []  # blank list for dictionaries of awarded registered contractors
+        dictnotregcontractors_awarded = []  # blank list for dictionaries of awarded, but not registered contractors
+        print "Processing"
+        with open(regconfilepath, 'rU') as f:  # read contractor csv file row by row
+            reader = csv.DictReader(f)  # initialize a temporary dict
+            for row in reader:  # read every row in reader
+                # modify the names to a standardized format
+                row['company_name'] = row['company_name'].replace('.', '').replace('  ', ' ').upper()
+                mastercontdata.append(row)  # insert row into master contractor data dict
+                if row['company_name'] not in regcontnames:  # store unique names into regcontnames
+                    regcontnames.append(row['company_name'])
+
+        with open(awardfilepath, 'rU') as f:
+            reader = csv.DictReader(f)  # initialize a temporary dict
+            for row in reader:  # read every row in reader
+                # modify the names to a standardized format
+                row['supplier_name'] = row['supplier_name'].replace('.', '').replace('  ', ' ').upper()
+                masterawarddata.append(row)  # insert row of data into master award data dict
+                if row['supplier_name'] in regcontnames:  # awarded supplier is a registered contractor
+                    dictregcontractors_awarded.append(row)
+                    if row['supplier_name'] not in regcontnamesawarded:
+                        # store unique names into regcontnamesawarded
+                        regcontnamesawarded.append(row['supplier_name'])
+                elif row['supplier_name'] != 'NA':  # awarded supplier is not a registered contractor
+                    dictnotregcontractors_awarded.append(row)
+                    if row['supplier_name'] not in contnames_awarded_notreg:
+                        # store unique names into contnames_awarded_notreg
+                        contnames_awarded_notreg.append(row['supplier_name'])
+        print "Completed"
+        return {'masteraward': masterawarddata, 'mastercont': mastercontdata, 'regcont': regcontnames,
+                'awdregcontnames': regcontnamesawarded, 'awdnotregcontnames': contnames_awarded_notreg,
+                'dictregconts': dictregcontractors_awarded, 'dictnotregconts': dictnotregcontractors_awarded}
 
 
-def get_award_data(awardfilepath):
-    with open('awardfilepath', 'rU') as f:  # read one line at a time from awarded-contractors.csv
-        reader = csv.DictReader(f)  # dictionary initialized
-        masterawardData = [] # blank list to store master award data
-        i = 1
-        for row in reader:  # for every row in reader
-            row['supplier_name'] = row['supplier_name'].replace('.','').replace('  ',' ').upper()
-            if row['supplier_name'] in regcontdata:
-                masterawardData.append(row)
-    return masterawardData
-
-
-def splitconts(masterawardData, mastercontdata):
-        listAwdRegConts = []  # list for awarded registered contractors
-        listNotRegConts = []  # list for non registered contractors
-        for i in range(len(mastercontdata)):  # append listAwdRegConts with contractor names found in both lists
-            if mastercontdata[i]['company_name'] in masterawardData:
-                if mastercontdata[i]['company_name'] not in listAwdRegConts:
-                    listAwdRegConts.append(mastercontdata[i]['company_name'])
-                else: # company name already exists in listAwdRegConts
-                    continue
-            else:  # append listNotRegConts if contractor name not found in both lists
-                listNotRegConts.append(mastercontdata[i]['company_name'])
-        return listAwdRegConts, listNotRegConts
-
-
-def listawardedregisteredcontractors(listAwdRegConts):
+def listawardedregisteredcontractors(masterdict):
+    # list awarded registered contractors
+        listAwdRegConts = masterdict['awdregcontnames']
         if len(listAwdRegConts) == 0:  # no awarded registered contractors
             print "There are no awarded registered contractors."
         else:  # print out all awarded registered contractors in order
