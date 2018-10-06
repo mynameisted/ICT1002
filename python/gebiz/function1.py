@@ -5,5 +5,4 @@ def selectFile():
     filePathSplit = filePath.split("/")
     filePathSemi = "/".join(filePathSplit[0:len(filePathSplit)-1])
     fileName = filePathSplit[len(filePathSplit)-1]
-#    fileName = filePath.split("/")[-1]
-    return {'path':filePath,'semiPath':filePathSemi,'filename':fileName}
+    return {'path':filePath,'relativeFolder':filePathSemi,'filename':fileName}
