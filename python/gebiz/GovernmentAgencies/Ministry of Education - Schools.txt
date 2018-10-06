@@ -1,5 +1,0 @@
-tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
-MOESCHETT15000001,2016-05-25,"For the Supply, Delivery, Installation, Testing and Commissioning of Hybrid Convertible Windows Based Tablets",Ministry of Education - Schools,0,Awarded to No Suppliers,na
-MOESCHETT16000001,2016-07-08,"FOR THE PROVISION OF MAINTENANCE, SUBSCRIPTION AND HOSTING OF THE DUNMAN HIGH INFORMATION SYSTEM (DHIS)",Ministry of Education - Schools,409990.7,Awarded to Suppliers,ST ELECTRONICS (TRAINING & SIMULATION SYSTEMS) PTE. LTD.
-MOESCHETT16000002,2016-09-20,For Supply and Delivery of 107 Hybrid Tablet-Laptops (inclusive of min. 12 months' on-site warranty) with option to purchase additional 50 units and extended warranty up to 157 units.,Ministry of Education - Schools,220428,Awarded to Suppliers,JK Technology Pte Ltd
-MOESCHETT16000003,2017-01-06,Supply and Delivery of Tablet Computers with Warranty for Montfort Secondary Sch,Ministry of Education - Schools,0,Awarded to No Suppliers,na

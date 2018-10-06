@@ -1,5 +1,0 @@
-tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
-PTC000ETT16000002,2017-02-27,Conduct a Survey,Public Transport Council,142005,Awarded to Suppliers,RESEARCH PLUS PTE LTD
-PTC000ETT17000004,2017-07-05,Supply of services for conducting street-interception interviews,Public Transport Council,305500,Awarded to Suppliers,MEDIA RESEARCH CONSULTANTS PTE LTD
-PTC000ETT17000005,2017-05-02,Minor renovation works to office premises at 510 Thomson Road #12-03/04/05 Singapore 298135,Public Transport Council,116290,Awarded to Suppliers,CONCEPT ELEMENTS PTE. LTD.
-PTC000ETT17000008,2017-08-17,"For the supply of services for conducting street intercept surveys, analysis and reporting.",Public Transport Council,272400,Awarded to Suppliers,NEXUS LINK PTE. LTD.

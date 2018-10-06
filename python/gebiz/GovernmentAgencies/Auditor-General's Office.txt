@@ -1,3 +1,0 @@
-tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
-AGO000ETT15000001,2015-02-17,"Minor Addition And Alteration, with Design Adaption Works to Auditor-General's Office",Auditor-General's Office,72780,Awarded to Suppliers,E.ID PROJECTS PTE. LTD.
-AGO000ETT16000001,2017-05-26,"Supply, Delivery, Design, Development, Installation, Migration, Testing, Training and Commissioning of A Fully Operational AGO Intranet System with the option for Maintenance.",Auditor-General's Office,951600,Awarded to Suppliers,Total eBiz Solutions Pte Ltd

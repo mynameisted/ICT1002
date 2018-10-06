@@ -1,8 +1,0 @@
-tender_no.,award_date,tender_description,agency,awarded_amt,tender_detail_status,supplier_name
-IST000ETT15000001,2015-07-09,Invitation To Tender For Food Catering For National Day Reception Party On 10 August 2015 At 8pm At Istana Lawn,Istana,104280,Awarded to Suppliers,CONRAD CENTENNIAL SINGAPORE
-IST000ETT15000002,2015-07-06,Air-con Tentage Set Up For National Day Reception Party on 10 August 2015 at Istana Lawn,Istana,138880,Awarded to Suppliers,SENG HENG TENTAGE RENTALS PTE. LTD.
-IST000ETT15000003,2015-09-04,"Invitation To Tender For Food Catering For 2015 National Day Investiture On Sunday 8 November 2015 At 5pm At University Cultural Centre, National University of Singapore",Istana,106480,Awarded to Suppliers,Marina Mandarin
-IST000ETT16000004,2016-09-27,"Invitation To Tender for Food Catering For National Day Investiture On 6 November 2016 at University Cultural Centre,National University of Singapore",Istana,105380,Awarded to Suppliers,CONRAD CENTENNIAL SINGAPORE
-IST000ETT17000001,2017-07-17,Food Catering For National Day Reception Day Party On 10 August 2017 at Istana,Istana,96250,Awarded to Suppliers,Marina Mandarin
-IST000ETT17000002,2017-07-17,Air-con Tentage Set Up For National Day Reception Party On 10 August 2017 at Istana,Istana,152800,Awarded to Suppliers,SENG HENG TENTAGE RENTALS PTE. LTD.
-IST000ETT17000006,2017-10-12,Food Catering for National Day Investiture On 5 November 2017,Istana,98450,Awarded to Suppliers,Marina Mandarin
