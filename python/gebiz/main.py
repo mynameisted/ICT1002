@@ -10,7 +10,7 @@ import function4
 import function6
 
 #Dictionary of color schemes
-colors = {"blue":"#3598dc","red":"#c1392d","green":"#27ae61","lightgray":"#d6d8d9","darkgray":"#58606b","darkblue":"#202b3d"}
+colors = {"blue":"#3598dc","red":"#c1392d","green":"#27ae61","lightgray":"#d6d8d9","darkgray":"#58606b","darkblue":"#202b3d","tinteddarkblue":"#2e3d55"}
 #Function 1 returned results - {'path':filePath,'relativeFolder':filePathSemi,'filename':fileName}
 f1gebizCSV = {}
 #Function 1 returned results - {'path':filePath,'relativeFolder':filePathSemi,'filename':fileName}
@@ -45,14 +45,14 @@ def tkGrid(target,r,c=None,cs=None,padx="5",pady="10",ipadx="10",ipady="5",stick
 
 #Creates a new tkinter frame within a pre-declared parent TK Window 
 class newFrame(Frame):
-	def __init__(self, parent, w, h, windowTitle="GeBIZ Analyzer V1.0 - 2018", resize=FALSE):
+	def __init__(self, parent, w, h, windowTitle="GeBIZ Analyzer V1.0 - 2018"):
 		#Initialise frame with basic settings
 		Frame.__init__(self, parent, background=colors['darkblue'])
 		self.parent = parent
 		#Set Title of the parent window
 		self.parent.title(windowTitle)
 		#Decide if window will be resizable or not
-		self.parent.resizable(width=resize, height=resize)
+		#self.parent.resizable(width=resize, height=resize)
 		#Set parent icon bitmap
 		self.parent.iconbitmap('gebiz.ico')
 		self.style = ttk.Style()
@@ -141,7 +141,7 @@ def errorDialog(message="Unexpected Error encountered!\nPlease try again later!"
 	exitBtn.bind("<Button-1>", quit)
 	#Bind function to exit entire program if user closes the error window instead
 	tkError.protocol("WM_DELETE_WINDOW", quit)
-	#All GUI code for the error window shall be above this line.
+	#All GUI code for the window shall be above this line.
 	error_window.mainloop()
 
 #Regular Informational pop-up window - Able to pass a message in, and clicks continue to dismiss window.
@@ -163,7 +163,7 @@ def popupDialog(message):
 	tkGrid(continueBtn,1,0)
 	#Bind function to destroy the popup window when the user clicks the button
 	continueBtn.bind("<Button-1>", lambda x:tkPopup.destroy())
-	#All GUI code for the error window shall be above this line.
+	#All GUI code for the window shall be above this line.
 	popup_Window.mainloop()
 
 #Informational Explorer pop-up window - Able to pass a message in, with the option to open specified directories in the file explorer
@@ -191,7 +191,7 @@ def popUpExplorerDialog(message, relativeFolder,directory):
 	tkGrid(continueBtn,1,1,sticky="EW")
 	#Bind function to destroy the popup window when the user clicks the button
 	continueBtn.bind("<Button-1>", lambda x:tkExplorerWindow.destroy())
-	#All GUI code for the error window shall be above this line.
+	#All GUI code for the window shall be above this line.
 	tkExplorerWindow.mainloop()
 
 
@@ -199,12 +199,12 @@ def popUpExplorerDialog(message, relativeFolder,directory):
 #Main Function
 def main():
 
-	#Main Menu GUI - Prerequisite Options
+	#Main Menu GUI - Pre-processing of GeBiz Data
 	def mainMenu():
 		#Destroy the initial landing page GUI frame
 		landingFrame.destroy()
 		#Initialise new GUI frame in the window
-		mainMenuFrame = newFrame(tkWindow,1.5,1.5)
+		mainMenuFrame = newFrame(tkWindow,1.25,1.25)
 		mainMenuFrame.grid_columnconfigure(0, weight=1)
 		mainMenuFrame.grid_columnconfigure(1, weight=1)
 		mainMenuFrame.grid_columnconfigure(2, weight=1)
@@ -212,73 +212,90 @@ def main():
 		#Header message - Main Menu
 		mainMenuMsg = tkLabel(mainMenuFrame, "MAIN MENU")
 		mainMenuMsg.config(font=("Arial 14"))
-		tkGrid(mainMenuMsg,0,0,cs=4,pady=30)
+		tkGrid(mainMenuMsg,0,0,cs=4,pady=20)
 
-		#Create and grid first option (pre-requisite before other options)
-		#Create the grid the label for function 2
+		#Create section header for Gebiz Functions
+		gebizSectionHeader = tkLabel(mainMenuFrame, "GeBiz Procurement Data","tinteddarkblue")
+		tkGrid(gebizSectionHeader, 1,0,cs=4,pady=10,sticky="EW")
+
+		#Create and grid the label for function 2 - Split CSV, write to file
 		f2SplitAgencyMsg = tkLabel(mainMenuFrame, "Analyse GeBiz awarded data")
-		tkGrid(f2SplitAgencyMsg,1,0)
-		#Create and grid the button for function 2
+		tkGrid(f2SplitAgencyMsg,2,0)
+		#Create and grid the button for function 2 - Split CSV, write to file
 		f2SplitAgencyBtn = tkLabel(mainMenuFrame, "Process File","blue")
-		tkGrid(f2SplitAgencyBtn,1,1,sticky="EW")
+		tkGrid(f2SplitAgencyBtn,2,1,sticky="EW")
 		#Bind function 2 to the button.
 		f2SplitAgencyBtn.bind("<Button-1>", lambda x: f2processCSV(f1gebizCSV['path'],mainMenuFrame))
 
-	#Main Menu GUI Part 2 - Extended Options
-	def mainMenu2(mainMenuFrame):
+		#Create section header for Contractor Functions
+		conSectionHeader = tkLabel(mainMenuFrame, "Registered/Unregistered Contractor Data","tinteddarkblue")
+		tkGrid(conSectionHeader, 5,0,cs=4,pady=15,sticky="EW")
+		#Create and grid the label for function 4 - Process contractor data, and list registered contractors
+		processConMsg = tkLabel(mainMenuFrame, "Analyze contractor data")
+		tkGrid(processConMsg,6,0)
+		#Create and grid the button for function 4 - Process contractor data, and list registered contractors
+		processConBtn = tkLabel(mainMenuFrame, "Process File","blue")
+		tkGrid(processConBtn,6,1,sticky="EW")
+		#Bind function 4 - Process Registered/Unregistered contractor data, and list registered contractors
+		processConBtn.bind("<Button-1>", lambda x: f4PreProcessCon(f1gebizCSV['path'],f1regConCSV['path'],mainMenuFrame))
+	
+	#Main Menu GUI Part 2 - Gebiz Functions (After processing Gebiz Data)
+	def mainMenuGebiz(mainMenuFrame):
 		#Grid the rest of the main menu
 
 		#Create and grid the labels and buttons for function 3 - View total spending of each agency
-		f3agencySpendingLabel = tkLabel(mainMenuFrame,"View GeBiz total spending by Agency")
-		tkGrid(f3agencySpendingLabel,2,0)
+		f3agencySpendingLabel = tkLabel(mainMenuFrame,"View total tender value issed by every agency")
+		tkGrid(f3agencySpendingLabel,3,0)
 		f3agencySpendingSortAsc = tkLabel(mainMenuFrame,"Sort Ascending",'blue')
-		tkGrid(f3agencySpendingSortAsc,2,1,sticky="EW")
+		tkGrid(f3agencySpendingSortAsc,3,1,sticky="EW")
 		f3agencySpendingSortDsc = tkLabel(mainMenuFrame,"Sort Descending",'blue')
-		tkGrid(f3agencySpendingSortDsc,2,2,sticky="EW")
+		tkGrid(f3agencySpendingSortDsc,3,2,sticky="EW")
 		#Bind Function 3 to button - Sort Total Spending by ascending 
 		f3agencySpendingSortAsc.bind("<Button-1>", lambda x: f3sortData(f2gebizData['gebizData'],"asc"))
 		#Bind Function 3 to button - Sort Total Spending by descending 
 		f3agencySpendingSortDsc.bind("<Button-1>", lambda x: f3sortData(f2gebizData['gebizData'],"desc"))
 
+		#Create and grid the labels and buttons for function 6 - Categorize gov sector
+		f6viewGroupedSpendingMsg = tkLabel(mainMenuFrame,"View total tender value issued by Government Sector")
+		tkGrid(f6viewGroupedSpendingMsg,4,0)
+		f6viewGroupedSpendingBtn = tkLabel(mainMenuFrame,"View Chart",'blue')
+		tkGrid(f6viewGroupedSpendingBtn,4,1,sticky="EW")
+		#Bind Function 6 to button - Group gov sectors and display a graph.
+		f6viewGroupedSpendingBtn.bind("<Button-1>", lambda x: f6categorizeAgency(f1gebizCSV['filename']))
+
+	#Main Menu GUI Part 2 - Contractor Functions (After processing Contractor Data)
+	def mainMenuCon(mainMenuFrame):
 		#Create and grid the labels and buttons for function 4 - Process and list registered contractors
-		f4listRegConMsg = tkLabel(mainMenuFrame,"View Awarded Registered Contractors' Names")
-		tkGrid(f4listRegConMsg,3,0)
-		f4listRegConBtn = tkLabel(mainMenuFrame,"Sort Ascending",'blue')
-		tkGrid(f4listRegConBtn,3,1,sticky="EW")
+		f4listRegConMsg = tkLabel(mainMenuFrame,"View names of awarded registered contractors")
+		tkGrid(f4listRegConMsg,7,0)
+		f4listRegConBtn = tkLabel(mainMenuFrame,"View List",'blue')
+		tkGrid(f4listRegConBtn,7,1,sticky="EW")
 		#Bind Function 4 to button - View Registered Contractors
-		f4listRegConBtn.bind("<Button-1>", lambda x: f4ProcessRegCon(f1gebizCSV['path'],f1regConCSV['path']))
+		f4listRegConBtn.bind("<Button-1>", lambda x: f4ProcessRegCon(f4conData['awdregcontnames']))
 
 		#Create and grid the labels and buttons for function 5 - View Registered Contractor Award data
-		f5regConAwardMsg = tkLabel(mainMenuFrame,"View Registered Contractors' Award Values")
-		tkGrid(f5regConAwardMsg,4,0)
+		f5regConAwardMsg = tkLabel(mainMenuFrame,"View total awarded tender value to registered contractors")
+		tkGrid(f5regConAwardMsg,8,0)
 		f5regConAwardBtn = tkLabel(mainMenuFrame,"View All",'blue')
-		tkGrid(f5regConAwardBtn,4,1,sticky="EW")
+		tkGrid(f5regConAwardBtn,8,1,sticky="EW")
 		#Bind Function 5 to button - View Registered Contractor awarded data
 		#f5regConAwardBtn.bind("<Button-1>", lambda x: pass)
 		f5regConAwardTop5Btn = tkLabel(mainMenuFrame,"View Top 5",'blue')
-		tkGrid(f5regConAwardTop5Btn,4,2,sticky="EW")
+		tkGrid(f5regConAwardTop5Btn,8,2,sticky="EW")
 		#Bind Function 5 to button - View Top 5 Registered Contractor awarded data
 		#f5regConAwardTop5Btn.bind("<Button-1>", lambda x: pass)
 
 		#Create and grid the labels and buttons for function 5 - View Unregistered Contractor Award data		
-		f5unregConAwardMsg = tkLabel(mainMenuFrame,"View Unregistered Contractors' Award Values")
-		tkGrid(f5unregConAwardMsg,5,0)
+		f5unregConAwardMsg = tkLabel(mainMenuFrame,"View total awarded tender value to unregistered contractors")
+		tkGrid(f5unregConAwardMsg,9,0)
 		f5unregConAwardBtn = tkLabel(mainMenuFrame,"View All",'blue')
-		tkGrid(f5unregConAwardBtn,5,1,sticky="EW")
+		tkGrid(f5unregConAwardBtn,9,1,sticky="EW")
 		#Bind Function 5 to button - View Unregistered Contractor awarded data
 		#f5unregConAwardBtn.bind("<Button-1>", lambda x: pass)
 		f5unregConAwardTop5Btn = tkLabel(mainMenuFrame,"View Top 5",'blue')
-		tkGrid(f5unregConAwardTop5Btn,5,2,sticky="EW")
+		tkGrid(f5unregConAwardTop5Btn,9,2,sticky="EW")
 		#Bind Function 5 to button - View Top 5 Unregistered Contractor awarded data
 		#f5unregConAwardTop5Btn.bind("<Button-1>", lambda x: pass)
-
-		#Create and grid the labels and buttons for function 6 - Categorize gov sector
-		f6viewGroupedSpendingMsg = tkLabel(mainMenuFrame,"View Categorized Spending by Gov Sector")
-		tkGrid(f6viewGroupedSpendingMsg,6,0)
-		f6viewGroupedSpendingBtn = tkLabel(mainMenuFrame,"View Chart",'blue')
-		tkGrid(f6viewGroupedSpendingBtn,6,1,sticky="EW")
-		#Bind Function 6 to button - Group gov sectors and display a graph.
-		f6viewGroupedSpendingBtn.bind("<Button-1>", lambda x: f6categorizeAgency(f1gebizCSV['filename']))
 
 	#Function 1 - Choose CSV file
 	def f1chooseCSV(source):
@@ -325,61 +342,114 @@ def main():
 			#Binds the Main Menu function to run on click.
 			csvProceedBtn.bind("<Button-1>", lambda x: mainMenu())
 
-#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/
-
-#To add comments and documentation for function 2,3,4,6
 
 	#Function 2 - Process CSV. This exports the data into individual txt files by agency. 
 	def f2processCSV(path,mainMenuFrame):
 		try:
+			#Global variable to store returned results of the function
 			global f2gebizData
 			#Execute Function 2 - Split files
 			f2gebizData = function2.sortGovAgency(path)
 		except:
 			#If Error, trigger errorDialog popup GUI.
-			errorDialog("Error processing the Gebiz Procurement CSV file. Please ensure you select the right file, and try again later.")
-		mmThread = Thread(target = mainMenu2(mainMenuFrame))
+			errorDialog("Error processing the Gebiz Procurement CSV file. Please select the right file and try again later.")
+		#Use multi-threading to asynchronously execute two functions at the same time
+		#Create and display the extended functions for the Gebiz section
+		mmThread = Thread(target = mainMenuGebiz(mainMenuFrame))
 		mmThread.daemon = True
+		#Create a popup for files created and the directory, and let user click to open the folder.
 		splitFeedbackThread =Thread(target = popUpExplorerDialog(str(len(f2gebizData['agencies']))+' agency-level data files created successfully at the following location:\n\n'+f2gebizData['directory'],f1gebizCSV['relativeFolder'],f2gebizData['directory']))	
 		splitFeedbackThread.daemon = True
+		#Start both threads 
 		mmThread.start()
 		splitFeedbackThread.start()
 
 	#Function 3 - Sort Total Spending. This calculates the total spending of each agency, and sorts the data. 
 	def f3sortData(data,order):
 		try:
+			#Global variable to store returned results of the function
 			global f3gebizSortedSpending
 			#Execute Function 3 - Sort Total Awards
 			f3gebizSortedSpending = function3.sortTotalAward(data,order)
 			#Initialise a new window and frame for displaying the sorted data
 			sortDataWindow = Tk()
+			#Initialise new frame for the data
 			sortDataFrame = newFrame(sortDataWindow,2,2)
+			#Initialise new treeView for displaying multi-column data
 			sortedDataTree = treeView(sortDataFrame,sortDataWindow,["Agency","Total Spending($)"], f3gebizSortedSpending)
+			#All GUI code for the window shall be above this line.
 			sortDataWindow.mainloop()
 		except:
+			#If Error, trigger errorDialog popup GUI.
 			errorDialog("Error displaying the sorted GeBiz Procurement information. Please try again later.")
 
-	def f4ProcessRegCon(gebizPath,regConPath):
+	#Function 4a - Process registered contractors 
+	def f4PreProcessCon(gebizPath,regConPath,mainMenuFrame):
 		try:
+			#Global variable to store returned results of the function
 			global f4conData
+			#Execute Function 4 - Process contractor data, lists registered contractors
 			f4conData = function4.initializeexceldata(gebizPath,regConPath)
+			#Create and display the extended functions for the Contractor section		
+			mainMenuCon(mainMenuFrame)
+		except:
+			#If Error, trigger errorDialog popup GUI.
+			errorDialog("Error processing the Gebiz & Registered Contractors CSV file. Please select the right files and try again later.")
+
+	#Function 4b - Displays the list of registered contractors' names. 
+	def f4ProcessRegCon(data):
+		try:
+			#Initialise a new window and frame for displaying the registered contractors
 			regConWindow = Tk()
+			#Initialise new frame for the data
 			regConFrame = newFrame(regConWindow,2,2)
-			regConTree = tkList(regConFrame,regConWindow,['Awarded Registered Contractors'], f4conData['awdregcontnames'])
+			#Initialise new listbox for displaying single-column data
+			regConTree = tkList(regConFrame,regConWindow,['Awarded Registered Contractors'],data)
+			#All GUI code for the window shall be above this line.
 			regConWindow.mainloop()
 		except:
-			errorDialog("Error processing the Registered Contractors CSV file. Please ensure you select the right file, and try again later.")
+			#If Error, trigger errorDialog popup GUI.
+			errorDialog("Error displaying the registered contractors. Please try again later.")
 
+
+#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+#						Not Completed						#
+#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+	#Function 5a - Calculates total spending of registered/unregistered contractors
+	def f5sumSpendingCon():
+		try:
+			print "Pending creation"
+		except:
+			#If Error, trigger errorDialog popup GUI.
+			errorDialog("Error processing the total awarded value of contractors. Please try again later.")
+	
+	#Function 5b - Shows the top 5 spending of registered/unregistered contractors
+	def f5sumSpendingConTop5():
+		try:
+			print "Pending creation"
+		except:
+			#If Error, trigger errorDialog popup GUI.
+			errorDialog("Error processing the top 5 awarded contractors. Please try again later.")
+
+#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+	
+	#Function 6 - Sort Total Spending. This calculates the total spending of each agency, and sorts the data. 
 	def f6categorizeAgency(path):
-		function6.recategorize(path)
-#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/--/-/
+		try:
+			#Execute function 6 - Categorize government sectors spendings and displays a chart
+			function6.recategorize(path)
+		except:
+			#If Error, trigger errorDialog popup GUI.
+			errorDialog("Error categorizing the government sectors. Please try again later.")
+
 
 
 #====================== Main - Landing GUI ======================#
 	#Initialise base GUI Window
 	tkWindow = Tk()
 	#Initialise new GUI frame
-	landingFrame = newFrame(tkWindow,1.5,1.5)
+	landingFrame = newFrame(tkWindow,1.25,1.25)
 	landingFrame.grid_columnconfigure(0, weight=1)
 	landingFrame.grid_columnconfigure(2, weight=1)
 
