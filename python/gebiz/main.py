@@ -1,12 +1,14 @@
 from Tkinter import *
 import ttk
 import sys
+import time
 import os
 from threading import Thread
 import function1
 import function2
 import function3
 import function4
+import function5
 import function6
 
 #Dictionary of color schemes
@@ -22,6 +24,7 @@ f3gebizSortedSpending = []
 #Function 4 returned results - {'masteraward': masterawarddata, 'mastercont': mastercontdata, 'regcont': regcontnames,'awdregcontnames': regcontnamesawarded, 'awdnotregcontnames': contnames_awarded_notreg,'dictregconts': dictregcontractors_awarded, 'dictnotregconts': dictnotregcontractors_awarded}
 f4conData = {}
 
+f5ConAwardData = {}
 
 #===== Project Functions =====#
 
@@ -79,8 +82,11 @@ class treeView():
 		frame.pack(side=TOP, fill=BOTH, expand=Y)
 		frame.rowconfigure(0, weight=1)
 		frame.columnconfigure(0, weight=1)
+		style = ttk.Style(frame)
+		style.theme_use("clam")
+		style.configure("Treeview", background=colors['darkblue'], foreground="white", fieldbackground=colors['darkblue'])
 		#Create new Treeview for displaying sorted data
-		tree = ttk.Treeview(frame,columns=headers,show ='headings',selectmode='none')
+		tree = ttk.Treeview(frame,columns=headers,show ='headings')
 		#Create vertical scrollbar
 		ysb = ttk.Scrollbar(frame,orient=VERTICAL, command= tree.yview)
 		tree['yscroll'] = ysb.set
@@ -94,8 +100,8 @@ class treeView():
 		for row in data:
 			tree.insert('', 'end', values=row, tags="row")
 		#Configure the colors of the rows in the treeView
-		tree.tag_configure('row',background=colors['darkblue'], foreground="white")
-		frame.configure(background=colors['darkblue'])
+		#tree.tag_configure('row',background=colors['darkblue'], foreground="white")
+		#frame.configure(background=colors['darkblue'])====================================
 		#Execute an update to the main window	
 		parent.update()
 		#Set the minimum size of the window to the current width and height
@@ -142,29 +148,31 @@ def errorDialog(message="Unexpected Error encountered!\nPlease try again later!"
 	#Bind function to exit entire program if user closes the error window instead
 	tkError.protocol("WM_DELETE_WINDOW", quit)
 	#All GUI code for the window shall be above this line.
+	ringBell()
 	error_window.mainloop()
 
 #Regular Informational pop-up window - Able to pass a message in, and clicks continue to dismiss window.
 def popupDialog(message):
 	#Initialise new Error Window frame
-	tkPopup = Tk()
+	tkPopupWindow = Tk()
 	#Initialise new GUI frame
-	popup_Window = newFrame(tkPopup,5,5)
-	popup_Window.grid_columnconfigure(0, weight=1)
-	popup_Window.grid_rowconfigure(0, weight=1)
-	popup_Window.grid_rowconfigure(1, weight=1)
+	popupFrame = newFrame(tkPopupWindow,5,5)
+	popupFrame.grid_columnconfigure(0, weight=1)
+	popupFrame.grid_rowconfigure(0, weight=1)
+	popupFrame.grid_rowconfigure(1, weight=1)
 	#Create the label with the message
-	popupMsg = tkLabel(popup_Window, message)
+	popupMsg = tkLabel(popupFrame, message)
 	#Wrap text to window width in case of overflow
-	popupMsg.config(wraplength=tkPopup.winfo_reqwidth())
+	popupMsg.config(wraplength=tkPopupWindow.winfo_reqwidth())
 	tkGrid(popupMsg,0,0)
 	#Create the continue button
-	continueBtn = tkLabel(popup_Window,"Continue","blue")
+	continueBtn = tkLabel(popupFrame,"Continue","blue")
 	tkGrid(continueBtn,1,0)
 	#Bind function to destroy the popup window when the user clicks the button
-	continueBtn.bind("<Button-1>", lambda x:tkPopup.destroy())
+	continueBtn.bind("<Button-1>", lambda x:tkPopupWindow.destroy())
 	#All GUI code for the window shall be above this line.
-	popup_Window.mainloop()
+	ringBell()
+	tkPopupWindow.mainloop()
 
 #Informational Explorer pop-up window - Able to pass a message in, with the option to open specified directories in the file explorer
 def popUpExplorerDialog(message, relativeFolder,directory):
@@ -192,13 +200,15 @@ def popUpExplorerDialog(message, relativeFolder,directory):
 	#Bind function to destroy the popup window when the user clicks the button
 	continueBtn.bind("<Button-1>", lambda x:tkExplorerWindow.destroy())
 	#All GUI code for the window shall be above this line.
+	ringBell()
 	tkExplorerWindow.mainloop()
 
-
+#Plays a bell sound when called.
+def ringBell():
+	print "\a"
 
 #Main Function
 def main():
-
 	#Main Menu GUI - Pre-processing of GeBiz Data
 	def mainMenu():
 		#Destroy the initial landing page GUI frame
@@ -271,7 +281,7 @@ def main():
 		f4listRegConBtn = tkLabel(mainMenuFrame,"View List",'blue')
 		tkGrid(f4listRegConBtn,7,1,sticky="EW")
 		#Bind Function 4 to button - View Registered Contractors
-		f4listRegConBtn.bind("<Button-1>", lambda x: f4ProcessRegCon(f4conData['awdregcontnames']))
+		f4listRegConBtn.bind("<Button-1>", lambda x: f4DisplayRegCon(f4conData['awdregcontnames']))
 
 		#Create and grid the labels and buttons for function 5 - View Registered Contractor Award data
 		f5regConAwardMsg = tkLabel(mainMenuFrame,"View total awarded tender value to registered contractors")
@@ -279,11 +289,11 @@ def main():
 		f5regConAwardBtn = tkLabel(mainMenuFrame,"View All",'blue')
 		tkGrid(f5regConAwardBtn,8,1,sticky="EW")
 		#Bind Function 5 to button - View Registered Contractor awarded data
-		#f5regConAwardBtn.bind("<Button-1>", lambda x: pass)
+		f5regConAwardBtn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewReg"))
 		f5regConAwardTop5Btn = tkLabel(mainMenuFrame,"View Top 5",'blue')
 		tkGrid(f5regConAwardTop5Btn,8,2,sticky="EW")
 		#Bind Function 5 to button - View Top 5 Registered Contractor awarded data
-		#f5regConAwardTop5Btn.bind("<Button-1>", lambda x: pass)
+		f5regConAwardTop5Btn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewRegTop5"))
 
 		#Create and grid the labels and buttons for function 5 - View Unregistered Contractor Award data		
 		f5unregConAwardMsg = tkLabel(mainMenuFrame,"View total awarded tender value to unregistered contractors")
@@ -291,11 +301,11 @@ def main():
 		f5unregConAwardBtn = tkLabel(mainMenuFrame,"View All",'blue')
 		tkGrid(f5unregConAwardBtn,9,1,sticky="EW")
 		#Bind Function 5 to button - View Unregistered Contractor awarded data
-		#f5unregConAwardBtn.bind("<Button-1>", lambda x: pass)
+		f5unregConAwardBtn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewUnreg"))
 		f5unregConAwardTop5Btn = tkLabel(mainMenuFrame,"View Top 5",'blue')
 		tkGrid(f5unregConAwardTop5Btn,9,2,sticky="EW")
 		#Bind Function 5 to button - View Top 5 Unregistered Contractor awarded data
-		#f5unregConAwardTop5Btn.bind("<Button-1>", lambda x: pass)
+		f5unregConAwardTop5Btn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewUnregTop5"))
 
 	#Function 1 - Choose CSV file
 	def f1chooseCSV(source):
@@ -355,14 +365,12 @@ def main():
 			errorDialog("Error processing the Gebiz Procurement CSV file. Please select the right file and try again later.")
 		#Use multi-threading to asynchronously execute two functions at the same time
 		#Create and display the extended functions for the Gebiz section
-		mmThread = Thread(target = mainMenuGebiz(mainMenuFrame))
-		mmThread.daemon = True
+		mmThread = Thread(target = mainMenuGebiz(mainMenuFrame)).start()
 		#Create a popup for files created and the directory, and let user click to open the folder.
-		splitFeedbackThread =Thread(target = popUpExplorerDialog(str(len(f2gebizData['agencies']))+' agency-level data files created successfully at the following location:\n\n'+f2gebizData['directory'],f1gebizCSV['relativeFolder'],f2gebizData['directory']))	
-		splitFeedbackThread.daemon = True
+		splitFeedbackThread =Thread(target = popUpExplorerDialog(str(len(f2gebizData['agencies']))+' agency-level data files created successfully at the following location:\n\n'+f2gebizData['directory'],f1gebizCSV['relativeFolder'],f2gebizData['directory'])).start()
 		#Start both threads 
-		mmThread.start()
-		splitFeedbackThread.start()
+		#mmThread.start()
+		#splitFeedbackThread.start()
 
 	#Function 3 - Sort Total Spending. This calculates the total spending of each agency, and sorts the data. 
 	def f3sortData(data,order):
@@ -397,7 +405,7 @@ def main():
 			errorDialog("Error processing the Gebiz & Registered Contractors CSV file. Please select the right files and try again later.")
 
 	#Function 4b - Displays the list of registered contractors' names. 
-	def f4ProcessRegCon(data):
+	def f4DisplayRegCon(data):
 		try:
 			#Initialise a new window and frame for displaying the registered contractors
 			regConWindow = Tk()
@@ -411,29 +419,42 @@ def main():
 			#If Error, trigger errorDialog popup GUI.
 			errorDialog("Error displaying the registered contractors. Please try again later.")
 
-
-#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
-#						Not Completed						#
-#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
-
-	#Function 5a - Calculates total spending of registered/unregistered contractors
-	def f5sumSpendingCon():
+	#Function 5 - Calculates total spending of registered/unregistered contractors
+	def f5sumSpendingCon(awardedRegConNames, awardedUnregConNames, masterAwarded,requestType):
 		try:
-			print "Pending creation"
+			#Global variable to store returned results of the function
+			global f5ConAwardData
+			#If data is empty (aka first time running)
+			if len(f5ConAwardData) ==0:
+				#Execute Function 5 - Process Award data for registered and unregistered contractors
+				f5ConAwardData = function5.top5(awardedRegConNames, awardedUnregConNames, masterAwarded)
+
+			def f5CreateTree(headers,data):
+				#Initialise a new window and frame for displaying the data
+				f5TreeWindow = Tk()
+				#Initialise new frame for the data
+				f5TreeFrame = newFrame(f5TreeWindow,2,2)
+				#Initialise new treeView for displaying multi-column data
+				f5AllRegConTree = treeView(f5TreeFrame,f5TreeWindow,headers,data)
+				#All GUI code for the window shall be above this line.
+				f5TreeWindow.mainloop()
+
+			#If request type is to view all registered contractor awards
+			if requestType == "viewReg":
+				f5CreateTree(["Registered Contractors","Total Spending($)"], f5ConAwardData['regConAwards'])
+			#If request type is to view all non-registered contractor awards
+			elif requestType == "viewUnreg":
+				f5CreateTree(["Non-Registered Contractors","Total Spending($)"], f5ConAwardData['unregConAwards'])
+			#If request type is to view Top 5 registered contractor awards
+			elif requestType == "viewRegTop5":
+				f5CreateTree(["Registered Contractors","Total Spending($)"], f5ConAwardData['top5Reg'])
+			#If request type is to Top 5 non-registered contractor awards
+			elif requestType == "viewUnregTop5":
+				f5CreateTree(["Non-Registered Contractors","Total Spending($)"], f5ConAwardData['top5Unreg'])
 		except:
 			#If Error, trigger errorDialog popup GUI.
 			errorDialog("Error processing the total awarded value of contractors. Please try again later.")
-	
-	#Function 5b - Shows the top 5 spending of registered/unregistered contractors
-	def f5sumSpendingConTop5():
-		try:
-			print "Pending creation"
-		except:
-			#If Error, trigger errorDialog popup GUI.
-			errorDialog("Error processing the top 5 awarded contractors. Please try again later.")
 
-#-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
-	
 	#Function 6 - Sort Total Spending. This calculates the total spending of each agency, and sorts the data. 
 	def f6categorizeAgency(path):
 		try:

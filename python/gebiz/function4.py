@@ -12,7 +12,7 @@ def initializeexceldata(awardfilepath, regconfilepath):
 
     dictregcontractors_awarded = []  # blank list for dictionaries of awarded registered contractors
     dictnotregcontractors_awarded = []  # blank list for dictionaries of awarded, but not registered contractors
-    print "Analyzing registered and unregistered data..."
+    print "Function 4: Analyzing contractor data.."
     with open(regconfilepath, 'rU') as f:  # read contractor csv file row by row
         reader = csv.DictReader(f)  # initialize a temporary dict
         for row in reader:  # read every row in reader
@@ -38,7 +38,7 @@ def initializeexceldata(awardfilepath, regconfilepath):
                 if row['supplier_name'] not in contnames_awarded_notreg:
                     # store unique names into contnames_awarded_notreg
                     contnames_awarded_notreg.append(row['supplier_name'])
-    print "Completed sorting of registered and unregistered data."
+    print "Function 4: Completed.."
     return {'masteraward': masterawarddata, 'mastercont': mastercontdata, 'regcont': regcontnames,
             'awdregcontnames': regcontnamesawarded, 'awdnotregcontnames': contnames_awarded_notreg,
             'dictregconts': dictregcontractors_awarded, 'dictnotregconts': dictnotregcontractors_awarded}

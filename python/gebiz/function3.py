@@ -3,6 +3,7 @@ agencyTotalSpending = {}
 
 #Define the function, set default argument to 'asc' if not given
 def sortTotalAward(data,sortOrder="asc"):
+	print "Function 3: Sorting total awards.."
 	#Loop through each agency in the full list of agencies
 	for agency in data:
 		#Reset variable to 0
@@ -21,4 +22,5 @@ def sortTotalAward(data,sortOrder="asc"):
 	elif sortOrder == 'desc':
 		#Reverse the list of tuples
 		sortedSpending.reverse()
+	print "Function 3: Completed.."
 	return sortedSpending
