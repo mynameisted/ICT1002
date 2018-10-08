@@ -28,7 +28,7 @@ def top5(regconList,nonregconList,supplyList):
         else:
             # Append non-registered contractors and the sum of their procurement amount to a list
             nonregconAmt.append(conAmt[i])
-
+    
     # Sort registered contractors according to total amount in decending
     regconAmt.sort(key=lambda x: x[1], reverse=True)
     # Sort non-registered contractors according to total amount in decending

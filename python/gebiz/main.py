@@ -13,17 +13,17 @@ import function6
 
 #Dictionary of color schemes
 colors = {"blue":"#3598dc","red":"#c1392d","green":"#27ae61","lightgray":"#d6d8d9","darkgray":"#58606b","darkblue":"#202b3d","tinteddarkblue":"#2e3d55"}
-#Function 1 returned results - {'path':filePath,'relativeFolder':filePathSemi,'filename':fileName}
+#Function 1 returned results - {'path':filePath,'filename':fileName}
 f1gebizCSV = {}
 #Function 1 returned results - {'path':filePath,'relativeFolder':filePathSemi,'filename':fileName}
 f1regConCSV = {}
-#Function 2 returned results - {"directory":newFolder,"agencies":dAgency,"gebizData":gebizDataDict}
+#Function 2 returned results - {"path":relativePath,"folder":newFolder,"agencies":dAgency,"gebizData":gebizDataDict}
 f2gebizData = {}
 #Function 3 returned results - [(Agency Name,Total Spending)..]
 f3gebizSortedSpending = []
 #Function 4 returned results - {'masteraward': masterawarddata, 'mastercont': mastercontdata, 'regcont': regcontnames,'awdregcontnames': regcontnamesawarded, 'awdnotregcontnames': contnames_awarded_notreg,'dictregconts': dictregcontractors_awarded, 'dictnotregconts': dictnotregcontractors_awarded}
 f4conData = {}
-
+#Function 5 returned results - {"regConAwards":regconAmt, "unregConAwards":nonregconAmt, "top5Reg":top5Regi, "top5Unreg":top5Nonregi}
 f5ConAwardData = {}
 
 #===== Project Functions =====#
@@ -144,9 +144,9 @@ def errorDialog(message="Unexpected Error encountered!\nPlease try again later!"
 	exitBtn = tkLabel(error_window,"Exit Program","red")
 	tkGrid(exitBtn,1,0)
 	#Bind function to exit entire program to button
-	exitBtn.bind("<Button-1>", quit)
+	exitBtn.bind("<Button-1>", lambda x:quit(message))
 	#Bind function to exit entire program if user closes the error window instead
-	tkError.protocol("WM_DELETE_WINDOW", quit)
+	tkError.protocol("WM_DELETE_WINDOW", lambda x:quit(message))
 	#All GUI code for the window shall be above this line.
 	ringBell()
 	error_window.mainloop()
@@ -209,6 +209,7 @@ def ringBell():
 
 #Main Function
 def main():
+
 	#Main Menu GUI - Pre-processing of GeBiz Data
 	def mainMenu():
 		#Destroy the initial landing page GUI frame
@@ -271,7 +272,7 @@ def main():
 		f6viewGroupedSpendingBtn = tkLabel(mainMenuFrame,"View Chart",'blue')
 		tkGrid(f6viewGroupedSpendingBtn,4,1,sticky="EW")
 		#Bind Function 6 to button - Group gov sectors and display a graph.
-		f6viewGroupedSpendingBtn.bind("<Button-1>", lambda x: f6categorizeAgency(f1gebizCSV['filename']))
+		f6viewGroupedSpendingBtn.bind("<Button-1>", lambda x: f6categorizeAgency(f1gebizCSV['path']))
 
 	#Main Menu GUI Part 2 - Contractor Functions (After processing Contractor Data)
 	def mainMenuCon(mainMenuFrame):
@@ -352,7 +353,6 @@ def main():
 			#Binds the Main Menu function to run on click.
 			csvProceedBtn.bind("<Button-1>", lambda x: mainMenu())
 
-
 	#Function 2 - Process CSV. This exports the data into individual txt files by agency. 
 	def f2processCSV(path,mainMenuFrame):
 		try:
@@ -367,7 +367,7 @@ def main():
 		#Create and display the extended functions for the Gebiz section
 		mmThread = Thread(target = mainMenuGebiz(mainMenuFrame)).start()
 		#Create a popup for files created and the directory, and let user click to open the folder.
-		splitFeedbackThread =Thread(target = popUpExplorerDialog(str(len(f2gebizData['agencies']))+' agency-level data files created successfully at the following location:\n\n'+f2gebizData['directory'],f1gebizCSV['relativeFolder'],f2gebizData['directory'])).start()
+		splitFeedbackThread =Thread(target = popUpExplorerDialog(str(len(f2gebizData['agencies']))+' agency-level data files created successfully at the following location:\n\n'+f2gebizData['folder'],f2gebizData['path'],f2gebizData['folder'])).start()
 		#Start both threads 
 		#mmThread.start()
 		#splitFeedbackThread.start()

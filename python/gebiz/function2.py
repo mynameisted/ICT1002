@@ -38,4 +38,5 @@ def sortGovAgency(path):
     print"Data extracted!"
     gFile.close()
     oFile.close()
-    return {"directory":newFolder,"agencies":dAgency,"gebizData":gebizDataDict}
+    relativePath = os.path.dirname(os.path.abspath(__file__))
+    return {"path":relativePath,"folder":newFolder,"agencies":dAgency,"gebizData":gebizDataDict}

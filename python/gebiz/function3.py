@@ -1,8 +1,11 @@
+"""This module accepts in the gebiz information and sums the 'awarded_amt' for each agency."""
+
 #Dictionary variable creation
 agencyTotalSpending = {}
 
 #Define the function, set default argument to 'asc' if not given
 def sortTotalAward(data,sortOrder="asc"):
+	"""Return value structure:[(Agency Name,Total Spending),(Agency Name,Total Spending)..]"""
 	print "Function 3: Sorting total awards.."
 	#Loop through each agency in the full list of agencies
 	for agency in data:
