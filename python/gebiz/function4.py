@@ -1,3 +1,5 @@
+"""This module accepts in the gebiz award data and the registered contractors data and processes the data into respective dictionaries.
+The primary function of this module is to return a list of the names of all registered contractors."""
 import csv
 
 

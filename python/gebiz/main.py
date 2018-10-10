@@ -1,7 +1,6 @@
 from Tkinter import *
 import ttk
 import sys
-import time
 import os
 from threading import Thread
 import function1
@@ -23,7 +22,7 @@ f2gebizData = {}
 f3gebizSortedSpending = []
 #Function 4 returned results - {'masteraward': masterawarddata, 'mastercont': mastercontdata, 'regcont': regcontnames,'awdregcontnames': regcontnamesawarded, 'awdnotregcontnames': contnames_awarded_notreg,'dictregconts': dictregcontractors_awarded, 'dictnotregconts': dictnotregcontractors_awarded}
 f4conData = {}
-#Function 5 returned results - {"regConAwards":regconAmt, "unregConAwards":nonregconAmt, "top5Reg":top5Regi, "top5Unreg":top5Nonregi}
+#Function 5 returned results - {"regConAwards":regconAmt, "unregConAwards":nonregconAmt, "regConAwardsDesc":descregconAmt,"unregConAwardsDesc":descnonregconAmt,"top5Reg":top5Regi, "top5Unreg":top5Nonregi}
 f5ConAwardData = {}
 
 #===== Project Functions =====#
@@ -290,11 +289,11 @@ def main():
 		f5regConAwardBtn = tkLabel(mainMenuFrame,"View All",'blue')
 		tkGrid(f5regConAwardBtn,8,1,sticky="EW")
 		#Bind Function 5 to button - View Registered Contractor awarded data
-		f5regConAwardBtn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewReg"))
+		f5regConAwardBtn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewReg",mainMenuFrame))
 		f5regConAwardTop5Btn = tkLabel(mainMenuFrame,"View Top 5",'blue')
 		tkGrid(f5regConAwardTop5Btn,8,2,sticky="EW")
 		#Bind Function 5 to button - View Top 5 Registered Contractor awarded data
-		f5regConAwardTop5Btn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewRegTop5"))
+		f5regConAwardTop5Btn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewRegTop5",mainMenuFrame))
 
 		#Create and grid the labels and buttons for function 5 - View Unregistered Contractor Award data		
 		f5unregConAwardMsg = tkLabel(mainMenuFrame,"View total awarded tender value to unregistered contractors")
@@ -302,11 +301,23 @@ def main():
 		f5unregConAwardBtn = tkLabel(mainMenuFrame,"View All",'blue')
 		tkGrid(f5unregConAwardBtn,9,1,sticky="EW")
 		#Bind Function 5 to button - View Unregistered Contractor awarded data
-		f5unregConAwardBtn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewUnreg"))
+		f5unregConAwardBtn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewUnreg",mainMenuFrame))
 		f5unregConAwardTop5Btn = tkLabel(mainMenuFrame,"View Top 5",'blue')
 		tkGrid(f5unregConAwardTop5Btn,9,2,sticky="EW")
 		#Bind Function 5 to button - View Top 5 Unregistered Contractor awarded data
-		f5unregConAwardTop5Btn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewUnregTop5"))
+		f5unregConAwardTop5Btn.bind("<Button-1>", lambda x: f5sumSpendingCon(f4conData['awdregcontnames'],f4conData['awdnotregcontnames'],f4conData['masteraward'],"viewUnregTop5",mainMenuFrame))
+
+	#Main Menu GUI Part 3 - Function 5 Display Chart (After processing Contractor Data)
+	def mainMenuConChart(mainMenuFrame):
+		#Create and grid the labels and buttons for function 5 - View spending chart
+		f4listRegConMsg = tkLabel(mainMenuFrame,"View proportion of smaller value tenders (< $100k)")
+		tkGrid(f4listRegConMsg,10,0)
+		f4listRegConBtn = tkLabel(mainMenuFrame,"View Chart",'blue')
+		tkGrid(f4listRegConBtn,10,1,sticky="EW")
+		#Bind Function 5 to button - View spending chart
+		f4listRegConBtn.bind("<Button-1>", lambda x: f5showChart(f5ConAwardData['regConAwards']))
+
+
 
 	#Function 1 - Choose CSV file
 	def f1chooseCSV(source):
@@ -420,7 +431,7 @@ def main():
 			errorDialog("Error displaying the registered contractors. Please try again later.")
 
 	#Function 5 - Calculates total spending of registered/unregistered contractors
-	def f5sumSpendingCon(awardedRegConNames, awardedUnregConNames, masterAwarded,requestType):
+	def f5sumSpendingCon(awardedRegConNames, awardedUnregConNames, masterAwarded,requestType,mainMenuFrame):
 		try:
 			#Global variable to store returned results of the function
 			global f5ConAwardData
@@ -428,6 +439,7 @@ def main():
 			if len(f5ConAwardData) ==0:
 				#Execute Function 5 - Process Award data for registered and unregistered contractors
 				f5ConAwardData = function5.top5(awardedRegConNames, awardedUnregConNames, masterAwarded)
+				mainMenuConChart(mainMenuFrame)
 
 			def f5CreateTree(headers,data):
 				#Initialise a new window and frame for displaying the data
@@ -454,6 +466,14 @@ def main():
 		except:
 			#If Error, trigger errorDialog popup GUI.
 			errorDialog("Error processing the total awarded value of contractors. Please try again later.")
+
+	def f5showChart(awardedRegConData):
+		#Execute function 5 - Show chart on spending
+		try:
+			function5.regconStatistic(awardedRegConData)
+		except:
+			#If Error, trigger errorDialog popup GUI.
+			errorDialog("Error displaying the chart on smaller value tenders. Please try again later.")
 
 	#Function 6 - Sort Total Spending. This calculates the total spending of each agency, and sorts the data. 
 	def f6categorizeAgency(path):
